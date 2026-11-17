@@ -17,6 +17,28 @@ work on the game's runtime structures.
 
 ---
 
+## Screenshots
+
+**Memory mode** — reads the running game directly: roster and item counts on the left,
+the selected unit's 30 slots on the right. Writes go into process memory, so the change
+is visible immediately.
+
+![Memory mode](docs/mem-panel.png)
+
+**Weapon masteries** — 13 slots, each with its own threshold ladder
+(E→S+: 0 / 20 / 35 / 80 / 220 / 440 / 690 / 910 / 1215 / 1510 / 1960 / 2560).
+Per-slot edits, "+100 to all", or "fill all (2560)".
+
+![Weapon mastery](docs/mem-mastery.png)
+
+**Item picker** — search by Chinese / Japanese / English name or internal id. Exam
+tickets, which only ever live in the material pouch, can be added from here and nowhere
+else.
+
+![Item picker](docs/mem-item-picker.png)
+
+---
+
 ## What makes this fork different
 
 | | Upstream | This fork |
@@ -112,6 +134,33 @@ check).
 * Classic mode permadeath: a fallen unit is **removed from the unit pool** when the
   battle ends. There is no flag or counter to resurrect; load an earlier save
   instead. That is why "阵亡" cannot be found anywhere in save mode.
+
+---
+
+## Where to put the exe, and how it finds your save
+
+The exe is a single file and **starts from anywhere**, with two things worth knowing:
+
+* The eight data json files and `物品代码对照表.csv` are **embedded inside the exe**, so
+  nothing has to sit beside it. But the program does read/write these **next to the exe**:
+  `editor_settings.json` (theme, last opened save folder, options), `money_sig.json`,
+  and `icons\` (item / unit icons — missing icons only means no pictures, the features
+  still work). So **do not put it in `C:\Program Files`** or any unwritable folder,
+  otherwise settings cannot be saved and you re-pick the save folder every launch.
+* **The save folder is discovered automatically**, in this order:
+
+  1. Walk up to **five levels** from the exe's own directory looking for `fefw.ini`,
+     and take its `[fs] save_dir` (default `save`) — the recompiled build's save root;
+  2. `%APPDATA%\eden\nand\user\save` (Eden emulator);
+  3. `~/.local/share/eden/nand/user/save`, `~/AppData/Roaming/eden/...`.
+
+  A folder counts as a save when it contains an `Auto` file; both the recomp layout
+  (`<root>/account/<id>/000/`) and the Eden layout
+  (`<root>/<id>/04007EF01F8AE000/000/`) are recognised.
+
+  So **unzipping the editor inside the recompiled game's directory** lets it find `save`
+  by itself. Anywhere else is fine too: on first run click **Open folder** and pick
+  `…\save\account\<id>\000` once — it is remembered in `editor_settings.json`.
 
 ---
 
