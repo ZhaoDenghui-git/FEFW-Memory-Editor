@@ -1,0 +1,2909 @@
+﻿内部编号b0b1,编号依据,物品ID,日文名,英文名,中文名
+1,实测,2f0d2589,木製の剣,Wooden Sword,木制剑
+2,实测,36102b86,木製の剣_チュートリアル,Wooden Sword,木制剑
+3,实测,01aff8d9,青銅の剣,Bronze Sword,青铜剑
+4,实测,cac4f645,鉄の剣,Iron Sword,铁剑
+5,实测,09321863,ダ・ミナの剣,Da Mina Sword,达·米纳剑
+6,实测,0333c954,銀の剣,Silver Sword,银剑
+7,实测,5a2d2012,毒の剣,Venin Edge,毒剑
+8,实测,3f18defc,斬馬刀,Zanbato,斩马刀
+9,实测,9f8fde56,キルソード,Killing Edge,必杀剑
+10,实测,6955ae36,フリッサ,Flyssa,伏力萨
+11,实测,7928b06a,サンダーソード,Levin Sword,雷电剑
+12,实测,e19f9a2d,疾風の剣,Whirlwind Blade,疾风剑
+13,实测,4205c916,グレートソード,Greatsword,巨剑
+14,实测,12d3b6aa,清めの剣,Cleansing Blade,净化剑
+15,实测,a7a48c5b,邪剣エンジュラ,Angela,邪剑怨诛拉
+16,实测,b6695885,闇剣エンジュラ,Dark Angela,暗剑怨诛拉
+17,实测,80158bbe,邪剣ヴェロキネ,Veroquine,邪剑维罗齐涅
+18,实测,e1a6d1be,邪剣フラガラッハ,Fragarach,邪剑佛拉格拉赫
+19,实测,c77f9d35,邪剣フラガラッハ_SC13_07,Fragarach,邪剑佛拉格拉赫
+20,实测,2a450b28,闇剣フラガラッハ,Dark Fragarach,暗剑佛拉格拉赫
+21,实测,c5098631,羅刹女の徹扇,Lakshashi's Iron Fan,罗刹女的彻扇
+22,实测,4e131898,羅刹女の闇徹扇,Dark Iron Fan,罗刹女的暗彻扇
+23,实测,42ad2ef3,常夜のカタラ,Long-Night Katara,常夜的卡达拉
+24,实测,05654f91,常夜のカタラ_SC16_01,Long-Night Katara,常夜的卡达拉
+25,实测,e5861d38,マーズの熱剣,Smoldering Sword,马兹之热剑
+26,实测,8e6843a5,マーズの闇剣,Shadowing Sword,马兹之暗剑
+27,实测,a9ff35ec,アンスウェラー,Answerer,安萨拉
+28,实测,1f6f18af,アンスウェラー改,Answerer Arisen,安萨拉·改
+29,实测,ebb82cab,グラディウスの大剣_SC15_08,Gladius's Greatsword,
+30,实测,ebb82ad7,グラディウスの大剣_SC15_17,Gladius's Greatsword,
+31,实测,52ac2581,グラディウスの大剣,Gladius's Greatsword,
+32,实测,814fecf3,木製の剣＋１,Wooden Sword +1,木制剑+1
+33,实测,814fecf0,木製の剣＋２,Wooden Sword +2,木制剑+2
+34,实测,814fecf1,木製の剣＋３,Wooden Sword +3,木制剑+3
+35,实测,814fecf6,木製の剣＋４,Wooden Sword +4,木制剑+4
+36,实测,814fecf7,木製の剣＋５,Wooden Sword +5,木制剑+5
+37,实测,814fecf4,木製の剣＋６,Wooden Sword +6,木制剑+6
+38,实测,814fecf5,木製の剣＋７,Wooden Sword +7,木制剑+7
+39,实测,814fecfa,木製の剣＋８,Wooden Sword +8,木制剑+8
+40,实测,814fecfb,木製の剣＋９,Wooden Sword +9,木制剑+9
+41,实测,95704023,青銅の剣＋１,Bronze Sword +1,青铜剑+1
+42,实测,95704020,青銅の剣＋２,Bronze Sword +2,青铜剑+2
+43,实测,95704021,青銅の剣＋３,Bronze Sword +3,青铜剑+3
+44,实测,95704026,青銅の剣＋４,Bronze Sword +4,青铜剑+4
+45,实测,95704027,青銅の剣＋５,Bronze Sword +5,青铜剑+5
+46,实测,e99df42f,鉄の剣＋１,Iron Sword +1,铁剑+1
+47,实测,e99df42c,鉄の剣＋２,Iron Sword +2,铁剑+2
+48,实测,e99df42d,鉄の剣＋３,Iron Sword +3,铁剑+3
+49,实测,e99df42a,鉄の剣＋４,Iron Sword +4,铁剑+4
+50,实测,e99df42b,鉄の剣＋５,Iron Sword +5,铁剑+5
+51,实测,2fb0ac39,ダ・ミナの剣＋１,Da Mina Sword +1,达·米纳剑+1
+52,实测,2fb0ac3a,ダ・ミナの剣＋２,Da Mina Sword +2,达·米纳剑+2
+53,实测,2fb0ac3b,ダ・ミナの剣＋３,Da Mina Sword +3,达·米纳剑+3
+54,实测,eafc1e2e,銀の剣＋１,Silver Sword +1,银剑+1
+55,实测,eafc1e2d,銀の剣＋２,Silver Sword +2,银剑+2
+56,实测,eafc1e2c,銀の剣＋３,Silver Sword +3,银剑+3
+57,实测,e570da6c,キルソード＋１,Killing Edge +1,必杀剑+1
+58,实测,e570da6f,キルソード＋２,Killing Edge +2,必杀剑+2
+59,实测,e570da6e,キルソード＋３,Killing Edge +3,必杀剑+3
+60,实测,36140e68,毒の剣＋１,Venin Edge +1,毒剑+1
+61,实测,36140e6b,毒の剣＋２,Venin Edge +2,毒剑+2
+62,实测,36140e6a,毒の剣＋３,Venin Edge +3,毒剑+3
+63,实测,36140e6d,毒の剣＋４,Venin Edge +4,毒剑+4
+64,实测,36140e6c,毒の剣＋５,Venin Edge +5,毒剑+5
+65,实测,a77c0746,斬馬刀＋１,Zanbato +1,斩马刀+1
+66,实测,a77c0745,斬馬刀＋２,Zanbato +2,斩马刀+2
+67,实测,a77c0744,斬馬刀＋３,Zanbato +3,斩马刀+3
+68,实测,cb281c4c,フリッサ＋１,Flyssa +1,伏力萨+1
+69,实测,cb281c4f,フリッサ＋２,Flyssa +2,伏力萨+2
+70,实测,cb281c4e,フリッサ＋３,Flyssa +3,伏力萨+3
+71,实测,0489d227,疾風の剣＋１,Whirlwind Blade +1,疾风剑+1
+72,实测,0489d224,疾風の剣＋２,Whirlwind Blade +2,疾风剑+2
+73,实测,0489d225,疾風の剣＋３,Whirlwind Blade +3,疾风剑+3
+74,实测,251f482c,グレートソード＋１,Greatsword +1,巨剑+1
+75,实测,251f482f,グレートソード＋２,Greatsword +2,巨剑+2
+76,实测,251f482e,グレートソード＋３,Greatsword +3,巨剑+3
+77,实测,3b63c390,清めの剣＋１,Cleansing Blade +1,净化剑+1
+78,实测,3b63c393,清めの剣＋２,Cleansing Blade +2,净化剑+2
+79,实测,3b63c392,清めの剣＋３,Cleansing Blade +3,净化剑+3
+80,实测,5b2d0050,サンダーソード＋１,Levin Sword +1,雷电剑+1
+81,实测,5b2d0053,サンダーソード＋２,Levin Sword +2,雷电剑+2
+82,实测,5b2d0052,サンダーソード＋３,Levin Sword +3,雷电剑+3
+83,实测,bf471de1,邪剣エンジュラ＋１,Angela +1,邪剑怨诛拉+1
+84,实测,bf471de2,邪剣エンジュラ＋２,Angela +2,邪剑怨诛拉+2
+85,实测,bf471de3,邪剣エンジュラ＋３,Angela +3,邪剑怨诛拉+3
+86,实测,6bc23b04,邪剣ヴェロキネ＋１,Veroquine +1,邪剑维罗齐涅+1
+87,实测,6bc23b07,邪剣ヴェロキネ＋２,Veroquine +2,邪剑维罗齐涅+2
+88,实测,6bc23b06,邪剣ヴェロキネ＋３,Veroquine +3,邪剑维罗齐涅+3
+89,实测,4bbf55eb,羅刹女の徹扇＋１,Lakshashi's Iron Fan +1,罗刹女的彻扇+1
+90,实测,4bbf55e8,羅刹女の徹扇＋２,Lakshashi's Iron Fan +2,罗刹女的彻扇+2
+91,实测,4bbf55e9,羅刹女の徹扇＋３,Lakshashi's Iron Fan +3,罗刹女的彻扇+3
+92,实测,17f0b669,常夜のカタラ＋１,Long-Night Katara +1,常夜的卡达拉+1
+93,实测,17f0b66a,常夜のカタラ＋２,Long-Night Katara +2,常夜的卡达拉+2
+94,实测,17f0b66b,常夜のカタラ＋３,Long-Night Katara +3,常夜的卡达拉+3
+95,实测,6b22f2d2,マーズの熱剣＋１,Smoldering Sword +1,马兹之热剑+1
+96,实测,6b22f2d1,マーズの熱剣＋２,Smoldering Sword +2,马兹之热剑+2
+97,实测,6b22f2d0,マーズの熱剣＋３,Smoldering Sword +3,马兹之热剑+3
+98,实测,ba30a796,アンスウェラー＋１,Answerer +1,安萨拉+1
+99,实测,ba30a795,アンスウェラー＋２,Answerer +2,安萨拉+2
+100,实测,ba30a794,アンスウェラー＋３,Answerer +3,安萨拉+3
+101,实测,1f6ffdee,アンスウェラー砕,Answerer Breaker,安萨拉·碎
+102,实测,1f6c228c,アンスウェラー凰,Answerer Huang,安萨拉·凰
+103,实测,15e28f1b,グラディウスの大剣＋１,Gladius's Greatsword +1,
+104,实测,15e28f18,グラディウスの大剣＋２,Gladius's Greatsword +2,
+105,实测,15e28f19,グラディウスの大剣＋３,Gladius's Greatsword +3,
+106,实测,2f11ea6a,木製の槍,Wooden Spear,木制枪
+107,实测,c892b6d9,木製の槍_チュートリアル,Wooden Spear,木制枪
+108,实测,01b158ba,青銅の槍,Bronze Spear,青铜枪
+109,实测,4fdaab29,青銅の槍_チュートリアル,Bronze Spear,青铜枪
+110,实测,cac5f7f6,鉄の槍,Iron Spear,铁枪
+111,实测,6c8cd26d,鉄の槍_チュートリアル,Iron Spear,铁枪
+112,实测,09295498,ダ・ミナの槍,Da Mina Spear,达·米纳枪
+113,实测,033c2823,銀の槍,Silver Spear,银枪
+114,实测,efdaf9a0,手槍,Javelin,标枪
+115,实测,b6df93ec,ショートスピア,Short Spear,短枪
+116,实测,48f28eb7,スレンドスピア,Pilum,投枪
+117,实测,ad5fc1d9,ハルバード,Halberd,斧枪
+118,实测,2a3cdda9,ゲキ,Ji,长戟
+119,实测,1b7f54d6,グレイブ,Glaive,长柄刀
+120,实测,4c68b525,グレイブ＋２_SC14_14,Glaive,长柄刀
+121,实测,6bbb0176,偃月刀,Guandao,偃月刀
+122,实测,4cb02ce4,ナイトキラー,Ridersbane,骑士杀手
+123,实测,2666717b,アウロラの星槍,Star Spear,欧若拉之星枪
+124,实测,bba0d49d,無銘の槍,The Nameless,无铭之枪
+125,实测,5a07dcc2,ソレルの輝槍,Shining Spear,索雷尔之辉枪
+126,实测,e58eff9e,ソレルの輝槍_SCXX_08,Shining Spear,索雷尔之辉枪
+127,实测,9ce0ad6c,シンザのモリ,Sinza's Trident,辛萨的鱼叉
+128,实测,0d4950ee,マハマドゥの槍,Mahadu's Spear,马哈马杜之枪
+129,实测,f4cc30c7,マハマドゥの闇槍,Mahadu's Darkspear,马哈马杜之暗枪
+130,实测,8cea961f,マハマドゥの闇槍_戦技なし,Mahadu's Darkspear (no art),马哈马杜之暗枪
+131,实测,e3c88343,ルルディヤーの槍,Lulu's Spear,露露之枪
+132,实测,885159a3,邪槍ムーエン,Muen,邪枪姆恩
+133,实测,3455114b,邪槍ハノーア,Onoa,邪枪哈诺亚
+134,实测,b618d4f5,魔槍グランシーダ,Grancida,
+135,实测,504acb44,聖槍アッサル,Assal,圣枪阿萨勒
+136,实测,e5f530a6,妖槍ヴェンデッタ,Vendetta,妖枪温德塔
+137,实测,7e545e14,闇槍ヴェンデッタ,Dark Vendetta,暗枪温德塔
+138,实测,d8f6ea50,木製の槍＋１,Wooden Spear +1,木制枪+1
+139,实测,d8f6ea53,木製の槍＋２,Wooden Spear +2,木制枪+2
+140,实测,d8f6ea52,木製の槍＋３,Wooden Spear +3,木制枪+3
+141,实测,d8f6ea55,木製の槍＋４,Wooden Spear +4,木制枪+4
+142,实测,d8f6ea54,木製の槍＋５,Wooden Spear +5,木制枪+5
+143,实测,d8f6ea57,木製の槍＋６,Wooden Spear +6,木制枪+6
+144,实测,d8f6ea56,木製の槍＋７,Wooden Spear +7,木制枪+7
+145,实测,d8f6ea59,木製の槍＋８,Wooden Spear +8,木制枪+8
+146,实测,d8f6ea58,木製の槍＋９,Wooden Spear +9,木制枪+9
+147,实测,64ab8e00,青銅の槍＋１,Bronze Spear +1,青铜枪+1
+148,实测,64ab8e03,青銅の槍＋２,Bronze Spear +2,青铜枪+2
+149,实测,64ab8e02,青銅の槍＋３,Bronze Spear +3,青铜枪+3
+150,实测,64ab8e05,青銅の槍＋４,Bronze Spear +4,青铜枪+4
+151,实测,64ab8e04,青銅の槍＋５,Bronze Spear +5,青铜枪+5
+152,实测,43e4770c,鉄の槍＋１,Iron Spear +1,铁枪+1
+153,实测,43e4770f,鉄の槍＋２,Iron Spear +2,铁枪+2
+154,实测,43e4770e,鉄の槍＋３,Iron Spear +3,铁枪+3
+155,实测,43e47709,鉄の槍＋４,Iron Spear +4,铁枪+4
+156,实测,43e47708,鉄の槍＋５,Iron Spear +5,铁枪+5
+157,实测,9d3ede32,ダ・ミナの槍＋１,Da Mina Spear +1,达·米纳枪+1
+158,实测,9d3ede31,ダ・ミナの槍＋２,Da Mina Spear +2,达·米纳枪+2
+159,实测,9d3ede30,ダ・ミナの槍＋３,Da Mina Spear +3,达·米纳枪+3
+160,实测,8eb5e8f9,銀の槍＋１,Silver Spear +1,银枪+1
+161,实测,8eb5e8fa,銀の槍＋２,Silver Spear +2,银枪+2
+162,实测,8eb5e8fb,銀の槍＋３,Silver Spear +3,银枪+3
+163,实测,1ee19faa,手槍＋１,Javelin +1,标枪+1
+164,实测,1ee19fa9,手槍＋２,Javelin +2,标枪+2
+165,实测,1ee19fa8,手槍＋３,Javelin +3,标枪+3
+166,实测,9ed99596,ショートスピア＋１,Short Spear +1,短枪+1
+167,实测,9ed99595,ショートスピア＋２,Short Spear +2,短枪+2
+168,实测,9ed99594,ショートスピア＋３,Short Spear +3,短枪+3
+169,实测,ac42fa1d,スレンドスピア＋１,Pilum +1,投枪+1
+170,实测,ac42fa1e,スレンドスピア＋２,Pilum +2,投枪+2
+171,实测,ac42fa1f,スレンドスピア＋３,Pilum +3,投枪+3
+172,实测,fe0a0123,ハルバード＋１,Halberd +1,斧枪+1
+173,实测,fe0a0120,ハルバード＋２,Halberd +2,斧枪+2
+174,实测,fe0a0121,ハルバード＋３,Halberd +3,斧枪+3
+175,实测,6574cc93,ゲキ＋１,Ji +1,长戟+1
+176,实测,6574cc90,ゲキ＋２,Ji +2,长戟+2
+177,实测,6574cc91,ゲキ＋３,Ji +3,长戟+3
+178,实测,51dec2ec,グレイブ＋１,Glaive +1,长柄刀+1
+179,实测,51dec2ef,グレイブ＋２,Glaive +2,长柄刀+2
+180,实测,51dec2ee,グレイブ＋３,Glaive +3,长柄刀+3
+181,实测,e2824a8c,偃月刀＋１,Guandao +1,偃月刀+1
+182,实测,e2824a8f,偃月刀＋２,Guandao +2,偃月刀+2
+183,实测,e2824a8e,偃月刀＋３,Guandao +3,偃月刀+3
+184,实测,333a251e,ナイトキラー＋１,Ridersbane +1,骑士杀手+1
+185,实测,333a251d,ナイトキラー＋２,Ridersbane +2,骑士杀手+2
+186,实测,333a251c,ナイトキラー＋３,Ridersbane +3,骑士杀手+3
+187,实测,8abf1001,アウロラの星槍＋１,Star Spear +1,欧若拉之星枪+1
+188,实测,8abf1002,アウロラの星槍＋２,Star Spear +2,欧若拉之星枪+2
+189,实测,8abf1003,アウロラの星槍＋３,Star Spear +3,欧若拉之星枪+3
+190,实测,ae034778,ソレルの輝槍＋１,Shining Spear +1,索雷尔之辉枪+1
+191,实测,ae03477b,ソレルの輝槍＋２,Shining Spear +2,索雷尔之辉枪+2
+192,实测,ae03477a,ソレルの輝槍＋３,Shining Spear +3,索雷尔之辉枪+3
+193,实测,ae03477d,ソレルの輝槍＋４,Shining Spear +4,索雷尔之辉枪+4
+194,实测,ae03477c,ソレルの輝槍＋５,Shining Spear +5,索雷尔之辉枪+5
+195,实测,960dd516,シンザのモリ＋１,Sinza's Trident +1,辛萨的鱼叉+1
+196,实测,960dd515,シンザのモリ＋２,Sinza's Trident +2,辛萨的鱼叉+2
+197,实测,960dd514,シンザのモリ＋３,Sinza's Trident +3,辛萨的鱼叉+3
+198,实测,82aa5114,マハマドゥの槍＋１,Mahadu's Spear +1,马哈马杜之枪+1
+199,实测,82aa5117,マハマドゥの槍＋２,Mahadu's Spear +2,马哈马杜之枪+2
+200,实测,82aa5116,マハマドゥの槍＋３,Mahadu's Spear +3,马哈马杜之枪+3
+201,实测,82aa5111,マハマドゥの槍＋４,Mahadu's Spear +4,马哈马杜之枪+4
+202,实测,82aa5110,マハマドゥの槍＋５,Mahadu's Spear +5,马哈马杜之枪+5
+203,实测,feb40d19,ルルディヤーの槍＋１,Luludia's spear +1,
+204,实测,feb40d1a,ルルディヤーの槍＋２,Luludia's spear +2,
+205,实测,feb40d1b,ルルディヤーの槍＋３,Luludia's spear +3,
+206,实测,79a2ea79,邪槍ムーエン＋１,Muen +1,邪枪姆恩+1
+207,实测,79a2ea7a,邪槍ムーエン＋２,Muen +2,邪枪姆恩+2
+208,实测,79a2ea7b,邪槍ムーエン＋３,Muen +3,邪枪姆恩+3
+209,实测,609e91f1,邪槍ハノーア＋１,Onoa +1,邪枪哈诺亚+1
+210,实测,609e91f2,邪槍ハノーア＋２,Onoa +2,邪枪哈诺亚+2
+211,实测,609e91f3,邪槍ハノーア＋３,Onoa +3,邪枪哈诺亚+3
+212,实测,e59edcff,魔槍グランシーダ＋１,Grancida +1,
+213,实测,e59edcfc,魔槍グランシーダ＋２,Grancida +2,
+214,实测,e59edcfd,魔槍グランシーダ＋３,Grancida +3,
+215,实测,e79250fe,聖槍アッサル＋１,Assal +1,圣枪阿萨勒+1
+216,实测,e79250fd,聖槍アッサル＋２,Assal +2,圣枪阿萨勒+2
+217,实测,e79250fc,聖槍アッサル＋３,Assal +3,圣枪阿萨勒+3
+218,实测,ed19935c,妖槍ヴェンデッタ＋１,Vendetta +1,妖枪温德塔+1
+219,实测,ed19935f,妖槍ヴェンデッタ＋２,Vendetta +2,妖枪温德塔+2
+220,实测,ed19935e,妖槍ヴェンデッタ＋３,Vendetta +3,妖枪温德塔+3
+221,实测,2f119703,木製の斧,Wooden Axe,木制斧
+222,实测,01b13bf3,青銅の斧,Bronze Axe,青铜斧
+223,实测,00a1c4d0,青銅の斧_チュートリアル,Bronze Axe,青铜斧
+224,实测,cac6105f,鉄の斧,Iron Axe,铁斧
+225,实测,a86391f4,鉄の斧_チュートリアル,Iron Axe,铁斧
+226,实测,09296d35,ダ・ミナの斧,Da Mina Axe,达·米纳斧
+227,实测,033c4536,銀の斧,Silver Axe,银斧
+228,实测,efdb120d,手斧,Hand Axe,手斧
+229,实测,65154c6c,ショートアクス,Short Axe,短斧
+230,实测,0a9deabd,サガリス,Sagaris,投斧
+231,实测,03288635,スマッシュアクス,Smashing Axe,猛击斧
+232,实测,74eba37d,シールドアクス,Shielding Axe,护盾斧
+233,实测,9b58c835,鷹爪斧,You Sou Fu,鹰爪斧
+234,实测,ccad6236,バルディッシュ,Bardiche,长柄斧
+235,实测,e55c00f8,ハンマー,Hammer,战锤
+236,实测,7aac324c,メイス,Mace,锤矛
+237,实测,9efb5b9d,邪斧ヴェレルハイト,Evil ax verelheit,
+238,实测,d018cfe9,邪斧ガンドギャ,Gundogya,邪斧干多迦
+239,实测,b5b0a63b,赤き斧,Bloodaxe,赤红斧
+240,实测,65baa209,赤き斧_SC13_06,Bloodaxe,赤红斧
+241,实测,8e578047,赤き斧解,Red ax answer,
+242,实测,32de8506,赤き闇斧,Dark Bloodaxe,赤红暗斧
+243,实测,ebc600c8,ザルモクシス,Zalmoxis,查尔摩克西斯
+244,实测,c3bdc32b,ダグザの棍棒,Dagda's Club,鞑古扎之棍棒
+245,实测,2982f908,ダグザの闇棍棒,Dagda's Dark Club,鞑古扎之暗棍棒
+246,实测,9d83feee,クレールの大槌,Credna's Mallet,柯雷尔之大锤
+247,实测,d35ca95a,スイランの魔輪虎,Suiran's Whirling Claw,翠兰的魔轮虎
+248,实测,9e2a2603,スイランの闇輪虎,Dark Whirling Claw,翠兰的暗轮虎
+249,实测,e26d8cd9,木製の斧＋１,Wooden Axe +1,木制斧+1
+250,实测,e26d8cda,木製の斧＋２,Wooden Axe +2,木制斧+2
+251,实测,e26d8cdb,木製の斧＋３,Wooden Axe +3,木制斧+3
+252,实测,e26d8cdc,木製の斧＋４,Wooden Axe +4,木制斧+4
+253,实测,e26d8cdd,木製の斧＋５,Wooden Axe +5,木制斧+5
+254,实测,e26d8cde,木製の斧＋６,Wooden Axe +6,木制斧+6
+255,实测,e26d8cdf,木製の斧＋７,Wooden Axe +7,木制斧+7
+256,实测,e26d8cd0,木製の斧＋８,Wooden Axe +8,木制斧+8
+257,实测,e26d8cd1,木製の斧＋９,Wooden Axe +9,木制斧+9
+258,实测,fee59b69,青銅の斧＋１,Bronze Axe +1,青铜斧+1
+259,实测,fee59b6a,青銅の斧＋２,Bronze Axe +2,青铜斧+2
+260,实测,fee59b6b,青銅の斧＋３,Bronze Axe +3,青铜斧+3
+261,实测,fee59b6c,青銅の斧＋４,Bronze Axe +4,青铜斧+4
+262,实测,fee59b6d,青銅の斧＋５,Bronze Axe +5,青铜斧+5
+263,实测,34a4c595,鉄の斧＋１,Iron Axe +1,铁斧+1
+264,实测,34a4c596,鉄の斧＋２,Iron Axe +2,铁斧+2
+265,实测,34a4c597,鉄の斧＋３,Iron Axe +3,铁斧+3
+266,实测,34a4c590,鉄の斧＋４,Iron Axe +4,铁斧+4
+267,实测,34a4c591,鉄の斧＋５,Iron Axe +5,铁斧+5
+268,实测,8f7a5d3f,ダ・ミナの斧＋１,Da Mina Axe +1,达·米纳斧+1
+269,实测,8f7a5d3c,ダ・ミナの斧＋２,Da Mina Axe +2,达·米纳斧+2
+270,实测,8f7a5d3d,ダ・ミナの斧＋３,Da Mina Axe +3,达·米纳斧+3
+271,实测,8f49bb4c,銀の斧＋１,Silver Axe +1,银斧+1
+272,实测,8f49bb4f,銀の斧＋２,Silver Axe +2,银斧+2
+273,实测,8f49bb4e,銀の斧＋３,Silver Axe +3,银斧+3
+274,实测,b971d387,手斧＋１,Hand Axe +1,手斧+1
+275,实测,b971d384,手斧＋２,Hand Axe +2,手斧+2
+276,实测,b971d385,手斧＋３,Hand Axe +3,手斧+3
+277,实测,8bbf3c16,ショートアクス＋１,Short Axe +1,短斧+1
+278,实测,8bbf3c15,ショートアクス＋２,Short Axe +2,短斧+2
+279,实测,8bbf3c14,ショートアクス＋３,Short Axe +3,短斧+3
+280,实测,aa49fa57,サガリス＋１,Sagaris +1,投斧+1
+281,实测,aa49fa54,サガリス＋２,Sagaris +2,投斧+2
+282,实测,aa49fa55,サガリス＋３,Sagaris +3,投斧+3
+283,实测,0f9cee3f,スマッシュアクス＋１,Smashing Axe +1,猛击斧+1
+284,实测,0f9cee3c,スマッシュアクス＋２,Smashing Axe +2,猛击斧+2
+285,实测,0f9cee3d,スマッシュアクス＋３,Smashing Axe +3,猛击斧+3
+286,实测,abd26817,シールドアクス＋１,Shielding Axe +1,护盾斧+1
+287,实测,abd26814,シールドアクス＋２,Shielding Axe +2,护盾斧+2
+288,实测,abd26815,シールドアクス＋３,Shielding Axe +3,护盾斧+3
+289,实测,6767a03f,鷹爪斧＋１,You Sou Fu +1,鹰爪斧+1
+290,实测,6767a03c,鷹爪斧＋２,You Sou Fu +2,鹰爪斧+2
+291,实测,6767a03d,鷹爪斧＋３,You Sou Fu +3,鹰爪斧+3
+292,实测,32e7304c,バルディッシュ＋１,Bardiche +1,长柄斧+1
+293,实测,32e7304f,バルディッシュ＋２,Bardiche +2,长柄斧+2
+294,实测,32e7304e,バルディッシュ＋３,Bardiche +3,长柄斧+3
+295,实测,4e826292,ハンマー＋１,Hammer +1,战锤+1
+296,实测,4e826291,ハンマー＋２,Hammer +2,战锤+2
+297,实测,4e826290,ハンマー＋３,Hammer +3,战锤+3
+298,实测,5edd2af6,メイス＋１,Mace +1,锤矛+1
+299,实测,5edd2af5,メイス＋２,Mace +2,锤矛+2
+300,实测,5edd2af4,メイス＋３,Mace +3,锤矛+3
+301,实测,658348b7,邪斧ヴェレルハイト＋１,Evil ax verelheit +1,
+302,实测,658348b4,邪斧ヴェレルハイト＋２,Evil ax verelheit +2,
+303,实测,658348b5,邪斧ヴェレルハイト＋３,Evil ax verelheit +3,
+304,实测,93a0abd3,邪斧ガンドギャ＋１,Gundogya +1,邪斧干多迦+1
+305,实测,93a0abd0,邪斧ガンドギャ＋２,Gundogya +2,邪斧干多迦+2
+306,实测,93a0abd1,邪斧ガンドギャ＋３,Gundogya +3,邪斧干多迦+3
+307,实测,5b648002,ザルモクシス＋１,Zalmoxis +1,查尔摩克西斯+1
+308,实测,5b648001,ザルモクシス＋２,Zalmoxis +2,查尔摩克西斯+2
+309,实测,5b648000,ザルモクシス＋３,Zalmoxis +3,查尔摩克西斯+3
+310,实测,857c06d1,ダグザの棍棒＋１,Dagda's Club +1,鞑古扎之棍棒+1
+311,实测,857c06d2,ダグザの棍棒＋２,Dagda's Club +2,鞑古扎之棍棒+2
+312,实测,857c06d3,ダグザの棍棒＋３,Dagda's Club +3,鞑古扎之棍棒+3
+313,实测,d04f0f14,クレールの大槌＋１,Credna's Mallet +1,柯雷尔之大锤+1
+314,实测,d04f0f17,クレールの大槌＋２,Credna's Mallet +2,柯雷尔之大锤+2
+315,实测,d04f0f16,クレールの大槌＋３,Credna's Mallet +3,柯雷尔之大锤+3
+316,实测,91b1c720,スイランの魔輪虎＋１,Suiran's Whirling Claw +1,翠兰的魔轮虎+1
+317,实测,91b1c723,スイランの魔輪虎＋２,Suiran's Whirling Claw +2,翠兰的魔轮虎+2
+318,实测,91b1c722,スイランの魔輪虎＋３,Suiran's Whirling Claw +3,翠兰的魔轮虎+3
+319,实测,2f0d0472,木製の弓,Wooden Bow,木制弓
+320,实测,01b00e02,青銅の弓,Bronze Bow,青铜弓
+321,实测,cac55066,鉄の弓,Iron Bow,铁弓
+322,实测,98d5795d,鉄の弓_チュートリアル,Iron Bow,铁弓
+323,实测,0932725c,ダ・ミナの弓,Da Mina Bow,达·米纳弓
+324,实测,0333a6db,銀の弓,Silver Bow,银弓
+325,实测,7e5e23f1,獣狩りの弓,Hunter's Bow,猎兽弓
+326,实测,1d18e2c0,ロングボウ,Longbow,长弓
+327,实测,58f09d9a,ショートボウ,Mini Bow,短弓
+328,实测,23b7d586,馬殺しの弓,Horsekiller Bow,屠马弓
+329,实测,75712df8,バトルボウ,War Bow,战弓
+330,实测,7623a82b,風の弓,Tempest Bow,风弓
+331,实测,5a2d77c9,毒の弓,Venin Bow,毒弓
+332,实测,79130ad9,アガゼの弓,Azaga's Bow,亚革杰之弓
+333,实测,cf655fdd,ヘダグの弓,Hedagg's Bow,黑达古之弓
+334,实测,9c5fcaca,ヘダグの闇弓,Hedagg's Dark Bow,黑达古之暗弓
+335,实测,7d7e5113,ウゴウの弓,Ugo's Bow,乌号之弓
+336,实测,35ffca9c,ウゴウの弓（SC11_09強）,Ugou bow (sc11_09 strong),
+337,实测,b2fac209,イデアの弓,Idah's Bow,伊地亚之弓
+338,实测,e9e34fd6,カーラの聖弓,Kara's Holy Bow,
+339,实测,f7367d48,木製の弓＋１,Wooden Bow +1,木制弓+1
+340,实测,f7367d4b,木製の弓＋２,Wooden Bow +2,木制弓+2
+341,实测,f7367d4a,木製の弓＋３,Wooden Bow +3,木制弓+3
+342,实测,f7367d4d,木製の弓＋４,Wooden Bow +4,木制弓+4
+343,实测,f7367d4c,木製の弓＋５,Wooden Bow +5,木制弓+5
+344,实测,f7367d4f,木製の弓＋６,Wooden Bow +6,木制弓+6
+345,实测,f7367d4e,木製の弓＋７,Wooden Bow +7,木制弓+7
+346,实测,f7367d41,木製の弓＋８,Wooden Bow +8,木制弓+8
+347,实测,f7367d40,木製の弓＋９,Wooden Bow +9,木制弓+9
+348,实测,0b704db8,青銅の弓＋１,Bronze Bow +1,青铜弓+1
+349,实测,0b704dbb,青銅の弓＋２,Bronze Bow +2,青铜弓+2
+350,实测,0b704dba,青銅の弓＋３,Bronze Bow +3,青铜弓+3
+351,实测,0b704dbd,青銅の弓＋４,Bronze Bow +4,青铜弓+4
+352,实测,0b704dbc,青銅の弓＋５,Bronze Bow +5,青铜弓+5
+353,实测,f0554e1c,鉄の弓＋１,Iron Bow +1,铁弓+1
+354,实测,f0554e1f,鉄の弓＋２,Iron Bow +2,铁弓+2
+355,实测,f0554e1e,鉄の弓＋３,Iron Bow +3,铁弓+3
+356,实测,f0554e19,鉄の弓＋４,Iron Bow +4,铁弓+4
+357,实测,f0554e18,鉄の弓＋５,Iron Bow +5,铁弓+5
+358,实测,f91ba726,ダ・ミナの弓＋１,Da Mina Bow +1,达·米纳弓+1
+359,实测,f91ba725,ダ・ミナの弓＋２,Da Mina Bow +2,达·米纳弓+2
+360,实测,f91ba724,ダ・ミナの弓＋３,Da Mina Bow +3,达·米纳弓+3
+361,实测,ad63c661,銀の弓＋１,Silver Bow +1,银弓+1
+362,实测,ad63c662,銀の弓＋２,Silver Bow +2,银弓+2
+363,实测,ad63c663,銀の弓＋３,Silver Bow +3,银弓+3
+364,实测,64759eab,獣狩りの弓＋１,Hunter's Bow +1,猎兽弓+1
+365,实测,64759ea8,獣狩りの弓＋２,Hunter's Bow +2,猎兽弓+2
+366,实测,64759ea9,獣狩りの弓＋３,Hunter's Bow +3,猎兽弓+3
+367,实测,48da064a,ロングボウ＋１,Longbow +1,长弓+1
+368,实测,48da0649,ロングボウ＋２,Longbow +2,长弓+2
+369,实测,48da0648,ロングボウ＋３,Longbow +3,长弓+3
+370,实测,dfecb660,ショートボウ＋１,Mini Bow +1,短弓+1
+371,实测,dfecb663,ショートボウ＋２,Mini Bow +2,短弓+2
+372,实测,dfecb662,ショートボウ＋３,Mini Bow +3,短弓+3
+373,实测,ed91773c,馬殺しの弓＋１,Horsekiller Bow +1,屠马弓+1
+374,实测,ed91773f,馬殺しの弓＋２,Horsekiller Bow +2,屠马弓+2
+375,实测,ed91773e,馬殺しの弓＋３,Horsekiller Bow +3,屠马弓+3
+376,实测,21076792,バトルボウ＋１,War Bow +1,战弓+1
+377,实测,21076791,バトルボウ＋２,War Bow +2,战弓+2
+378,实测,21076790,バトルボウ＋３,War Bow +3,战弓+3
+379,实测,a24a03d1,風の弓＋１,Tempest Bow +1,风弓+1
+380,实测,a24a03d2,風の弓＋２,Tempest Bow +2,风弓+2
+381,实测,a24a03d3,風の弓＋３,Tempest Bow +3,风弓+3
+382,实测,3ccba433,毒の弓＋１,Venin Bow +1,毒弓+1
+383,实测,3ccba430,毒の弓＋２,Venin Bow +2,毒弓+2
+384,实测,3ccba431,毒の弓＋３,Venin Bow +3,毒弓+3
+385,实测,3ccba436,毒の弓＋４,Venin Bow +4,毒弓+4
+386,实测,3ccba437,毒の弓＋５,Venin Bow +5,毒弓+5
+387,实测,bc6b4223,アガゼの弓＋１,Azaga's Bow +1,亚革杰之弓+1
+388,实测,bc6b4220,アガゼの弓＋２,Azaga's Bow +2,亚革杰之弓+2
+389,实测,bc6b4221,アガゼの弓＋３,Azaga's Bow +3,亚革杰之弓+3
+390,实测,15ce80f7,ヘダグの弓＋１,Hedagg's Bow +1,黑达古之弓+1
+391,实测,15ce80f4,ヘダグの弓＋２,Hedagg's Bow +2,黑达古之弓+2
+392,实测,15ce80f5,ヘダグの弓＋３,Hedagg's Bow +3,黑达古之弓+3
+393,实测,7b8dcb73,イデアの弓＋１,Idah's Bow +1,伊地亚之弓+1
+394,实测,7b8dcb70,イデアの弓＋２,Idah's Bow +2,伊地亚之弓+2
+395,实测,7b8dcb71,イデアの弓＋３,Idah's Bow +3,伊地亚之弓+3
+396,实测,e543a5ec,カーラの聖弓＋１,Kara's Holy Bow +1,
+397,实测,e543a5ef,カーラの聖弓＋２,Kara's Holy Bow +2,
+398,实测,e543a5ee,カーラの聖弓＋３,Kara's Holy Bow +3,
+399,实测,2b16dc0e,木製の籠手,Wooden Gauntlets,木制手甲
+400,实测,e3357dde,青銅の籠手,Bronze Gauntlets,青铜手甲
+401,实测,d247028a,鉄の籠手,Iron Gauntlets,铁手甲
+402,实测,e05ddb14,ダ・ミナの籠手,Da Mina Gauntlets,达·米纳手甲
+403,实测,ef3cecb9,銀の籠手,Silver Gauntlets,银手甲
+404,实测,a74b3274,銀の籠手_SC18_13,Silver Gauntlets,银手甲
+405,实测,b454d4a9,身躱しの籠手,Dodge Gauntlets,闪身手甲
+406,实测,34c5aded,対魔の鉄甲,Resistant Gauntlets,对魔铁甲
+407,实测,053d1888,反撃の籠手,Counter Gauntlets,反击手甲
+408,实测,a5ebd856,ジャマダハル,Jamadhars,加玛达哈尔
+409,实测,d655660d,乾坤圏,Qiankun Circles,乾坤圈
+410,实测,4e2780e6,邪甲ドンデボック,Dondebok,邪甲东提柏克
+411,实测,8f722ba3,邪甲ドンデボック_SC17_05,Dondebok,邪甲东提柏克
+412,实测,9fadb40c,闇甲ドンデボック,Dark Dondebok,暗甲东提柏克
+413,实测,9ce977d7,邪甲ガゼリア,Zagreia,邪甲戈泽里亚
+414,实测,be5dbb65,闇甲ガゼリア,Dark Zagreia,暗甲戈泽里亚
+415,实测,75dcd50b,大熊の闇鉤爪,Dark Claws of Ursa,大熊的暗钩爪
+416,实测,62394a43,大熊の右鉤爪,Ursa's Right Claw,大熊的右钩爪
+417,实测,6a55d054,スミルノスの雷甲,Smyrnos's Channels,史米尔诺斯之雷甲
+418,实测,75068260,風火輪,Windfire Rings,风火轮
+419,实测,efe55956,サラマンダー,Salamander,沙拉曼达
+420,实测,edeea349,ツェルベロス,Zerberos,
+421,实测,e71c4064,ツェルベロス_SC18_13,Zerberos,
+422,实测,314c2634,木製の籠手＋１,Wooden Gauntlets +1,木制手甲+1
+423,实测,314c2637,木製の籠手＋２,Wooden Gauntlets +2,木制手甲+2
+424,实测,314c2636,木製の籠手＋３,Wooden Gauntlets +3,木制手甲+3
+425,实测,314c2631,木製の籠手＋４,Wooden Gauntlets +4,木制手甲+4
+426,实测,314c2630,木製の籠手＋５,Wooden Gauntlets +5,木制手甲+5
+427,实测,314c2633,木製の籠手＋６,Wooden Gauntlets +6,木制手甲+6
+428,实测,314c2632,木製の籠手＋７,Wooden Gauntlets +7,木制手甲+7
+429,实测,314c263d,木製の籠手＋８,Wooden Gauntlets +8,木制手甲+8
+430,实测,314c263c,木製の籠手＋９,Wooden Gauntlets +9,木制手甲+9
+431,实测,9fc1a424,青銅の籠手＋１,Bronze Gauntlets +1,青铜手甲+1
+432,实测,9fc1a427,青銅の籠手＋２,Bronze Gauntlets +2,青铜手甲+2
+433,实测,9fc1a426,青銅の籠手＋３,Bronze Gauntlets +3,青铜手甲+3
+434,实测,9fc1a421,青銅の籠手＋４,Bronze Gauntlets +4,青铜手甲+4
+435,实测,9fc1a420,青銅の籠手＋５,Bronze Gauntlets +5,青铜手甲+5
+436,实测,5d7af3f0,鉄の籠手＋１,Iron Gauntlets +1,铁手甲+1
+437,实测,5d7af3f3,鉄の籠手＋２,Iron Gauntlets +2,铁手甲+2
+438,实测,5d7af3f2,鉄の籠手＋３,Iron Gauntlets +3,铁手甲+3
+439,实测,5d7af3f5,鉄の籠手＋４,Iron Gauntlets +4,铁手甲+4
+440,实测,5d7af3f4,鉄の籠手＋５,Iron Gauntlets +5,铁手甲+5
+441,实测,6d7116ee,ダ・ミナの籠手＋１,Da Mina Gauntlets +1,达·米纳手甲+1
+442,实测,6d7116ed,ダ・ミナの籠手＋２,Da Mina Gauntlets +2,达·米纳手甲+2
+443,实测,6d7116ec,ダ・ミナの籠手＋３,Da Mina Gauntlets +3,达·米纳手甲+3
+444,实测,fb26ca83,銀の籠手＋１,Silver Gauntlets +1,银手甲+1
+445,实测,fb26ca80,銀の籠手＋２,Silver Gauntlets +2,银手甲+2
+446,实测,fb26ca81,銀の籠手＋３,Silver Gauntlets +3,银手甲+3
+447,实测,34d4cb93,身躱しの籠手＋１,Dodge Gauntlets +1,闪身手甲+1
+448,实测,34d4cb90,身躱しの籠手＋２,Dodge Gauntlets +2,闪身手甲+2
+449,实测,34d4cb91,身躱しの籠手＋３,Dodge Gauntlets +3,闪身手甲+3
+450,实测,5c27bfe7,対魔の鉄甲＋１,Resistant Gauntlets +1,对魔铁甲+1
+451,实测,5c27bfe4,対魔の鉄甲＋２,Resistant Gauntlets +2,对魔铁甲+2
+452,实测,5c27bfe5,対魔の鉄甲＋３,Resistant Gauntlets +3,对魔铁甲+3
+453,实测,e6f764c2,反撃の籠手＋１,Counter Gauntlets +1,反击手甲+1
+454,实测,e6f764c1,反撃の籠手＋２,Counter Gauntlets +2,反击手甲+2
+455,实测,e6f764c0,反撃の籠手＋３,Counter Gauntlets +3,反击手甲+3
+456,实测,cd47846c,ジャマダハル＋１,Jamadhars +1,加玛达哈尔+1
+457,实测,cd47846f,ジャマダハル＋２,Jamadhars +2,加玛达哈尔+2
+458,实测,cd47846e,ジャマダハル＋３,Jamadhars +3,加玛达哈尔+3
+459,实测,bba68787,乾坤圏＋１,Qiankun Circles +1,乾坤圈+1
+460,实测,bba68784,乾坤圏＋２,Qiankun Circles +2,乾坤圈+2
+461,实测,bba68785,乾坤圏＋３,Qiankun Circles +3,乾坤圈+3
+462,实测,e0f0f29c,邪甲ドンデボック＋１,Dondebok +1,邪甲东提柏克+1
+463,实测,e0f0f29f,邪甲ドンデボック＋２,Dondebok +2,邪甲东提柏克+2
+464,实测,e0f0f29e,邪甲ドンデボック＋３,Dondebok +3,邪甲东提柏克+3
+465,实测,9da765bd,邪甲ガゼリア＋１,Zagreia +1,邪甲戈泽里亚+1
+466,实测,9da765be,邪甲ガゼリア＋２,Zagreia +2,邪甲戈泽里亚+2
+467,实测,9da765bf,邪甲ガゼリア＋３,Zagreia +3,邪甲戈泽里亚+3
+468,实测,c9f9ad2e,スミルノスの雷甲＋１,Smyrnos's Channels +1,史米尔诺斯之雷甲+1
+469,实测,c9f9ad2d,スミルノスの雷甲＋２,Smyrnos's Channels +2,史米尔诺斯之雷甲+2
+470,实测,c9f9ad2c,スミルノスの雷甲＋３,Smyrnos's Channels +3,史米尔诺斯之雷甲+3
+471,实测,b3d1056a,風火輪＋１,Windfire Rings +1,风火轮+1
+472,实测,b3d10569,風火輪＋２,Windfire Rings +2,风火轮+2
+473,实测,b3d10568,風火輪＋３,Windfire Rings +3,风火轮+3
+474,实测,b09b3d6c,サラマンダー＋１,Salamander +1,沙拉曼达+1
+475,实测,b09b3d6f,サラマンダー＋２,Salamander +2,沙拉曼达+2
+476,实测,b09b3d6e,サラマンダー＋３,Salamander +3,沙拉曼达+3
+477,实测,b09b3d69,サラマンダー＋４,Salamander +4,沙拉曼达+4
+478,实测,b09b3d68,サラマンダー＋５,Salamander +5,沙拉曼达+5
+479,实测,683417b3,ツェルベロス＋１,Zerberos +1,
+480,实测,683417b0,ツェルベロス＋２,Zerberos +2,
+481,实测,683417b1,ツェルベロス＋３,Zerberos +3,
+482,实测,084e35bd,ファイアー,Fire,火焰
+483,实测,c25f2cc9,ボルガノン,Bolganone,火山爆焰
+484,实测,8bf41f35,サンダー,Thunder,雷电
+485,实测,77eae8ce,トロン,Thoron,托隆
+486,实测,196894d3,ウィンド,Wind,烈风
+487,实测,b362a7d5,シェイバー,Cutting Gale,风刃
+488,实测,3f3e67db,ブリザー,Blizzard,冰风雪
+489,实测,dc84c73f,アイスブレード,Ice Blade,冰刃
+490,实测,a2cc1bf0,アロー,Sagittae,光箭
+491,实测,eabf9298,アグネアの矢,Agnea's Arrow,阿古尼亚之箭
+492,实测,9236e0eb,サンダーストーム,Bolting,雷暴
+493,实测,1c9ef4a1,エクスカリバー,Excalibur,埃克斯卡利伯
+494,实测,0ddd60ee,フィンブルの夜,Fimbulvetr Night,芬布尔之夜
+495,实测,aa9818d3,彷徨える壁,Wandering Wall,彷徨之壁
+496,实测,d2301495,彷徨える壁[アナトリア],Wandering Wall,彷徨之壁
+497,实测,6de0ade2,硝子の車輪,Glass Wheel,玻璃车轮
+498,实测,c0b28062,裁きの剣,Sword of Judgment,裁决之剑
+499,实测,81afecb5,大地の顎,Earth's Jaws,大地之颚
+500,实测,c44ca03b,無垢なる巨人,Hulking Help,无邪巨人
+501,实测,e4f63d1e,砂嵐の大隊,Sandstorm Battalion,沙暴大队
+502,实测,80806c2d,ドーラ△,Dora△,
+503,实测,6e86e054,スライムB,Slime b,
+504,实测,9d06b79d,ウォームZ,Swarm Ζ,虫群Ζ
+505,实测,bbb457b8,ウォームZ_敵,Warm z_enemy,
+506,实测,d990217d,バンシーΘ,Banshee Θ,报丧Θ
+507,实测,1b644c98,バンシーΘ_敵,Banshee Θ,报丧Θ
+508,实测,ea07a037,バンシーΘ_２部,Banshee Θ,报丧Θ
+509,实测,1535e582,デスΓ,Death Γ,死神Γ
+510,实测,5f35f8c9,デスΓ_SC15_09,Death Γ,死神Γ
+511,实测,699c893e,デスΓ_SC17_13,Death Γ,死神Γ
+512,实测,77d75f92,ルナΛ,Luna Λ,月神Λ
+513,实测,2a6340fe,ダークスパイクΤ,Dark Spikes T,暗黑冲击Τ
+514,实测,43d77e2c,ライブ,Heal,圣疗
+515,实测,001cfff2,リカバー,Recover,圣愈
+516,实测,a6b29e87,リブロー,Physic,远程圣疗
+517,实测,be03f811,リザーブ,Fortify,全体圣疗
+518,实测,43d780cf,ライア,Laia,圣治
+519,实测,44e8cf2b,リザイア,Nosferatu,圣吸
+520,实测,f2cd8f20,エンジェル,Seraphim,天使
+521,实测,751d8dbe,オーラ,Aura,辉光
+522,实测,653c703e,スターライト,Starlight,星光
+523,实测,23dd37f3,トーチ,Torch,火炬
+524,实测,b489f3b0,レスト,Restore,休息
+525,实测,f9231a71,レスキア,Resquia,回援
+526,实测,5636c0a9,レスキュー,Rescue,救援
+527,实测,4a315902,ワープ,Warp,传送
+528,实测,defeb3d9,バリアー,Barrier,防护罩
+529,实测,5cd48660,マジックシールド,Ward,魔法屏障
+530,实测,9f05a0e0,エマージス,Emergis,要害回避
+531,实测,add124f1,リジェイア,Regeia,
+532,实测,bbd35383,サイレス,Silence,沉默
+533,实测,c5148e94,フリーズ,Freeze,冰封
+534,实测,e431ffb2,バサーク,Berserk,狂乱
+535,实测,4782645c,タナトス,Thanatos,达拿托斯之光
+536,实测,26e703e6,クサリク_物攻_青銅,Kusariku_physical attack_bronze,
+537,实测,c30f0da2,クサリク_物攻_鉄,Kusariku_physical attack_iron,
+538,实测,c30f0bf3,クサリク_物攻_銀,Kusariku_physical attack_silver,
+539,实测,6fce095b,ワラジムシ_物攻_青銅,Woodlouse_physical attack_bronze,
+540,实测,965db959,ワラジムシ_物攻_鉄,Woodlouse_physical attack_iron,
+541,实测,965db444,ワラジムシ_物攻_銀,Woodlouse_physical attack_silver,
+542,实测,91ef547c,サンドバアル_物攻_青銅,Sand baal_physical attack_bronze,
+543,实测,00adb294,サンドバアル_物攻_鉄,Sand baal_physical attack_iron,
+544,实测,00adb7a9,サンドバアル_物攻_銀,Sand baal_physical attack_silver,
+545,实测,ef10fefe,タテジマオオカミ_物攻_青銅,Vertical wolf_physical attack_bronze,
+546,实测,d868f1ea,タテジマオオカミ_物攻_鉄,Vertical wolf_physical attack_iron,
+547,实测,d868ef3b,タテジマオオカミ_物攻_銀,Vertical wolf_physical attack_silver,
+548,实测,174209f2,サンドヴィーグル_物攻_青銅,Sandveegle_physical attack_bronze,
+549,实测,9c8bdc6e,サンドヴィーグル_物攻_鉄,Sandveegle_physical attack_iron,
+550,实测,9c8bdbb7,サンドヴィーグル_物攻_銀,Sandveegle_physical attack_silver,
+551,实测,b3a40d78,海獣_魔攻_青銅,Sea beast_magic attack_bronze,
+552,实测,571c10c0,海獣_魔攻_鉄,Sea beast_magic attack_iron,
+553,实测,571c15dd,海獣_魔攻_銀,Sea beast_magic attack_silver,
+554,实测,7760ba4a,アトラスベア_物攻_青銅,Atlas bear_physical attack_bronze,
+555,实测,3937de96,アトラスベア_物攻_鉄,Atlas bear_physical attack_iron,
+556,实测,3937dcdf,アトラスベア_物攻_銀,Atlas bear_physical attack_silver,
+557,实测,1cf361f0,アトラスベア小_物攻_青銅,Atlas bear small_physical attack_bronze,
+558,实测,9589e1e8,アトラスベア小_物攻_鉄,Atlas bear small_physical attack_iron,
+559,实测,9589e605,アトラスベア小_物攻_銀,Atlas bear small_physical attack_silver,
+560,实测,885d30cd,砂虫_物攻_青銅,Sandworm_physical attack_bronze,
+561,实测,bc8efeef,砂虫_物攻_鉄,Sandworm_physical attack_iron,
+562,实测,bc8f009e,砂虫_物攻_銀,Sandworm_physical attack_silver,
+563,实测,f232fac6,巨人_物攻_青銅,Giant_physical attack_bronze,
+564,实测,9593ea02,巨人_物攻_鉄,Giant_physical attack_iron,
+565,实测,9593e853,巨人_物攻_銀,Giant_physical attack_silver,
+566,实测,c618f95c,タイタニス小_物攻_青銅,Titanis small_physical attack_bronze,
+567,实测,e1f397f4,タイタニス小_物攻_鉄,Titanis small_physical attack_iron,
+568,实测,e1f39c09,タイタニス小_物攻_銀,Titanis small_physical attack_silver,
+569,实测,005156d8,タイタニス大_物攻_青銅,Titanis great_physical attack_bronze,
+570,实测,26984da0,タイタニス大_物攻_鉄,Titanis great_physical attack_iron,
+571,实测,269852bd,タイタニス大_物攻_銀,Titanis great_physical attack_silver,
+572,实测,64eeabff,ゴーレム_物攻_青銅,Golem_physical attack_bronze,
+573,实测,3d24628d,ゴーレム_物攻_鉄,Golem_physical attack_iron,
+574,实测,3d245c70,ゴーレム_物攻_銀,Golem_physical attack_silver,
+575,实测,68485ec5,ケートゥス_物攻,Cetus_physical attack,
+576,实测,07528198,ディガンマ_魔攻_青銅,Digamma_magic attack_bronze,
+577,实测,9ae78960,ディガンマ_魔攻_鉄,Digamma_magic attack_iron,
+578,实测,9ae78e7d,ディガンマ_魔攻_銀,Digamma_magic attack_silver,
+579,实测,edd156b6,クイン・ヒュドラー_魔攻,Quinn hydra_magic attack,
+580,实测,ebd4614e,ルフ_物攻_青銅,Luff_physical attack_bronze,
+581,实测,a0bc4a1a,ルフ_物攻_鉄,Luff_physical attack_iron,
+582,实测,a0bc486b,ルフ_物攻_銀,Luff_physical attack_silver,
+583,实测,af807416,ルフ_物攻_鉄_SC11_11,Luff_physical attack_iron,
+584,实测,2cfef44a,ハルピア_魔攻_青銅,Harpia_magic attack_bronze,
+585,实测,94ca8c96,ハルピア_魔攻_鉄,Harpia_magic attack_iron,
+586,实测,94ca8adf,ハルピア_魔攻_銀,Harpia_magic attack_silver,
+587,实测,9f99e531,ダグザ竜_物攻,Dagza dragon_physical attack,
+588,实测,19e90b41,バロール竜_物攻,Balor dragon_physical attack,
+589,实测,e38f5688,バロール竜_魔攻,Valor dragon_magic attack,
+590,实测,8bda1856,マーズ竜_物攻,Mars dragon_physical attack,
+591,实测,8bf7206d,ライラー竜_魔攻,Lyra dragon_magic attack,
+592,实测,116d83b8,ライラー竜_魔攻_３部,Lyra dragon_magic attack_part 3,
+593,实测,45dafaad,セテス竜_物攻,Seteth dragon_physical attack,
+594,实测,4b12d289,レダ召喚魔獣_物攻,Leda summon monster_physical attack,
+595,实测,09b76227,マミー_物攻_青銅,Mummy_physical attack_bronze,
+596,实测,00746da5,マミー_物攻_鉄,Mummy_physical attack_iron,
+597,实测,00746888,マミー_物攻_銀,Mummy_physical attack_silver,
+598,实测,451b131b,ドラゴンゾンビ_物攻_青銅,Dragon zombie_physical attack_bronze,
+599,实测,fc049419,ドラゴンゾンビ_物攻_鉄,Dragon zombie_physical attack_iron,
+600,实测,fc048f04,ドラゴンゾンビ_物攻_銀,Dragon zombie_physical attack_silver,
+601,实测,7be77140,バロールの影_物攻,Balor's shadow_physical attack,
+602,实测,7b7bb7f4,ワラジムシ_第3部_物攻_青銅,Woodlouse_part 3_physical attack_bronze,
+603,实测,d7e9727c,ワラジムシ_第3部_物攻_鉄,Woodlouse_part 3_physical attack_iron,
+604,实测,d7e97891,ワラジムシ_第3部_物攻_銀,Woodlouse_part 3_physical attack_silver,
+605,实测,b9c549f7,サンドバアル_第3部_物攻_青銅,Sand baal_part 3_physical attack_bronze,
+606,实测,34ff8e55,サンドバアル_第3部_物攻_鉄,Sand baal_part 3_physical attack_iron,
+607,实测,34ff8938,サンドバアル_第3部_物攻_銀,Sand baal_part 3_physical attack_silver,
+614,实测,ded5069f,海獣_第3部_魔攻_青銅,Sea beasts_part 3_magic attack_bronze,
+615,实测,717027ad,海獣_第3部_魔攻_鉄,Sea beasts_part 3_magic attack_iron,
+616,实测,71702290,海獣_第3部_魔攻_銀,Sea beasts_part 3_magic attack_silver,
+617,实测,f7e34afd,アトラスベア_第3部_物攻_青銅,Atlas bear_part 3_physical attack_bronze,
+618,实测,decbdf3f,アトラスベア_第3部_物攻_鉄,Atlas bear_part 3_physical attack_iron,
+619,实测,decbe1ee,アトラスベア_第3部_物攻_銀,Atlas bear_part 3_physical attack_silver,
+621,实测,4084ad89,アトラスベア小_第3部_物攻_鉄,Atlas bear elementary_part 3_physical attack_iron,
+622,实测,4084a774,アトラスベア小_第3部_物攻_銀,Atlas bear elementary_part 3_physical attack_silver,
+623,实测,3cf33596,砂虫_第3部_物攻_青銅,Sandworm_part 3_physical attack_bronze,
+624,实测,83516bb2,砂虫_第3部_物攻_鉄,Sandworm_part 3_physical attack_iron,
+625,实测,83516903,砂虫_第3部_物攻_銀,Sandworm_part 3_physical attack_silver,
+626,实测,e6a248c9,巨人_第3部_物攻_青銅,Giant_part 3_physical attack_bronze,
+627,实测,bffbf4eb,巨人_第3部_物攻_鉄,Giant_part 3_physical attack_iron,
+628,实测,bffbf6a2,巨人_第3部_物攻_銀,Giant_part 3_physical attack_silver,
+629,实测,4fdde4d7,タイタニス小_第3部_物攻_青銅,Titanis elementary school_part 3_physical attack_bronze,
+630,实测,1f9a56b5,タイタニス小_第3部_物攻_鉄,Titanis elementary_part 3_physical attack_iron,
+631,实测,1f9a5198,タイタニス小_第3部_物攻_銀,Titanis elementary_part 3_physical attack_silver,
+632,实测,32e7f223,タイタニス大_第3部_物攻_青銅,Titanis university_part 3_physical attack_bronze,
+633,实测,9a8ce651,タイタニス大_第3部_物攻_鉄,Titanis university_part 3_physical attack_iron,
+634,实测,9a8ce13c,タイタニス大_第3部_物攻_銀,Titanis university_part 3_physical attack_silver,
+635,实测,30a38078,ゴーレム_第3部_物攻_青銅,Golem_part 3_physical attack_bronze,
+636,实测,5f7e69c0,ゴーレム_第3部_物攻_鉄,Golem_part 3_physical attack_iron,
+637,实测,5f7e6edd,ゴーレム_第3部_物攻_銀,Golem_part 3_physical attack_silver,
+638,实测,ac322781,ルフ_第3部_物攻_青銅,Luff_part 3_physical attack_bronze,
+639,实测,7db99a93,ルフ_第3部_物攻_鉄,Luff_part 3_physical attack_iron,
+640,实测,7db99b4a,ルフ_第3部_物攻_銀,Luff_part 3_physical attack_silver,
+641,实测,bac907a6,傷薬,Vulnerary,伤药
+642,实测,8adb2f94,調合薬,Concoction,混合药
+643,实测,9ab0448d,特効薬,Elixir,特效药
+644,实测,7acaac2d,聖水,Pure Water,圣水
+645,实测,48c8cbb1,連携の石,Linking Rock,连携石
+646,实测,ec6b998e,連携の大玉,Linking Ball,连携大玉
+647,实测,6c2c3586,毒消し,Antitoxin,解毒剂
+648,实测,28bee54c,安寧の露,Dew of Peace,安宁之露
+649,实测,1cb25e00,加護の露,Dew of Protection,加护之露
+650,实测,48d75c76,砂金,Coin,沙金
+651,实测,442ac310,大砂金,Large Coin,大沙金
+652,实测,3b50c477,金塊,Bullion,金块
+653,实测,8e33904e,ラッキーコイン,Lucky Coin,幸运币
+654,实测,1eebe720,大きな金塊,Large Bullion,大金块
+655,实测,593e6233,巨大な金塊,Extra Large Bullion,巨大金块
+656,实测,bde19e32,虫真珠,Insect Pearl,虫珍珠
+657,实测,34dd8bcd,大粒の虫真珠,Large Insect Pearl,大粒虫珍珠
+658,实测,442c388a,天使の衣,Seraph Robe,天使之衣
+659,实测,972514c0,力のしずく,Energy Drop,力量水滴
+660,实测,203c2e64,精霊の粉,Spirit Dust,精灵之粉
+661,实测,6ed94786,秘伝の書,Secret Book,秘传之书
+662,实测,55a5e420,はやての羽,Speedwing,疾风羽毛
+663,实测,44a8d410,女神の像,Goddess Icon,女神像
+664,实测,5be863a1,大亀の甲羅,Giant Shell,巨大龟甲
+665,实测,261c63cd,魔除け,Talisman,辟邪物
+666,实测,57bf29c4,黒真珠,Black Pearl,黑珍珠
+667,实测,2f33dc36,風呼びの靴,Shoes of the Wind,唤风之靴
+668,实测,fe7aa113,戦術書,Tactics Manual,战术指南书
+669,实测,1f0ba500,馬術書,Riding Manual,马术指南书
+670,实测,917a0370,重装術書,Heavy-Armor Manual,重装术指南书
+671,实测,9b5647a1,飛行術書,Flying Manual,飞行术指南书
+672,实测,f5e55b77,黒魔術書,Black-Magic Manual,黑魔术指南书
+673,实测,bddefd46,白魔術書,White-Magic Manual,白魔术指南书
+674,实测,4047c342,秘蔵の戦術書,Tactics Treatise,上级战术指南书
+675,实测,d9a395fd,秘蔵の馬術書,Riding Treatise,上级马术指南书
+676,实测,2cda177f,秘蔵の重装術書,Heavy-Armor Treatise,上级重装术指南书
+677,实测,a217fcde,秘蔵の飛行術書,Flying Treatise,上级飞行术指南书
+678,实测,10be6608,秘蔵の黒魔術書,Black-Magic Treatise,上级黑魔术指南书
+679,实测,8581c789,秘蔵の白魔術書,White-Magic Treatise,上级白魔术指南书
+680,实测,22013514,質素な武具箱,Simple Weapon Crate,简朴武具箱
+681,实测,9ddb0861,良質な武具箱,Quality Weapon Crate,优良武具箱
+682,实测,8baf0ef7,高級な武具箱,Luxury Weapon Crate,高级武具箱
+683,实测,014972c6,ダ・ミナの武具箱,Da Mina Crate,达·米纳武具箱
+684,实测,874b3cf3,技巧青銅の武具箱,Artificial bronze armor box,
+685,实测,10801ae9,技巧鉄の武具箱,Craft iron weapon box,
+686,实测,399e41b5,技巧武具箱,Skill weapon box,
+687,实测,452b0cb5,技巧ダ・ミナの武具箱,Technique da mina's weapon box,
+688,实测,7bb0502d,書箱,Manual Crate,书箱
+689,实测,2303787e,秘蔵の書箱,Treatise Crate,秘藏的书箱
+690,实测,7edc2a3a,祝品箱,Gift Box,礼品箱
+691,实测,1b8ad78f,指輪箱,Ring Crate,戒指箱
+692,实测,816d7213,流れの木箱,Washed-Up Crate,漂流木箱
+693,实测,5a09c12c,謎の箱,Mystery Box,神秘箱
+694,实测,588bb1f9,肉箱,Meat Crate,肉箱
+695,实测,7cc98f10,高級肉箱,Luxury Meat Crate,高级肉箱
+696,实测,f0349585,野菜箱,Vegetable Crate,蔬菜箱
+697,实测,287ffec6,高級野菜箱,Luxury Veg. Crate,高级蔬菜箱
+698,实测,b77e4298,魚箱,Fish Crate,鱼箱
+699,实测,80394ead,高級魚箱,Luxury Fish Crate,高级鱼箱
+700,实测,6e436808,鉱石箱,Ore Crate,矿石箱
+701,实测,a5832b08,宝珠箱,Gem Box,宝珠箱
+702,实测,eb4b4e0e,アーカイヴβ,Archive Β,档案Β
+703,实测,eb4b4e0f,アーカイヴγ,Archive Β,档案Β
+704,实测,eb4b4e2a,アーカイヴΖ,Archive Ζ,档案Ζ
+705,实测,eb4b4e24,アーカイヴΘ,Archive Θ,档案Θ
+706,实测,0eaa40ce,アーカイヴT,Archive Β,档案Β
+707,实测,f92f5e57,宝の鍵,Chest Key,宝箱钥匙
+708,实测,891d7356,隠れ里の秘薬,Hidden Village Panacea,
+709,实测,eabad617,アグネアの書,Agnea Tome,阿古尼亚之书
+710,实测,0dd902e4,フィンブルの書,Fimbulvetr Tome,芬布尔之书
+711,实测,480f245c,リナリーエール,Lenalee yell,
+712,实测,9233e3a2,ギンジ―エール,Gingy ale,
+713,实测,77a5e017,ザンギーエール,Zangi ale,
+714,实测,0013c89d,ポンゴーエール,Pongo,蓬葛
+715,实测,f9b7c129,ミラニーエール,Milanie ale,
+716,实测,91a7ebc8,ソルギーエール,Sorgie ale,
+717,实测,c73ccec4,オブローエール,Obro ale,
+718,实测,ffa856a1,メララーエール,Melara,霉拉拉
+719,实测,fdd52e79,オリバーエール,Oliver ale,
+720,实测,e55e537a,チャノキエール,Chanokyere,
+721,实测,bb3de2d7,ロカーエール,Rocker ale,
+722,实测,2b1610ad,キンバーエール,Kimber ale,
+723,实测,6ec87f88,クレストエール,Crest ale,
+724,实测,84b5a29c,ジョッパエール,Joppa ale,
+725,实测,7e39107f,ヴァンダル商会の積荷,Company Cargo,商会货物
+726,实测,2764eb58,ヴァンダル商会の積荷_通知,Vandal shokai cargo notice,
+727,实测,abdc06fd,ヴァンダル商会の積荷_特別,Company Cargo,商会货物
+728,实测,cda245e9,競技用宝_SC13_11,Competition treasure,
+729,实测,35d79c4b,宝石,Gem,
+730,实测,6a2d5cb2,金塊_SC00_09,Bullion,金块
+731,实测,2f14a15c,木製の盾,Wooden Shield,木制盾
+732,实测,01b58b6c,青銅の盾,Bronze Shield,青铜盾
+733,实测,cacac020,鉄の盾,Iron Shield,铁盾
+734,实测,092e38d6,ダ・ミナの盾,Da Mina Shield,达·米纳盾
+735,实测,0337d95d,銀の盾,Silver Shield,银盾
+736,实测,0c503ab3,魔除けの盾,Talisman Shield,除魔盾
+737,实测,8fdf5a1c,魔封じの盾,Hexlock Shield,封魔盾
+738,实测,d29d00a1,苦悶の盾,Anguishing Shield,苦闷之盾
+739,实测,34751274,ジュラの氷盾,Jura's Ice Shield,
+740,实测,93920227,ゼピュロスの盾,Shield of Zephyrus,仄普洛斯之盾
+741,实测,812355f0,射手の指輪,Archer's Ring,射手戒指
+742,实测,cdbb650f,幻影の指輪,Phantom Ring,幻影戒指
+743,实测,b130bc9c,狩人の指輪,Hunter's Ring,猎人戒指
+744,实测,4b082690,女神の指輪,Goddess Ring,女神戒指
+745,实测,a5a8a263,巨人の指輪,Giant's Ring,巨人戒指
+746,实测,e33f5465,疾風の指輪,Gale Ring,疾风戒指
+747,实测,255056ba,毒喰の宝珠,Poisonbane Gem,噬毒宝珠
+748,实测,1e5d5802,毒狩の宝珠,Poisonhunt Gem,猎毒宝珠
+749,实测,93804161,風来の宝珠,Wander Gem,风来宝珠
+750,实测,e1b16beb,迅雷の宝珠,Bolt Gem,迅雷宝珠
+751,实测,489aaa57,轟炎の宝珠,Conflagrant Gem,轰炎宝珠
+752,实测,c00d69da,翠嵐の宝珠,Verdant Gem,翠岚宝珠
+753,实测,de450b6c,祝勝の宝珠,Victory Gem,祝胜宝珠
+754,实测,07ce31cc,必聖の宝珠,Sacred Gem,必圣宝珠
+755,实测,cf566fa5,挑戦の宝珠,Challenge Gem,挑战宝珠
+756,实测,e223b097,追撃の宝珠,Scourge Gem,追击宝珠
+757,实测,f2182dd5,絶風の宝珠,Nullwind Gem,绝风宝珠
+758,实测,f21ae257,奇跡の宝珠,Miracle Gem,奇迹宝珠
+759,实测,2527e4d0,精霊の宝珠,Spirit Gem,精灵宝珠
+760,实测,8a5073eb,剣殺しの護符,Swordbreak Amulet,破剑者护符
+761,实测,605b9fb6,槍殺しの護符,Spearbreak Amulet,破枪者护符
+762,实测,b19bd2d1,斧殺しの護符,Axebreak Amulet,破斧者护符
+763,实测,c105e88e,弓殺しの護符,Bowbreak Amulet,破弓者护符
+764,实测,6753c8ca,籠手殺しの護符,Fistbreak Amulet,破手甲者护符
+765,实测,9828f653,海霊のお守り,Sea-Spirit Charm,海灵护身符
+766,实测,eaeabc14,陽炎の勲章,Haze Badge,阳炎的勋章
+767,实测,ba60a5d4,粒子錬紋,Particle renmon,
+768,实测,f46522ff,口寄せの枝,Beckoning Branch,招魂之枝
+769,实测,88fc77ec,妖糸グレイプニル,Gleipnir,妖线格莱普尼尔
+770,实测,0ffb6e82,闇糸グレイプニル,Dark Gleipnir,暗线格莱普尼尔
+771,实测,1156c2ab,天弦・月白,Moonstone,天弦·月白
+772,实测,a4f77c8c,闇弦・月白,Dark Moonstone,暗弦·月白
+773,实测,0f7732c4,闇弦・黒曜[コーエン],Obsidian Dark String [Cohen],
+774,实测,e911e9f4,至福なる舌,Lashing Rapture,至福之舌
+775,实测,c2de77f3,魔毒の骨鎖,Poisonbone Chain,魔毒骨锁
+776,实测,71bfbbe0,ガランの闇腕輪,Garan's Bangle,迦蓝的暗手环
+777,实测,abbaf017,アウロラの守護布,Cloth of Aurora,欧若拉的守护布
+778,实测,e9d7a2c5,カーラの聖針,Kalla's Needle,卡拉的圣针
+779,实测,e58d7138,マーズの熱石,Mars's Heat Stone,
+780,实测,6bbc046c,魔導の杖,Magic Staff,魔道之杖
+781,实测,c3291ccb,修道会の杖,Order's Staff,修道会之杖
+782,实测,954fb96c,癒しの杖,Healing Staff,治愈之杖
+783,实测,190c2ffa,怨杖アーロン,Aaron's Rod,怨杖亚隆
+784,实测,50d9e631,ブラギの絵筆,Bragi's Brush,布拉吉的画笔
+785,实测,1056466e,ブラギの闇絵筆,Bragi's Dark Brush,布拉吉的暗画笔
+786,实测,d8957b40,フォルタナーの聖杖,Fortana's Wand,
+787,实测,4fa9da51,可憐の宝珠,Graceful Gem,
+788,实测,eeaa8099,魅了の宝珠,Charming Gem,
+789,实测,97dcb820,酔狂の宝珠,Whimsy Gem,
+790,实测,758e72b1,波乱の宝珠,Turbulent Gem,
+791,实测,7c5600af,鬼面の髑髏,Ogreskull Mask,鬼面骷髅
+792,实测,bb1394ae,鬼面の闇髑髏,Dark Ogreskull Mask,鬼面暗骷髅
+793,实测,0536dab7,馬毛のお守り,Black-Horse Amulet,黑马护身符
+794,实测,f63fe61d,馬毛のお守り＋１,Horsehair amulet +1,
+795,实测,f63fe61e,馬毛のお守り＋２,Horsehair amulet +2,
+796,实测,f63fe61f,馬毛のお守り＋３,Horsehair amulet +3,
+797,实测,2849979a,馬毛の友宝,Horse-Hair Keepsake,
+798,实测,8be6160f,赤毛のお守り,Redhead amulet,
+799,实测,41079965,赤毛のお守り＋１,Redhead amulet +1,
+800,实测,41079966,赤毛のお守り＋２,Redhead amulet +2,
+801,实测,41079967,赤毛のお守り＋３,Redhead amulet +3,
+802,实测,0024b942,赤毛の友宝,Red-Hair Keepsake,
+803,实测,d6472dc8,黒毛のお守り,Black-Horse Amulet,黑马护身符
+804,实测,d7f58502,黒毛のお守り＋１,Black-Horse Amulet +1,黑马护身符+1
+805,实测,d7f58501,黒毛のお守り＋２,Black-Horse Amulet +2,黑马护身符+2
+806,实测,d7f58500,黒毛のお守り＋３,Black-Horse Amulet +3,黑马护身符+3
+807,实测,142001f3,黒毛の友宝,Black-Hair Keepsake,
+808,实测,0e4fca6d,白毛のお守り,Elephant-Hair Amulet,象毛护身符
+809,实测,8cb68467,白毛のお守り＋１,Elephant-Hair Amulet +1,象毛护身符+1
+810,实测,8cb68464,白毛のお守り＋２,Elephant-Hair Amulet +2,象毛护身符+2
+811,实测,8cb68465,白毛のお守り＋３,Elephant-Hair Amulet +3,象毛护身符+3
+812,实测,9dbbdf50,白毛の友宝,White-Fur Keepsake,
+813,实测,fdc1d9ea,灰羽のお守り,Haibane amulet,
+814,实测,ea1537d0,灰羽のお守り＋１,Haibane amulet +1,
+815,实测,ea1537d3,灰羽のお守り＋２,Haibane amulet +2,
+816,实测,ea1537d2,灰羽のお守り＋３,Haibane amulet +3,
+817,实测,fda17255,灰羽の友宝,Gray-Feather Keepsake,
+818,实测,081ef16d,白羽のお守り,White-Plume Amulet,白羽护身符
+819,实测,1b003367,白羽のお守り＋１,White-Plume Amulet +1,白羽护身符+1
+820,实测,1b003364,白羽のお守り＋２,White-Plume Amulet +2,白羽护身符+2
+821,实测,1b003365,白羽のお守り＋３,White-Plume Amulet +3,白羽护身符+3
+822,实测,78fd5450,白羽の友宝,White-Feather Keepsake,
+823,实测,eff9f8d0,大羽のお守り,Big feather amulet,
+824,实测,cdced77a,大羽のお守り＋１,Big feather amulet +1,
+825,实测,cdced779,大羽のお守り＋２,Big feather amulet +2,
+826,实测,cdced778,大羽のお守り＋３,Big feather amulet +3,
+827,实测,6b02302b,大羽の友宝,Great-Feather Keepsake,
+828,实测,05d9c99b,赤羽のお守り,Red-Plume Amulet,红羽护身符
+829,实测,90dcf021,赤羽のお守り＋１,Red-Plume Amulet +1,红羽护身符+1
+830,实测,90dcf022,赤羽のお守り＋２,Red-Plume Amulet +2,红羽护身符+2
+831,实测,90dcf023,赤羽のお守り＋３,Red-Plume Amulet +3,红羽护身符+3
+832,实测,e41ab37e,赤羽の友宝,Akabane's friend treasure,
+833,实测,029d5630,魔羽のお守り,Magic-Plume Amulet,魔羽护身符
+834,实测,1a5587da,魔羽のお守り＋１,Magic-Plume Amulet +1,魔羽护身符+1
+835,实测,1a5587d9,魔羽のお守り＋２,Magic-Plume Amulet +2,魔羽护身符+2
+836,实测,1a5587d8,魔羽のお守り＋３,Magic-Plume Amulet +3,魔羽护身符+3
+837,实测,dd6c918b,魔羽の友宝,Demon-Feather Keepsake,
+838,实测,8acfed44,黒羽のお守り,Black-Plume Amulet,黑羽护身符
+839,实测,e982e2fe,黒羽のお守り＋１,Black-Plume Amulet +1,黑羽护身符+1
+840,实测,e982e2fd,黒羽のお守り＋２,Black-Plume Amulet +2,黑羽护身符+2
+841,实测,e982e2fc,黒羽のお守り＋３,Black-Plume Amulet +3,黑羽护身符+3
+842,实测,ce88789f,黒羽の友宝,Kurobane's friend treasure,
+843,实测,03326a9f,白翼のお守り,Red-Wing Charm,红翼挂饰
+844,实测,59f7ced5,白翼のお守り＋１,Red-Wing Charm,红翼挂饰+1
+845,实测,59f7ced6,白翼のお守り＋２,Red-Wing Charm,红翼挂饰+2
+846,实测,59f7ced7,白翼のお守り＋３,Red-Wing Charm,红翼挂饰+3
+847,实测,b38ae252,白翼の友宝,White winged treasure,
+848,实测,3bf2edba,黒翼のお守り,Black-Wing Amulet,黑翼护身符
+849,实测,5b83bb00,黒翼のお守り＋１,Black-Wing Amulet +1,黑翼护身符+1
+850,实测,5b83bb03,黒翼のお守り＋２,Black-Wing Amulet +2,黑翼护身符+2
+851,实测,5b83bb02,黒翼のお守り＋３,Black-Wing Amulet +3,黑翼护身符+3
+852,实测,dceceee5,黒翼の友宝,Black-Wing Amulet,黑翼护身符
+853,实测,709e6e56,大翼のお守り,Great Wing,大翼
+854,实测,450eea6c,大翼のお守り＋１,Great Wing,大翼+1
+855,实测,450eea6f,大翼のお守り＋２,Great Wing,大翼+2
+856,实测,450eea6e,大翼のお守り＋３,Great Wing,大翼+3
+857,实测,f13d2841,大翼の友宝,Great Wing,大翼
+858,实测,43f11a2d,赤翼のお守り,Red-Wing Amulet,红翼护身符
+859,实测,71af5227,赤翼のお守り＋１,Red-Wing Amulet +1,红翼护身符+1
+860,实测,71af5224,赤翼のお守り＋２,Red-Wing Amulet +2,红翼护身符+2
+861,实测,71af5225,赤翼のお守り＋３,Red-Wing Amulet +3,红翼护身符+3
+862,实测,d1201a10,赤翼の友宝,Red wing friend treasure,
+863,实测,0b213259,竜鱗のお守り,Dragonscale Amulet,龙鳞护身符
+864,实测,7de27ba3,竜鱗のお守り＋１,Dragonscale Amulet +1,龙鳞护身符+1
+865,实测,7de27ba0,竜鱗のお守り＋２,Dragonscale Amulet +2,龙鳞护身符+2
+866,实测,7de27ba1,竜鱗のお守り＋３,Dragonscale Amulet +3,龙鳞护身符+3
+867,实测,57fe814c,竜鱗の友宝,Dragon scale friend treasure,
+868,实测,f0dce9ce,赤鱗のお守り,Red-Scale Amulet,红鳞护身符
+869,实测,5e354ff4,赤鱗のお守り＋１,Red-Scale Amulet +1,红鳞护身符+1
+870,实测,5e354ff7,赤鱗のお守り＋２,Red-Scale Amulet +2,红鳞护身符+2
+871,实测,5e354ff6,赤鱗のお守り＋３,Red-Scale Amulet +3,红鳞护身符+3
+872,实测,f46f1349,赤鱗の友宝,Red scale friend treasure,
+873,实测,dc96b26d,黒鱗のお守り,Black-Scale Amulet,黑鳞护身符
+874,实测,b9f02c67,黒鱗のお守り＋１,Black-Scale Amulet +1,黑鳞护身符+1
+875,实测,b9f02c64,黒鱗のお守り＋２,Black-Scale Amulet +2,黑鳞护身符+2
+876,实测,b9f02c65,黒鱗のお守り＋３,Black-Scale Amulet +3,黑鳞护身符+3
+877,实测,9b709750,黒鱗の友宝,Black scale friend treasure,
+878,实测,35010b61,象牙のお守り,Ivory amulet,
+879,实测,a47a73fb,象牙のお守り＋１,Ivory amulet +1,
+880,实测,a47a73f8,象牙のお守り＋２,Ivory amulet +2,
+881,实测,a47a73f9,象牙のお守り＋３,Ivory amulet +3,
+882,实测,da64f8a4,象牙の友宝,Ivory treasure,
+883,实测,5aa0a76a,赤い宝石,Red Jewel,赤红宝石
+884,实测,19de8cb3,闇赤の宝石,Dark Red Jewel,暗红宝石
+885,实测,f5fe685b,漆黒のグウェン,Ink-Black Wen,漆黑的戈温
+886,实测,43ed0ed0,漆闇のグウェン,Ink-Dark Wen,漆暗的戈温
+887,实测,b31053d3,マハマドゥの右腕,Mahadu's Right Arm,马哈马杜之右臂
+888,实测,f4e935d3,マハマドゥの闇腕,Mahadu's Dark Arm,马哈马杜之暗臂
+889,实测,7ac2b3d4,地弦・黒曜,Obsidian,地弦·黑曜
+890,实测,5756344e,闇弦・黒曜,Dark Obsidian,暗弦·黑曜
+891,实测,6c6cfd47,赤き斧の呪詛,Bloodaxe Curse,赤红斧的诅咒
+892,实测,e1e533e1,血の文様,Blood Pattern,血之花纹
+893,实测,4dea0ea6,闇血の文様,Dark Blood Crest,
+894,实测,443db473,ダバの羅針盤,Dhaba's Compass,达巴的罗盘
+895,实测,1cb571c2,ダバの闇羅針盤,Dhaba's Dark Compass,达巴的暗罗盘
+896,实测,6e1e77cd,？？？の身体,?,？？？
+897,实测,9d91f323,機械の身体,Mechanical Form,机械之躯
+898,实测,d10a9c42,七星核,Seven-Star Engine,七星核
+899,实测,b9280467,闇の七星核,Dark-Star Engine,暗七星核
+900,实测,93b210ff,船長の心核,Leader's Heart Core,船长的心核
+901,实测,6e02af91,鼻撃,Trunk Attack,鼻击
+902,实测,b16be053,踏みならし,Trample,踩踏
+903,实测,eb8eea83,猛撃,Staggering Blows,猛攻
+904,实测,f9168d4f,竜爪,Claw,钩爪
+905,实测,08a1eca6,竜化攻撃_ダグザ,Dragonization attack_dagda,
+906,实测,ed84f4e0,竜化攻撃_イシエト,Dragonization attack_ishiet,
+907,实测,a7e2a4e7,竜化攻撃_ライラー,Dragonization attack_lylar,
+908,实测,ceb878b2,竜化攻撃_セテス,Dragonization attack_seteth,
+909,实测,a6b5034c,特技用物理,Physics for special skills,
+910,实测,a244b9aa,特技用魔法,Special skill magic,
+911,实测,a547cd5b,特技用妨害,Special skill interference,
+912,实测,ad4fe58f,特技用補助,Special skills aid,
+913,实测,880feeaa,特技用回復,Special skill recovery,
+914,实测,279c3e02,経験値無し,No experience points,
+915,实测,0e630717,計略物攻,Strategy attack,
+916,实测,30efa1ba,計略魔攻,Strategy magic attack,
+917,实测,63b09e15,計略回復,Strategic recovery,
+918,实测,c09bdd80,計略特殊,Special strategy,
+919,实测,da5ee96e,武器_冥炎弾,Weapon_dark flame bullet,
+920,实测,da673c00,武器_冥炎波,Weapon_dark flame wave,
+921,实测,da677e78,武器_冥炎星,Weapon_dark flame star,
+922,实测,3d4664fb,武器_影縛,Weapon_shadowbound,
+923,实测,3d4b2b55,武器_影滅,Weapon_shadow destruction,
+924,实测,a2dddd18,武器_虚脱の冥呪,Weapon_curse of destruction,
+925,实测,59f16647,武器_鈍化の冥呪,Weapon_slowing curse,
+926,实测,00f5ca77,武器_凶運の冥呪,Weapon_curse of bad luck,
+927,实测,29b0f80e,武器_攻転の冥呪,Weapon_attack spell,
+928,实测,4acd0214,武器_防転の冥呪,Weapon_block spell,
+929,实测,fd2c823d,武器_シュトラール,Weapon_strahl,
+930,实测,6c1c6eda,武器_ランツェ,Weapon_ranze,
+931,实测,8c3a2ec0,武器_轟土,Weapon_todoroki,
+932,实测,7e94b6be,武器_大轟土,Weapon_great roaring earth,
+933,实测,2537f643,武器_彗星煌弾,Weapon_comet glitter bullet,
+934,实测,32e8dad1,武器_熱狂の歌,Weapon_song of enthusiasm,
+935,实测,d45ddb0d,武器_冷狂の歌,Weapon_cold song,
+936,实测,d18aab72,武器_狂騒の歌,Weapon_song of madness,
+937,实测,b3790bb0,武器_怨嗟の歌,Weapon_song of grudge,
+938,实测,e8dd19dd,武器_滅冥の歌,Weapon_song of death,
+939,实测,bc2ef71b,武器_女神の舞,Weapon_goddess dance,
+940,实测,9038334d,武器_龍波１,Weapon_ryūha 1,
+941,实测,9038334e,武器_龍波２,Weapon_ryuha 2,
+942,实测,9038334f,武器_龍波３,Weapon_ryūha 3,
+943,实测,03e4ca11,武器_煌龍波,Weapon_glare dragon wave,
+944,实测,a35efcf4,武器_波動廻龍勁,Weapon_hado kairyuuke,
+945,实测,356397fd,武器_七星天龍勁,Weapon_seven stars tenryuken,
+946,实测,4820cdc8,武器_白鴉烈光槍１,Weapon_white raven spear 1,
+947,实测,4820cdcb,武器_白鴉烈光槍２,Weapon_white raven spear 2,
+948,实测,4820cdca,武器_白鴉烈光槍３,Weapon_white raven spear 3,
+949,实测,4820cdcd,武器_白鴉烈光槍４,Weapon_white raven spear 4,
+950,实测,4820cdcc,武器_白鴉烈光槍５,Weapon_white raven spear 5,
+951,实测,37bf21e8,武器_バロール反撃,Weapon_balor counterattack,
+952,实测,26671df1,弓砲台,Ballista,弓弩炮台
+953,实测,84ba230f,弓砲台_範囲3-10,Bow battery_range 3-10,
+954,实测,01723c56,弓砲台_SC12_17,Ballista,弓弩炮台
+955,实测,fdb0f337,弓砲台_SC13_11,Ballista,弓弩炮台
+956,实测,fdb0f334,弓砲台_SC13_12,Ballista,弓弩炮台
+957,实测,fdb0f335,弓砲台_SC13_13,Ballista,弓弩炮台
+958,实测,0b1fca1e,弓砲台_SC14_15,Ballista,弓弩炮台
+959,实测,163eec4d,弓砲台_SC16_18,Ballista,弓弩炮台
+960,实测,850872f7,弓砲台_SC30_01,Ballista,弓弩炮台
+961,实测,f291d256,弓砲台_SC11_09,Ballista,弓弩炮台
+962,实测,fdb0f48d,弓砲台_SC13_04,Ballista,弓弩炮台
+963,实测,01723c57,弓砲台_SC12_16,Ballista,弓弩炮台
+964,实测,bb4bfd65,魔砲台,Magic Cannon,魔炮
+965,实测,cb053602,魔砲台_SC12_17,Magic Cannon,魔炮
+966,实测,c68a7f48,魔砲台_SC13_12,Magic Cannon,魔炮
+967,实测,c68a7f49,魔砲台_SC13_13,Magic Cannon,魔炮
+968,实测,adfc8ce2,魔砲台_SC14_15,Magic Cannon,魔炮
+969,实测,b91baf13,魔砲台_SC16_12,Magic Cannon,魔炮
+970,实测,b91baf19,魔砲台_SC16_18,Magic Cannon,魔炮
+971,实测,50c5280b,魔砲台_SC30_01,Magic Cannon,魔炮
+972,实测,cb053603,魔砲台_SC12_16,Magic Cannon,魔炮
+973,实测,bade13be,魔砲台白,Magic Cannon (White),
+974,实测,5a3869cd,魔砲台白_SC12_17,Magic Cannon (White),
+975,实测,5eb32087,魔砲台白_SC13_12,Magic Cannon (White),
+976,实测,5eb32086,魔砲台白_SC13_13,Magic Cannon (White),
+977,实测,3de92dc9,魔砲台白_SC14_15,Magic Cannon (White),
+978,实测,46252774,魔砲台白_SC16_12,Magic Cannon (White),
+979,实测,4625277e,魔砲台白_SC16_18,Magic Cannon (White),
+980,实测,9b007270,魔砲台白_SC30_01,Magic Cannon (White),
+981,实测,5a3869cc,魔砲台白_SC12_16,Magic Cannon (White),
+982,实测,65ab24a8,投石機,Onager,投石机
+983,实测,9defdcf9,投石機_範囲3-8,Trebuchet_range 3-8,
+984,实测,096c4106,投石機_SC30_01,Onager,投石机
+985,实测,eaf4c182,投石機_SC13_11,Onager,投石机
+986,实测,dd8620db,投石機_SC14_15,Onager,投石机
+987,实测,7341ac7c,投石機_SCXX_08,Trebuchet_scxx_08,
+988,实测,3c0a20ce,錬成石,Smithing Stone,锻造石
+989,实测,26a53164,玉鋼,Black-Sand Steel,玉钢
+990,实测,f3a00286,毒石,Venomstone,毒石
+991,实测,49b16818,海星石,Sea-Star Stone,海星石
+992,实测,beda61dc,風石,Windstone,风石
+993,实测,3fca2a78,雷石,Thunderstone,雷石
+994,实测,f7a194d5,カレット,Cullet,碎晶
+995,实测,e9dea1b9,ウーツ鋼,Wootz Steel,乌兹钢
+996,实测,e1652d3c,ネメアード,Nemearite,涅梅亚矿
+997,实测,18da47d2,燧結晶,Phlogiston,热素矿
+998,实测,35c4a5eb,太陽石,Sunstone,太阳石
+999,实测,46f9512e,月光石,Lunar Stone,月光石
+1000,实测,6106664a,ブルースノール,Blue Snoll,蓝雪石
+1001,实测,b4d7e600,マジックアレイ,Spellshard,魔阵石
+1002,实测,58cd8ec7,アガルチウム,Agarthium,阿加尔金属
+1003,实测,649e1896,ダークメタル,Umbral Steel,黑暗金属
+1004,实测,70642064,オリハルコン,Orichalcum,奥利哈钢
+1005,实测,c51b2830,アダマント,Adamantine,精金
+1006,实测,ee4f6e95,戦魂石,Warrior's Soulstone,战魂石
+1007,实测,85ea14cd,ノブタ肉,Nobubuta meat,
+1008,实测,a7ea6a48,オオカミ肉,Wolf Meat,狼肉
+1009,实测,ec67afa7,ヤク肉,Yarc Meat,亚库肉
+1010,实测,e71f2d50,ワラジムシ肉,Louse Meat,潮虫肉
+1011,实测,ebc3d87d,クマ肉,Bear Meat,熊肉
+1012,实测,f1f31fef,クサリク肉,Kusarik Meat,库沙里克肉
+1013,实测,86fd6a12,トカゲ肉,Flying-Lizard Meat,飞蜥蜴肉
+1014,实测,8c2cf4f3,サソリ肉,Scorpion meat,
+1015,实测,806e8a18,海獣肉,Sea-Beast Meat,海兽肉
+1016,实测,a9df97d7,ルフ肉,Rukh Meat,鲁弗肉
+1017,实测,7f76a52d,巨大肉,Giants' Meat,巨大肉
+1018,实测,aefc59f6,砂虫肉,Sandworm Meat,沙虫肉
+1019,实测,116fa485,タルトゴビー,Talto Goby,塔尔特虾虎鱼
+1020,实测,a6287813,試供餌,Sample bait,
+1021,实测,37f373a4,バアルパイク,Baal Pike,霸尔狗鱼
+1022,实测,6ac37028,カーネボニート,Carna Bonito,肉鲣
+1023,实测,841959ff,シュガーマーリン,Sugar Marlin,香甜马林
+1024,实测,f971e9ed,ホワイトトラウト,White Trout,白鳟
+1025,实测,c99f99e7,コーシャルーガー,Kothar Gar,柯夏鲁雀鳝
+1026,实测,49853a92,リルフィッシュ,Lir Fish,里尔鱼
+1027,实测,dc06179e,スカライ,Skolai,斯卡莱伊
+1028,实测,d340ba13,ラドンローチ,Ladon Loach,拉冬泥鳅
+1029,实测,d50d7249,ハードフィッシュ,Steelfish,硬鱼
+1030,实测,bd2e9983,ラドンパイク,Ladon Pike,拉冬狗鱼
+1031,实测,7c69bc6a,アルビネニシン,Albinean Herring,阿鲁比聂鲱鱼
+1032,实测,791acfb3,グラディゴビー,Grady Goby,古拉迪虾虎鱼
+1033,实测,38c19977,ゴールドトラウト,Golden Trout,金鳟
+1034,实测,938e1840,バザリーシャーク,Bazari Shark,巴札里鲨
+1035,实测,73f02c4f,ガラマーリン,Garla Marlin,加拉马林
+1036,实测,7dafd9f8,ブラックローチ,Black Loach,黑泥鳅
+1037,实测,e4b61702,シールドパイク,Aegis Pike,盾形狗鱼
+1038,实测,2dd7fcf3,メルトフィッシュ,Meltfish,融鱼
+1039,实测,65412aaf,ダークフィッシュ,Bedfish,暗鱼
+1040,实测,868d17da,ムーンフィッシュ,Moonfish,月鱼
+1041,实测,cd112ea5,ゾトーゴン,Zotogon,佐托贡
+1042,实测,3c14e1c3,カガヤキウオ,Paradise Fish,辉光鱼
+1043,实测,d4049cae,ハートボニート,Heart Bonito,心鲣
+1044,实测,9288df89,ユメノシルベ,Dreamtracer,梦之标
+1045,实测,ac1e6457,ラーラン,Rahlan,拉朗
+1046,实测,d174b30e,クイーンローチ,Queen Loach,女王泥鳅
+1047,实测,91f47826,ダグザンディ,Dagdandi,鞑古扎恩涤
+1048,实测,8b9056ae,テフノミ,Coffee Berries,特芙果
+1049,实测,a61711eb,試供種,Trial species,
+1050,实测,3542dbd1,サバクキビ,Desert Millet,沙漠黍
+1051,实测,14776884,バク,Bakul,巴谷
+1052,实测,e9d47af1,ギンジ,Ginji,津吉
+1053,实测,a92547e9,デーツ,Dates,椰枣
+1054,实测,a436b812,ヤーマンギク,Yaamanthemum,亚曼菊
+1055,实测,d21f74a4,サンノミ,Thry Fruit,太阳果
+1056,实测,cabdc7df,ロカ,Roca,洛卡
+1057,实测,4863e16f,リナリア,Linaria,姬金鱼草
+1058,实测,75470703,ザンゲ,Zang,赞格
+1059,实测,17168375,イチノミ,Wun Fruit,壹果
+1060,实测,a5736eeb,ソロム,Solom,索罗姆
+1061,实测,f3d19679,ポンゴ,Pongo,蓬葛
+1062,实测,603c237c,ミラニラ,Miranilla,秘菈尼拉
+1063,实测,e3f19bb6,パイヤ,Paya,派芽
+1064,实测,691c6b60,ヒシバナ,Caltrop Flower,菱花
+1065,实测,15689862,カダム,Cadam,咖哒姆
+1066,实测,bd13f7eb,セムイモ,Shem Yam,塞姆芋
+1067,实测,c4964b23,ソルダネラ,Soldanella,雪铃花
+1068,实测,896b3690,ソルギ,Solgi,梭露季
+1069,实测,7a9ab927,グルマオサ,Glirmosa,佳兰
+1070,实测,acc0889e,レッドフリッカ,Redflicker,红烁
+1071,实测,78544cdd,メララ,Melara,霉拉拉
+1072,实测,79da86a0,アガヴェ,Agave,龙舌兰
+1073,实测,a5f9ac36,シャクトウ,Shaktoh,夏库托
+1074,实测,2b2e340c,オブロマ,Obroma,奥卜洛玛
+1075,实测,73e045ea,キンバイ,Kimbai,金拜
+1076,实测,125d8a74,チャノキ,Tea Tree,茶树
+1077,实测,cf8c4e95,オリバ,Oliva,甘榄
+1078,实测,06514f0c,ハクサン,Hakseng,哈库桑
+1079,实测,763a4463,デネバトウ,Denebatou,
+1080,实测,1e915b85,キンバショウ,Jin Ba Jiao,金芭蕉
+1081,实测,aa11aa64,アパチア,Apatta,阿帕提芽
+1082,实测,eead173b,アオギンジ,Blue Ginji,青津吉
+1083,实测,7645da6f,アンゼリカ,Angelica,白芷
+1084,实测,0b375f3e,ヒカリボシ,Lightstar,光之星
+1085,实测,de910340,ユナメイ,Yuna Mei,尤那魅
+1086,实测,9a9f8a49,ニネイアッカ,Ninokka,尼内亚卡
+1087,实测,e285639f,クレストル,Crestor,库勒司妥露
+1088,实测,80efe088,バスカッチ,Baquatti,巴斯卡奇
+1089,实测,3f895192,アルマメット,Almamet,亚尔玛梅托
+1090,实测,7e85fda5,アカキンバイ,Red Kimbai,赤金拜
+1091,实测,fb7d9fdf,煉獄草,Torment Grass,炼狱草
+1092,实测,7f4b5f8f,ラザニバータ,Lazanibata,拉扎尼巴塔
+1093,实测,cf2ea11e,ノアノミ,Noa Fruit,挪亚果
+1094,实测,e8b5e0b2,エンリエット,Enrietto,恩黎艾特
+1095,实测,8d5cbce6,ミザンガ,Mizang,米赞加
+1096,实测,70fa34e6,ジョッパ,Jyoppa,约帕
+1097,实测,f18c1a84,フュージュ,Fyujo,弗尤朱
+1098,实测,5a9d05a7,シャルミュール,Charmure,
+1099,实测,c2cb30a6,ダッカモンジュ,Dakka Monja,达卡梦竺
+1100,实测,109798b2,シナモス,Cinnamos,西拿摩司
+1101,实测,d53c109f,ピレスギク,Pyrethrum,驱虫菊
+1102,实测,f1cd0595,ヒンガシャ,Hingosh,槟迦舍
+1103,实测,5d288169,リガネット,Liganet,利加涅特
+1104,实测,71ebf6d3,オドモンジュ,Oda Monja,欧多梦竺
+1105,实测,9c0f4617,トバリナラ,Twalinnara,托巴霖橡木
+1106,实测,79d0ca11,ユキトウ,Yukito,尤基托乌
+1107,实测,1231011b,ココミンジ,Cocominj,可可敏吉
+1108,实测,fb07d209,ウサモス,Usamos,乌萨摩斯
+1109,实测,3d6621be,ハクレン,Hakuren,哈库连
+1110,实测,ca17d330,スウィートリーフ,Sweet Leaves,甜美利芙
+1111,实测,3389ab31,スパイスリーフ,Pepper Leaves,香辛利芙
+1112,实测,d4a41212,ビターリーフ,Bitter Leaves,苦涩利芙
+1113,实测,c1230c23,ワンダーリーフ,Wonder Leaves,玄妙利芙
+1114,实测,311e0a5f,馬のフン,Horse Manure,马粪
+1115,实测,db03d1fe,オルニウスのフン,Ornius Manure,欧鲁尼乌斯粪
+1116,实测,55ea17a9,ペガサスのフン,Pegasus Manure,飞马粪
+1117,实测,2ac6c939,バウのフン,Bau Manure,巴乌粪
+1118,实测,a86fb978,１００Ｇ,100g,
+1119,实测,f6f12f95,２００Ｇ,200g,
+1120,实测,2efb7c9a,３００Ｇ,300g,
+1121,实测,fc34c78c,５００Ｇ,500g,
+1122,实测,d073a9b9,１０００Ｇ,1000g,
+1123,实测,c4aa1d32,２０００Ｇ,2000g,
+1124,实测,cecbf578,８０００Ｇ,8000g,
+1125,实测,df87da2a,下級資格手形,Junior qualification bill,初级考试票证
+1126,实测,d4e73468,中級資格手形,Intermediate qualification note,中级考试票证
+1127,实测,d5b0de79,上級資格手形,Advanced qualification bill,上级考试票证
+1128,实测,6f937d07,最上級資格手形,Highest qualification certificate,最上级考试票证
+1129,实测,6e42a917,戦象兵資格手形,War elephant soldier qualification certificate,战象兵考试票证
+1130,实测,3e06380f,踊り子資格手形,Dancer qualification bill,舞娘考试票证
+1131,实测,003792fa,転生の蓮華,Lotus of Reincarnation,转世莲华
+1132,实测,136434f2,ムーサの首飾り,Muses' Necklace,穆萨首饰
+1133,实测,cbc31114,大帝の腹帯,Emperor's Sash,大帝腰封
+1134,实测,95e42789,三叉の矛,Trident,三叉戟
+1135,实测,8b66a348,闇の結晶,Crystal of Darkness,暗之结晶
+1136,实测,c89baf6a,妖刀の鍔,Demonic Swordguard,妖刀之锷
+1137,实测,14fd5fbc,神鉄の鞍,Divinium Saddle,神铁之鞍
+1138,实测,aaf0d19b,裁きの天秤,Scales of Judgment,裁决天秤
+1139,实测,389e14bd,復興資材,Reconstruction materials,
+1140,实测,488c4256,魔響石,Magic Echo Shard,魔响石
+1141,实测,63e73e4f,魔響石・大,Magic Echo Stone,魔响石·大
+1142,实测,63e72a0b,魔響石・小,Magic Echo Stone,魔响石·大
+1143,实测,2c51ccb0,魔響石・大_第3部,Magic Echo Stone,魔响石·大
+1144,实测,531a787c,魔響石・小_第3部,Magic Echo Stone,魔响石·大
+1145,实测,e1e16242,天冠の鍵,Key of the Diadem,天冠钥匙
+1146,实测,7f42cb3a,ランバス地図,Lambath Map,兰巴斯地图
+1147,实测,471c498c,エレクトラ地図,Elektra Map,艾雷克特拉地图
+1148,实测,4697657f,カスタリア地図,Castalia Map,卡斯塔利亚地图
+1149,实测,238ebd34,タレイア地図,Thaleia Map,塔雷亚地图
+1150,实测,cafa08b2,ソリダス地図,Solidus Map,索利达斯地图
+1151,实测,ee88f24b,バシテア地図,Pasithea Map,巴希泰雅地图
+1152,实测,b42bb130,ブラクシテア地図,Braxithea Map,布拉克辛泰雅地图
+1153,实测,b269d59c,メリアス地図,Melias Map,梅利亚斯地图
+1154,实测,db5d6f68,サヴェロン地図,Saveilon Map,萨维隆地图
+1155,实测,598e37b2,ヤクの乳,Yarc Milk,亚库奶
+1156,实测,ad9fa7fe,蜂蜜入りの乳,Honey Milk,加了蜂蜜的奶
+1157,实测,d4491c8f,素朴な焼き菓子,Simple Pastries,朴素的烤点心
+1158,实测,fa85df42,少し甘い焼き菓子,Mellow Pastries,微甜的烤点心
+1159,实测,deb68573,香ばしい焼き菓子,Fragrant Pastries,香喷喷的烤点心
+1160,实测,8f963570,蜂蜜入り焼き菓子,Honey Pastries,加了蜂蜜的烤点心
+1161,实测,c8c8daa5,テフ入り焼き菓子,Coffee Pastries,加了特芙的烤点心
+1162,实测,14781c8f,子猫の置物,Kitten Figurine,小猫摆设
+1163,实测,871adde0,実用的な裁縫道具,Full Sewing Kit,实用裁缝工具
+1164,实测,bee7897a,野菜の瓶漬け,Pickled Vegetables,瓶装腌菜
+1165,实测,37574c7c,ビウエラ保全道具,Vihuela-Care Tools,比维拉琴保养工具
+1166,实测,17269421,野外調理道具,Outdoor Cooking Set,野外用厨具
+1167,实测,8fcde1a3,簡単な手品道具,Magic-Trick Set,简易魔术道具
+1168,实测,72021b55,武術訓練用の重り,Training Weights,武术训练用重物
+1169,实测,a03ce256,サラミスの菓子,Saraminian Sweets,萨拉弥斯的点心
+1170,实测,4a3ef43a,ジャーメルの乳,Jamel Milk,迦梅尔奶
+1171,实测,b107cd73,鬣飾り,Mane Ornament,鬃毛饰品
+1172,实测,26de896c,精霊の護人形,Protection Figurine,精灵护身人偶
+1173,实测,0f8c7e33,盤上遊戯の定石集,A collection of standard board games,
+1174,实测,98f81181,ダグザヒゲシバ,Dagda Beard Grass,鞑古扎鼠尾粟
+1175,实测,b308ac5e,しなやかな釣り竿,Flexible Fishing Rod,有弹性的钓竿
+1176,实测,81b535e9,漆黒の尾羽,Black Tail Feathers,漆黑的尾羽
+1177,实测,f2cc5c10,庶民百景,Everyday Scenes,庶民百景
+1178,实测,1b4b031c,弓の手入れ道具,Bow Repair Kit,弓箭保养工具
+1179,实测,84be685a,球根の酢漬け,Pickled Bulbs,醋渍球根
+1180,实测,07942614,味わい深い調味料,Strong Seasonings,风味浓郁的调味料
+1181,实测,8e2bf902,真紅の牛の像,Crimson Bull Figure,深红色牛雕像
+1182,实测,2987ab95,翡翠色の豹の像,Jade Panther Figure,翡翠色豹雕像
+1183,实测,53f64544,野菜の鉢植え,Potted Vegetables,蔬菜盆栽
+1184,实测,4cfdecbe,鋭い釣り針,Sharp Fishhook,尖锐的鱼钩
+1185,实测,b7ac7bae,風裂きの矢羽根,Wing Fletching,裂风箭羽
+1186,实测,dd87a00b,家庭料理大全,Home-Recipe Book,家庭料理大全
+1187,实测,6df50d81,美人水,Beauty water,
+1188,实测,348e54ac,鍛錬用の石柱,Training Pillar,锻炼用石柱
+1189,实测,72305377,よく切れる彫刻刀,Crafting Knives,锋利的雕刻刀
+1190,实测,c16e5bad,栄養満点お菓子本,Pastry Cookbook,营养满分点心书
+1191,实测,c35e2d23,鋭く小さな短剣,Sharp Dagger,锋利的小短剑
+1192,实测,fe40fb07,甘いお菓子の小箱,Box of Treats,一小盒甜点
+1193,实测,5057fff6,淡い色の画材,Pack of Pastels,浅色绘画材料
+1194,实测,7455c92f,ダンテ戯曲全集,The Works of Dante,丹提戏曲全集
+1195,实测,650f543e,珍しい香辛料,Rare Spices,稀有的香料
+1196,实测,9fae034a,薬草料理大全,Herbal Recipe Guide,药草料理大全
+1197,实测,2bb1665b,村の素朴な料理集,Village Recipes,乡村简朴料理集
+1198,实测,41f3b465,獣肉と砂虫の珍味,Meaty Delicacy,兽肉与沙虫的珍馐
+1199,实测,9cc6cd0c,魚の内臓の塩漬け,Brined Fish Guts,盐渍鱼内脏
+1200,实测,0324c063,丈夫な背負い革袋,Sturdy Rucksack,耐用的皮革背包
+1201,实测,fe3bd3ef,鍛錬用の装飾腕輪,Training Bracelet,锻炼用装饰手环
+1202,实测,7194b5c1,骨董の戦功章,Antique Medal,古董战功勋章
+1203,实测,cc83f6cf,模造の武功章,Imitation Medal,仿制战功勋章
+1204,实测,44e9927d,女騎士と求婚者,The Knight's Suitors,女骑士与求婚者
+1205,实测,836360e6,関節保護用長手袋,Joint-Relief Gloves,关节保护用长手套
+1206,实测,3992a66e,貿易取引入門,Trader's Handbook,商贸入门
+1207,实测,4d35ccd1,精霊の盤上遊戯,Spirit Board Game,精灵桌上游戏
+1208,实测,3f681c10,派手で美しい指輪,Exquisite Ring,华美的戒指
+1209,实测,83f1cbb4,巨大魚の目玉,Huge Fish Eyeball,巨型鱼的眼珠
+1210,实测,3aa6c5d0,真紅の薔薇の花束,Red-Rose Bouquet,深红蔷薇花束
+1211,实测,ee4e912b,派手すぎる腕輪,Gaudy Bangle,过于华丽的手环
+1212,实测,0526ac9a,高級八卦占い道具,Divination Bagua,高级八卦占卜道具
+1213,实测,12fb44db,異邦の分厚い書物,Thick Foreign Tome,厚重的异国书籍
+1214,实测,b7e42570,闘技場物語の写本,Tales of the Arena,斗技场故事的抄本
+1215,实测,f14d354d,馬のお手入れ道具,Horse-Grooming Kit,马匹保养工具
+1216,实测,c810a6c9,黒檀の盤上遊戯,Ebony Game Board,黑檀制桌上游戏
+1217,实测,db10f504,世界の名詩集,Poems of the Greats,世界名诗集
+1218,实测,599c6d7a,南部の珍しい種子,Rare Southern Seeds,南部的稀有种子
+1219,实测,493b4ebb,教職員事件簿,School Scandal,教职员事件簿
+1220,实测,1a5bb24d,二振りの魚包丁,Dual Fish Knives,两把鱼刀
+1221,实测,f3192db6,ペガサスの風景画,Pegasus Panorama,飞马的风景画
+1222,实测,869ad00b,東方恋愛見聞録,Eastern Love Story,东方恋爱见闻录
+1223,实测,82a3c81e,蒼い薔薇の花束,Blue-Rose Bouquet,蓝蔷薇花束
+1224,实测,ddbdb7b9,朱色の髪飾り,Red Hair Clip,朱红色发饰
+1225,实测,ead69e0e,お食事無料券,Meal Voucher,免费用餐券
+1226,实测,c17242d7,盾たちの肖像画,Shield Portrait,“盾”的肖像画
+1227,实测,6fb9f959,美しい飾り矢,Decorative Arrows,精美的装饰用箭
+1228,实测,0b04aa1d,東方の耳飾り,Eastern Earrings,东方耳饰
+1229,实测,ac006505,奇妙な野菜の種子,Odd Vegetable Seeds,奇妙的蔬菜种子
+1230,实测,a56b6f6a,軍略書の写本,Strategy Manuscript,战术书的抄本
+1231,实测,aaae3a9c,モルフィスの紅茶,Morfis Tea,摩尔菲斯红茶
+1232,实测,ef50f2f7,フォドラの紅茶,Fódlan Tea,芙朵拉红茶
+1233,实测,ff8a1900,東方の最高級茶葉,Eastern Tea Leaves,东方顶级茶叶
+1234,实测,f1169008,海の向こうの古書,Tome from Away,来自海对面的古书
+1235,实测,516add22,小さい白い花の絵,Flower Painting,小白花绘画
+1236,实测,e3eaeb64,東方の漆黒絹,Eastern Black Silk,东方漆黑绢
+1237,实测,a331b522,矢じりの形の宝石,Arrowhead Gem,箭头形的宝石
+1238,实测,90b930fd,繊細な氷砂糖,Candy Crystals,细冰糖
+1239,实测,08873e8c,無骨な業物,Rugged Blade,质朴的利器
+1240,实测,d3ee7135,モルフィス歳時記,Morfis Almanac,摩尔菲斯岁时记
+1241,实测,a1041a9c,砂漠で見つけた物,Desert Curios,沙漠中发现的东西
+1242,实测,63e79044,東方の盤上遊戯,Eastern Board Game,东方桌上游戏
+1243,实测,f5b279fe,儀礼用の鋭い槍,Ceremonial Spear,锋利的礼仪用枪
+1244,实测,83d6bc58,廃墟で見つけた物,Ruin Relics,废墟中发现的东西
+1245,实测,8e9503eb,アム・ルー染手巾,Ahm Lu Cloth,阿姆·卢染色手帕
+1246,实测,a6068831,ユ・ファスの肖像,Portrait of Yu Phas,幽·法丝的肖像
+1247,实测,bf7cdd1b,南洋冒険奇譚,Tales of Adventure,南洋冒险奇谭
+1248,实测,fcd5eaf8,旅の老師の口伝録,History of a Master,旅行老人的语录
+1249,实测,c887be5a,小粒のテフ,Common Coffee,小粒特芙
+1250,实测,91646c8e,大粒のテフ,Select Coffee,大粒特芙
+1251,实测,8e860b56,南方の薫るテフ,Southern Coffee,南方风味特芙
+1252,实测,4173ea75,オーガスのテフ,Orgus Coffee,欧加斯特芙
+1253,实测,4cf76c20,幻のソロモンテフ,Solomon Coffee,幻之索罗门特芙
+1254,实测,97f8b80c,若いゴーシュ,Young Ghosh,新酿赤烧
+1255,实测,ce7ddbb0,熟成ゴーシュ,Mature Ghosh,陈酿赤烧
+1256,实测,d6c6c7d4,太陽のゴーシュ,Sun Ghosh,太阳赤烧
+1257,实测,9a0331eb,刺激的なゴーシュ,Energizing Ghosh,味道刺激的赤烧
+1258,实测,30b8599b,素朴なゴーシュ,Rustic Ghosh,朴素的赤烧
+1259,实测,781b8a6a,翡翠色のゴーシュ,Jade Ghosh,翡翠色赤烧
+1260,实测,2f95aac7,秘伝のゴーシュ,Secret Ghosh,秘传赤烧
+1261,实测,ec083ac8,南方のゴーシュ,Southern Ghosh,南方赤烧
+1262,实测,a74d5138,火の山のゴーシュ,Volcano Ghosh,火之山赤烧
+1263,实测,c8e27d05,百薬の雫,"Special ""Medicine""",百药之萃
+1264,实测,0f6eb110,真紅のゴーシュ,Crimson Ghosh,鲜红赤烧
+1265,实测,a5f76bba,若いソウシュ,Young Shosh,新酿苍烧
+1266,实测,ba9ec39e,熟成ソウシュ,Mature Shosh,陈酿苍烧
+1267,实测,a8b55e36,軽妙なソウシュ,Light Shosh,清爽的苍烧
+1268,实测,cf42df3c,蒼空のソウシュ,Blue Shosh,苍空苍烧
+1269,实测,862ac4a9,芳醇なソウシュ,Aromatic Shosh,香醇的苍烧
+1270,实测,88cfd84a,薄いセルビ,Weak Cervi,淡雪露必
+1271,实测,d9fb96d0,濃いセルビ,Strong Cervi,浓雪露必
+1272,实测,eb1cbe55,熟成干しセルビ,Mature Dried Cervi,熟成雪露必干
+1273,实测,c5aba345,ギンジ入りセルビ,Ginji Cervi,加了津吉的雪露必
+1274,实测,ef75b46e,純白のセルビ,Pure-White Cervi,纯白的雪露必
+1275,实测,2238c4b0,ガルム,Garum,鱼酱
+1276,实测,b9bf0a84,淡麗なガルム,Smooth Garum,爽口的鱼酱
+1277,实测,aca91f87,濃厚なガルム,Concentrated Garum,味道浓厚的鱼酱
+1278,实测,c36d1b01,アレクトーガルム,Alecto Garum,阿雷库托鱼酱
+1279,实测,d7bc7336,ニーザ産のガルム,Garm from niza,
+1280,实测,ef10ba27,幻のガルム,Legendary Garum,幻之鱼酱
+1281,实测,2791a07a,嫌なガルム,Rancid Garum,难闻的鱼酱
+1282,实测,9a09b3d6,メグレズの砂,Megrez Soil,梅古雷兹之沙
+1283,实测,daec2549,古代の石板,Ancient Tablet,古代石板
+1284,实测,b3c119b4,アイギーナ水晶,Aegina Crystal,艾基纳水晶
+1285,实测,a828d1d5,呪術師の古具,Spellcaster's Relics,咒术师的旧道具
+1286,实测,c1078f2c,ジール硬貨,Djilu Coin,纪尔硬币
+1287,实测,4c8a9bfe,木彫りのジュラ像,Jurah Carving,木雕的茱拉像
+1288,实测,b73a299e,朱印の密書,Sealed Letter,盖有红印的密信
+1289,实测,0fdef588,公女の宝剣,Treasured Sword,女爵的宝剑
+1290,实测,87d2010d,大人の頬紅,Mature Blush,大人的胭脂
+1291,实测,edd6f0fb,ジュラの彫像,Statue of Jurah,茱拉雕像
+1292,实测,a9d2889f,カーラの彫像,Statue of Kalla,卡拉雕像
+1293,实测,097c554a,ユ・ファスの彫像,Statue of Yu Phas,幽·法丝雕像
+1294,实测,fe9ab83f,フォトナの彫像,Statue of Fortuna,芙托娜雕像
+1295,实测,d7fdd678,屋敷の鍵,Mansion key,
+1296,实测,8bc1bd76,ギスコの財宝,Gisco's Treasure,基斯柯的财宝
+1297,实测,87c4b685,菫色のブローチ,Violet Brooch,菫紫色胸针
+1298,实测,b790acae,少女の髪留め,Girl's Hair Clip,少女的发夹
+1299,实测,d2fe7981,魂の結晶,Soul Crystal,魂之结晶
+1300,实测,5676a0d5,ウラノタイト,Ouranotite,乌拉诺矿
+1301,实测,f496c7dc,フラーマ,Flamma,弗拉玛
+1302,实测,5d575b6e,幻のギンジ,Rare Ginji,幻之津吉
+1303,实测,501ccb06,贈り物の箱,Mother's Gift,装有礼物的盒子
+1304,实测,2bd00f83,詩人の碑の写し,Monument Verse,诗人碑的抄本
+1305,实测,df966f5e,緋灼の雫,Scarlet Firedrops,绯灼之萃
+1306,实测,0c099ee2,デザートローズ,Desert rose,
+1307,实测,ec6ffb40,碧き心臓,Azure Heart,蓝色心脏
+1308,实测,a031d2cd,黄金の兜,Golden Helm,黄金头盔
+1309,实测,7a4e9314,砂漠の太陽石,Desert Sunstone,沙漠太阳石
+1310,实测,fdd5e9c7,ビャクダンの香木,Sandalwood,白檀香木
+1311,实测,4149e4ce,ダグザの神盾,Dagda's Godshield,鞑古扎的神盾
+1312,实测,f4a9b68f,サンドバアルの尾,Sandbael Tails,沙之主的尾巴
+1313,实测,5917559c,カイサブクエ馬具,Kaisub quest harness,
+1314,实测,ce32c63a,デモ_女神像,Goddess Statue (cutscene),
+1315,实测,51353e1b,デモ_黒曜,Obsidian (cutscene),
+1316,实测,a6d29a11,デモ_月白,Moonwhite (cutscene),
+1317,实测,d7b55369,デモ_バロールの心臓,Heart of Balor (cutscene),
+1318,实测,34a19dbd,デモ_紋章石,Crest Stone (cutscene),
+1319,实测,a3d5ba9b,デモ_羅針盤,Compass (cutscene),
+1320,实测,519fb6e2,デモ_羅針盤_左手,Compass (left hand) (cutscene),
+1321,实测,f78278fa,デモ_ナイフ,Knife (cutscene),
+1322,实测,376cdc92,デモ_ナイフ_ジャグリング,Juggling Knives (cutscene),
+1323,实测,0b3e8971,デモ_探索機,Searcher (cutscene),
+1324,实测,314a087f,デモ_ウルヴァシの冠,Urvashi's Crown (cutscene),
+1325,实测,f09e83a1,デモ_鬼面の髑髏,Ogreskull Mask (cutscene),鬼面骷髅
+1326,实测,485ecbcf,デモ_オットーちゃん,Babbu (cutscene),小奥托
+1327,实测,40db9c32,デモ_ビウエラ,Vihuela (cutscene),
+1328,实测,b3f35d37,デモ_干し首袋,Bag of Shrunken Heads (cutscene),
+1329,实测,82161c5f,デモ_巨大な盃,Giant Sake Cup (cutscene),
+1330,实测,95eab2ff,デモ_手毬,Temari Ball (cutscene),
+1331,实测,21898398,デモ_鍬,Hoe (cutscene),
+1332,实测,3054380a,デモ_フォトナ鳥,Fortuna Bird (cutscene),
+1333,实测,649234d8,デモ_フォトナ鳥_無銘の槍,Fortuna Bird with The Nameless (cutscene),
+1334,实测,26df8681,デモ_イシュマールの槍,Eshmel's Lance (cutscene),
+1335,实测,20cea7bf,デモ_手毬_両手,Temari Ball (both hands) (cutscene),
+1336,实测,0bfd7358,デモ_木箱,Wooden Crate (cutscene),
+1337,实测,21738e9c,デモ_本,Book (cutscene),
+1338,实测,dc6338ff,デモ_ペン,Pen (cutscene),
+1339,实测,e034cc9b,デモ_片手で持てる横笛,Flute (cutscene),
+1340,实测,d3d0457f,デモ_松明,Torch (cutscene),
+1341,实测,64d6fea6,デモ_画家セット,Painter's Set (cutscene),
+1342,实测,2177d190,デモ_筆,Brush (cutscene),
+1343,实测,f4d3f7d4,デモ_折りたたんだ雑巾,Folded Rag (cutscene),
+1344,实测,2177c5a8,デモ_紙,Paper (cutscene),
+1345,实测,7b0262d9,デモ_ペンと紙,Pen and Paper (cutscene),
+1346,实测,b166823a,デモ_ハンマー,Hammer (cutscene),战锤
+1347,实测,6771889c,デモ_鍛冶,Smithing Tools (cutscene),
+1348,实测,a9315659,デモ_釣り竿,Fishing Rod (cutscene),
+1349,实测,e4e1ff9a,デモ_つるはし,Pickaxe (cutscene),
+1350,实测,7138405c,デモ_銀の斧と盾,Silver Axe and Shield (cutscene),
+1351,实测,8a1f213d,デモ_鍋料理,Hot Pot (cutscene),
+1352,实测,2184a01f,デモ_袋,Bag (cutscene),
+1353,实测,ba821295,デモ_イシュマールの左腕,Eshmel's Left Arm (cutscene),
+1354,实测,4f6f1722,デモ_王権の斧,Axe of Sovereignty (cutscene),
+1355,实测,c3881134,デモ_大熊の鉤爪,Great Bear Claw (cutscene),
+1357,实测,22fdd32b,氷の救世の槍,Chosen Lance,冰冻救世之枪
+1358,实测,d7e7663c,ブレイザブリク,Breidablik,布雷萨布利克
+1359,实测,158dbf3c,王家の宝剣,Royal Sword,王室宝剑
+1360,实测,ba0cedf4,開かれし救世の剣＋１,Chosen Sword +1,开启救世之剑+1
+1361,实测,ba0cedf7,開かれし救世の剣＋２,Chosen Sword +2,开启救世之剑+2
+1362,实测,ba0cedf6,開かれし救世の剣＋３,Chosen Sword +3,开启救世之剑+3
+1363,实测,571f96d1,氷の救世の槍＋１,Chosen Lance +1,冰冻救世之枪+1
+1364,实测,571f96d2,氷の救世の槍＋２,Chosen Lance +2,冰冻救世之枪+2
+1365,实测,571f96d3,氷の救世の槍＋３,Chosen Lance +3,冰冻救世之枪+3
+1366,实测,b4216d86,ブレイザブリク＋１,Breidablik +1,布雷萨布利克+1
+1367,实测,b4216d85,ブレイザブリク＋２,Breidablik +2,布雷萨布利克+2
+1368,实测,b4216d84,ブレイザブリク＋３,Breidablik +3,布雷萨布利克+3
+1369,实测,e0013e86,王家の宝剣＋１,Royal Sword +1,王室宝剑+1
+1370,实测,e0013e85,王家の宝剣＋２,Royal Sword +2,王室宝剑+2
+1371,实测,e0013e84,王家の宝剣＋３,Royal Sword +3,王室宝剑+3
+1372,实测,b08d228c,試作品１号,Prototype I,试作品1号
+1373,实测,a339e93e,試作品７号,Prototype VII,试作品7号
+1374,实测,9b945108,試作品５号,Prototype V,试作品5号
+1375,实测,c2303916,試作品11号,Prototype XI,试作品11号
+1376,实测,ffd1b398,試作品１号|,Prototype I,试作品1号
+1377,实测,b1542b34,試作品１号||,Prototype I: |,试作品1号Ⅰ
+1378,实测,52056920,試作品１号|||,Prototype I: ||,试作品1号Ⅱ
+1379,实测,5b675426,試作品７号|,Prototype VII,试作品7号
+1380,实测,5093fcee,試作品７号||,Prototype VII: |,试作品7号Ⅰ
+1381,实测,eb76c816,試作品７号|||,Prototype VII: ||,试作品7号Ⅱ
+1382,实测,5d05b0e4,試作品５号|,Prototype V,试作品5号
+1383,实测,10ab9310,試作品５号||,Prototype V: |,试作品5号Ⅰ
+1384,实测,538ae44c,試作品５号|||,Prototype V: ||,试作品5号Ⅱ
+1385,实测,f7f1001e,試作品11号|,Prototype XI,试作品11号
+1386,实测,4e833286,試作品11号||,Prototype XI: |,试作品11号Ⅰ
+1387,实测,68eed9ce,試作品11号|||,Prototype XI: ||,试作品11号Ⅱ
+,无编号,00181cf6,H_CrimsonStatue,H Crimson Statue,
+,无编号,001a65c5,Gazeria,Gazeria,
+,无编号,002425f4,HorseCare,Horse Care,
+,无编号,003480d8,MadnessJewel,Madness Jewel,
+,无编号,005901e3,H_SolidGiant,H Solid Giant,
+,无编号,00b73d16,CommonPeople,Common People,
+,无编号,00dcb6d2,H_Arrow,H Arrow,
+,无编号,00e9ecbb,H_FodlanTea,H Fodlan Tea,
+,无编号,00f7f763,H_HairOrnament,H Hair Ornament,
+,无编号,00fb343b,H_DemonSkull,H Demon Skull,
+,无编号（游戏丢弃）,011b59bb,サンドヴィーグル_第3部_物攻_,Sandveegle_part 3_physical attack_,
+,无编号,01679350,H_SorelLance1,H Sorel Lance 1,
+,无编号,01679353,H_SorelLance2,H Sorel Lance 2,
+,无编号,01c51d19,H_Reserve,H Reserve,
+,无编号,01dcf56b,H_ParticleEmblem,H Particle Emblem,
+,无编号,0222ec10,H_RedSecretLetter,H Red Secret Letter,
+,无编号,02c9c583,H_Materials,H Materials,
+,无编号,02cba142,SandwormMeat,Sandworm Meat,沙虫肉
+,无编号,02f9d35c,H_DarkPegasusCharm2,H Dark Pegasus Charm 2,
+,无编号,02f9d35f,H_DarkPegasusCharm1,H Dark Pegasus Charm 1,
+,无编号,0367ee42,H_LambuthMap,H Lambuth Map,
+,无编号,03b07f72,AmidGoby_Tut,Amid Goby Tut,
+,无编号,041c2713,Grancida,Grancida,
+,无编号,04464655,H_Assal2,H Assal 2,
+,无编号,04464656,H_Assal1,H Assal 1,
+,无编号,04479134,D_Vendetta,D Vendetta,
+,无编号,047faabd,FlintCrystal,Phlogiston,热素矿
+,无编号,04bab475,H_LyrahBreath,H Lyrah Breath,
+,无编号,04d35d17,H_Linaria,H Linaria,
+,无编号,04f70db1,H_SetethHorn,H Seteth Horn,
+,无编号,04f861b3,H_SweetsBook,H Sweets Book,
+,无编号,04fbfc96,BlackBawCharm,Black Baw Charm,
+,无编号,051b9611,Aura,Aura,辉光
+,无编号,05580cc8,Hakuren,Hakuren,哈库连
+,无编号,05a61c18,H_ArchiveWarm,H Archive Warm,
+,无编号,05cab41c,H_PursuitJewel,H Pursuit Jewel,
+,无编号,05e68e39,Hingasha,Hingasha,
+,无编号,0606338f,Tobarinara,Tobarinara,
+,无编号,061ab5b5,SaltedFish,Salted Fish,
+,无编号,06cb2a4d,BigCoin,Big Coin,
+,无编号,06cf6f2a,CounterGautlet,Counter Gautlet,
+,无编号,06d35cce,BigClub,Big Club,
+,无编号,07583fa2,AxeAmulet,Axe Amulet,
+,无编号,0761e32e,HandSpear,Hand Spear,
+,无编号,07707cf1,H_Vendetta1,H Vendetta 1,
+,无编号,07769360,StrongDaminaBox,Strong Damina Box,
+,无编号,07888959,Fimbul,Fimbul,
+,无编号,079b6666,H_FlintCrystal,H Flint Crystal,
+,无编号,07dd3314,H_SharpClaw,H Sharp Claw,
+,无编号,07f24b02,MiracleJewel,Miracle Jewel,
+,无编号,080ae2a6,DougzaGrass,Dougza Grass,
+,无编号,08158af1,H_MusaNecklace,H Musa Necklace,
+,无编号,0877708d,H_HuntingJewel,H Hunting Jewel,
+,无编号,089e69e5,Jamadahar,Jamadahar,
+,无编号,08d92db1,HeartBonito,Heart Bonito,心鲣
+,无编号,08e44b47,LuckyCoin,Lucky Coin,幸运币
+,无编号,09003a35,ResistShield,Resist Shield,
+,无编号,0915ef8f,Baku,Bakul,巴谷
+,无编号,091fd2d6,MeganiusCharm,Meganius Charm,
+,无编号,094b06ab,BearMeat,Bear Meat,熊肉
+,无编号,09e2e4b2,Tomahawk,Tomahawk,
+,无编号,0a547f4d,BlackHorseFriendCharm,Black Horse Friend Charm,
+,无编号,0abcc8e7,H_DancerLicense,H Dancer License,
+,无编号,0b12a7bb,H_Blade,H Blade,
+,无编号,0b2c7294,GaleSword,Gale Sword,
+,无编号,0b67d3c6,H_SharpBeak,H Sharp Beak,
+,无编号,0b7c632b,H_BuildAle,H Build Ale,
+,无编号,0b9b81cf,ArchiveDarkSpikes,Archive Dark Spikes,
+,无编号,0bac9d45,ShieldAxe,Shield Axe,
+,无编号,0bae4ccb,BronzeShield,Bronze Shield,青铜盾
+,无编号,0bfd65d1,Barrier,Barrier,防护罩
+,无编号,0c072506,EasternEarring,Eastern Earring,
+,无编号,0c1c3a53,H_Blizzar,H Blizzar,
+,无编号,0c3c12e7,H_BigBlade,H Big Blade,
+,无编号,0c728c31,AgingServi,Aging Servi,
+,无编号,0c9a361a,SuperTcticalBook,Super Tctical Book,
+,无编号,0cbb9fc9,H_Sharmir,H Sharmir,
+,无编号,0cc7eaa8,H_HandSpear1,H Hand Spear 1,
+,无编号,0cc7eaab,H_HandSpear2,H Hand Spear 2,
+,无编号,0ccf639b,H_Fragarach1,H Fragarach 1,
+,无编号,0d00e95d,IronFan,Iron Fan,
+,无编号,0d0d3e2e,IronBow,Iron Bow,铁弓
+,无编号,0d10182a,H_ResistGautlet1,H Resist Gautlet 1,
+,无编号,0d14eedf,H_Zotogon,H Zotogon,
+,无编号,0d15b342,IronAxe,Iron Axe,铁斧
+,无编号,0d5ec49c,H_PegasusCharm2,H Pegasus Charm 2,
+,无编号,0d5ec49f,H_PegasusCharm1,H Pegasus Charm 1,
+,无编号,0da9527c,H_DarknessCrystal,H Darkness Crystal,
+,无编号,0db58615,H_RedFalconCharm1,H Red Falcon Charm 1,
+,无编号,0db58616,H_RedFalconCharm2,H Red Falcon Charm 2,
+,无编号,0e2f09c6,H_D_DhabaCompass,H D Dhaba Compass,
+,无编号,0e60ca0d,H_DagdaElephantCharm1,H Dagda Elephant Charm 1,
+,无编号,0e60ca0f,H_DagdaElephantCharm3,H Dagda Elephant Charm 3,
+,无编号,0eba1e1a,H_Emergence,H Emergence,
+,无编号,0f03b84f,H_Rahran,H Rahran,
+,无编号,0f14f00a,H_WonderLeaf,H Wonder Leaf,
+,无编号,0f64632f,Coin,Coin,沙金
+,无编号,0f8923b5,PegasusCharm,Pegasus Charm,
+,无编号,0fc8a261,H_TreasureKey,H Treasure Key,
+,无编号,0feba083,TeffFruit_Tut,Teff Fruit Tut,
+,无编号,10886c34,Megaminotsukai,Megaminotsukai,
+,无编号,10a3f456,Linaria,Linaria,姬金鱼草
+,无编号,10b0f1aa,AmalfridaSword,Amalfrida Sword,
+,无编号,1103bd81,BaguaTools,Bagua Tools,
+,无编号,11389efc,ParticleEmblem,Particle Emblem,
+,无编号,11a46d5d,H_Ajura1,H Ajura 1,
+,无编号,1231e56b,CharmAle,Charm Ale,
+,无编号,123cf8b4,FlashyBangle,Flashy Bangle,
+,无编号,128c4cbb,H_ArrowFeather,H Arrow Feather,
+,无编号,12937119,H_Hakuren,H Hakuren,
+,无编号,12bbafd6,CetusFang,Cetus Fang,
+,无编号,12cdda7f,H_MagicShield,H Magic Shield,
+,无编号,12ddffab,H_Sabakukibi,H Sabakukibi,
+,无编号,12e269d9,RusticTreats,Rustic Treats,
+,无编号,12ec034e,SetethHorn,Seteth Horn,
+,无编号,1310e480,H_WhiteOrniusCharm1,H White Ornius Charm 1,
+,无编号,1310e483,H_WhiteOrniusCharm2,H White Ornius Charm 2,
+,无编号,1310e485,H_WhiteOrniusCharm4,H White Ornius Charm 4,
+,无编号,131a4cfc,DemonTsuba,Demon Tsuba,
+,无编号,133aeace,H_CookingPedia,H Cooking Pedia,
+,无编号,13832de0,Dora,Dora,
+,无编号,13cb9e5d,H_BigSweep,H Big Sweep,
+,无编号,13e13c30,H_PoisonJewel,H Poison Jewel,
+,无编号,13e392a0,Lizaia,Lizaia,
+,无编号,14014f20,InsectPearl,Insect Pearl,虫珍珠
+,无编号,14441188,MeltFish,Melt Fish,
+,无编号,147b4ce4,SweetLeaf,Sweet Leaf,
+,无编号,147c757d,H_SilverAxe1,H Silver Axe 1,
+,无编号,148aeb76,H_ArchiveDarkSpikes,H Archive Dark Spikes,
+,无编号,14921790,SlenderSpear,Slender Spear,
+,无编号,149ca9b4,DetoxifyAle,Detoxify Ale,
+,无编号,14eba25a,FishEyeball,Fish Eyeball,
+,无编号,151cdc06,LongBow,Long Bow,
+,无编号,15b7dd3e,H_Angel,H Angel,
+,无编号,160e441d,H_Gazeria1,H Gazeria 1,
+,无编号,162451ae,H_UgouBow1,H Ugou Bow 1,
+,无编号,16e8b057,H_SouthTeff,H South Teff,
+,无编号,16fdb14f,H_CrimsonGauche,H Crimson Gauche,
+,无编号,1718bda5,RangeAle,Range Ale,
+,无编号,1723fba1,H_Riganet,H Riganet,
+,无编号,176530bc,BlackRoach,Black Roach,
+,无编号,1771f825,H_SuperFlightBook,H Super Flight Book,
+,无编号,17a42bac,H_SeaStar,H Sea Star,
+,无编号,17ccc42e,H_FishingHook,H Fishing Hook,
+,无编号,17e49c66,H_Freeze,H Freeze,
+,无编号,18146d45,QueenRoach,Queen Roach,
+,无编号,18b819e4,MahamadouHand,Mahamadou Hand,
+,无编号,18e72f0c,TravelingHistory,Traveling History,
+,无编号,18ebeb4a,Agartium,Agartium,
+,无编号,1974b414,DaminaAxe,Damina Axe,
+,无编号,1976d0b3,DaminaBox,Damina Box,
+,无编号,1976d0bc,DaminaBow,Damina Bow,
+,无编号,19837842,H_HighestLicense,H Highest License,
+,无编号,198acb71,H_DesertRose,H Desert Rose,
+,无编号,1992948a,H_LizardMeat,H Lizard Meat,
+,无编号,19a004ae,Scimitar,Scimitar,
+,无编号,1a07b5e1,SeaStar,Sea Star,
+,无编号,1a19743b,H_Thunder,H Thunder,
+,无编号,1b2f05e4,H_D_Fragarach1,H D Fragarach 1,
+,无编号,1b3b2cc9,H_DaminaLance1,H Damina Lance 1,
+,无编号,1b3b2cca,H_DaminaLance2,H Damina Lance 2,
+,无编号,1b4ae8b3,H_BlackSilk,H Black Silk,
+,无编号,1b4b2bdd,H_BlackHorseCharm1,H Black Horse Charm 1,
+,无编号,1b4b2bde,H_BlackHorseCharm2,H Black Horse Charm 2,
+,无编号,1b4b2bdf,H_BlackHorseCharm3,H Black Horse Charm 3,
+,无编号,1b535835,H_SilverBow1,H Silver Bow 1,
+,无编号,1bbb58d1,BlueRose,Blue Rose,
+,无编号,1bcd43e5,WarriorStone,Warrior Stone,
+,无编号,1c07cc30,H_HitRing,H Hit Ring,
+,无编号,1d03b22b,H_YamanGiku,H Yaman Giku,
+,无编号,1d1ae155,H_DesertSunStone,H Desert Sun Stone,
+,无编号,1d65ea91,BlackSun,Black Sun,
+,无编号,1d738b97,RedFlicker,Red Flicker,
+,无编号,1d85a77c,Fire,Fire,火焰
+,无编号,1d90da68,Angelica,Angelica,白芷
+,无编号,1db02330,AugusTeff,Augus Teff,
+,无编号,1e139e1e,H_BlackSun,H Black Sun,
+,无编号,1e25bf65,H_HoneyMilk,H Honey Milk,
+,无编号,1e3d502e,WaterMagic,Water Magic,
+,无编号,1e531639,NightQatar,Night Qatar,
+,无编号,1ea082bb,H_KillSword1,H Kill Sword 1,
+,无编号,1eced096,ArmorBook,Armor Book,
+,无编号,1edbc276,Amulet,Axebreak Amulet,破斧者护符
+,无编号,1f0202b4,Scylla,Scylla,
+,无编号,1f0a3b38,HeatHazeOrder,Heat Haze Order,
+,无编号,1f21cce4,H_RedMeganiusCharm2,H Red Meganius Charm 2,
+,无编号,1f21cce5,H_RedMeganiusCharm3,H Red Meganius Charm 3,
+,无编号,1f21cce7,H_RedMeganiusCharm1,H Red Meganius Charm 1,
+,无编号,1f2b37d5,H_Haksan,H Haksan,
+,无编号,1f71d083,H_Dora,H Dora,
+,无编号,1fd7e14b,HolyWater,Holy Water,
+,无编号,1fde271c,H_FinestTea,H Finest Tea,
+,无编号,20547702,H_MagicTurret,H Magic Turret,
+,无编号,20946198,H_SwordAmulet,H Sword Amulet,
+,无编号,209bbd09,ArchiveWarm,Archive Warm,
+,无编号,209ed0f5,H_Banshee,H Banshee,
+,无编号,20a53ac2,HorseSword,Horse Sword,
+,无编号,20ba3511,H_TurtleShell,H Turtle Shell,
+,无编号,2116e782,H_ArrowheadJewelry,H Arrowhead Jewelry,
+,无编号,218de068,Geki,Geki,
+,无编号,219868c7,Garm,Garm,
+,无编号,21a6c9d9,H_StrangeVegetables,H Strange Vegetables,
+,无编号,21aa98e2,Gold,Gold,金币
+,无编号,21b491f4,Hukarin,Hukarin,
+,无编号,21b7027d,H_SeaMeat,H Sea Meat,
+,无编号,21c8eeea,H_RangeAle,H Range Ale,
+,无编号,2205f450,BlueSnor,Blue Snor,
+,无编号,22275847,H_GalaMerlin,H Gala Merlin,
+,无编号,2233f448,H_FamousPoems,H Famous Poems,
+,无编号,2234b92b,H_LuxuryBox,H Luxury Box,
+,无编号,2286f574,H_MahamadLance1,H Mahamad Lance 1,
+,无编号,2286f577,H_MahamadLance2,H Mahamad Lance 2,
+,无编号,2334e1b8,H_NizaGarm,H Niza Garm,
+,无编号,236212bd,HighLicense,High License,上级考试票证（重复条目）
+,无编号,238e96cc,SunFruit,Sun Fruit,
+,无编号,23a1264b,LourdijaSpear,Lourdija Spear,
+,无编号,23aae534,H_IdeaBow2,H Idea Bow 2,
+,无编号,23aae537,H_IdeaBow1,H Idea Bow 1,
+,无编号,23e210eb,GoddessRing,Goddess Ring,女神戒指
+,无编号,24501997,H_PresentBox,H Present Box,
+,无编号,246b7e3f,H_BlueSoush,H Blue Soush,
+,无编号,246eef5a,H_MeliasMap,H Melias Map,
+,无编号,24aeb49b,H_SouthGauche,H South Gauche,
+,无编号,24cdb6ea,ShortBow,Short Bow,
+,无编号,24d61db6,ShortAxe,Short Axe,短斧
+,无编号,25283811,DecorativeArrow,Decorative Arrow,
+,无编号,252ebc02,BazariShark,Bazari Shark,巴札里鲨
+,无编号,2574f8e2,TrainingBracelet,Training Bracelet,锻炼用装饰手环
+,无编号,25d824bd,CookingTools,Cooking Tools,
+,无编号,25d8e866,SweetsBox,Sweets Box,
+,无编号,26543f21,H_ShinzaHarpoon2,H Shinza Harpoon 2,
+,无编号,26543f22,H_ShinzaHarpoon1,H Shinza Harpoon 1,
+,无编号,266db848,H_Garm,H Garm,
+,无编号,2673fc51,H_Gold,H Gold,
+,无编号,26df8d1f,D_Gleipnir,D Gleipnir,
+,无编号,26e6809d,H_AttackAle,H Attack Ale,
+,无编号,26f913d9,H_YufasStatue,H Yufas Statue,
+,无编号,26fc1da8,Catapult,Catapult,
+,无编号,275c8f06,ClaireHammer,Claire Hammer,
+,无编号,277f6c1c,ArrowFeather,Arrow Feather,
+,无编号,27e7a041,SunStone,Sun Stone,
+,无编号,27f7f750,SemPotato,Sem Potato,
+,无编号,27f94d72,ZealCoins,Zeal Coins,
+,无编号,2803d1ce,Heal,Heal,圣疗
+,无编号,283a9fd8,Fulama,Fulama,
+,无编号,283ce419,RedMeganiusFriendCharm,Red Meganius Friend Charm,
+,无编号,2897d188,BloodHorseFriendCharm,Blood Horse Friend Charm,
+,无编号,28db859b,H_SandbaalTail,H Sandbaal Tail,
+,无编号,28dd477d,H_MiracleJewel,H Miracle Jewel,
+,无编号,29c69ff3,H_Fire,H Fire,
+,无编号,29e82f2d,H_ShieldAxe1,H Shield Axe 1,
+,无编号,29ec1368,ChargeAttack,Charge Attack,
+,无编号,29fa656e,MarsSword,Mars Sword,
+,无编号,2a17e3a8,H_BloodHorseCharm3,H Blood Horse Charm 3,
+,无编号,2a17e3a9,H_BloodHorseCharm2,H Blood Horse Charm 2,
+,无编号,2a17e3aa,H_BloodHorseCharm1,H Blood Horse Charm 1,
+,无编号,2a303ee9,TaliaMap,Talia Map,
+,无编号,2a9e21a6,SharpChisel,Sharp Chisel,
+,无编号,2ab43d08,H_LuckAle,H Luck Ale,
+,无编号,2af094c8,AnswererSai,Answerer Sai,
+,无编号,2b4271d5,GreatMeatBox,Great Meat Box,
+,无编号,2b6365ec,WoodLance,Wood Lance,
+,无编号,2bc49379,NoseAttack,Nose Attack,
+,无编号,2be95dd9,GiantAxe,Giant Axe,
+,无编号,2bee05a0,GaranBangle,Garan Bangle,
+,无编号,2c0f02ef,H_NoaFruit,H Noa Fruit,
+,无编号,2c1d528b,TortatesLoach,Tortates Loach,
+,无编号,2d0efc2c,Yumenosilbe,Yumenosilbe,
+,无编号,2d1ca638,H_LilFish,H Lil Fish,
+,无编号,2d36de9d,H_InsectPearl,H Insect Pearl,
+,无编号,2d5fa562,MarsStone,Mars Stone,
+,无编号,2d67f810,H_HerbaPedia,H Herba Pedia,
+,无编号,2d757871,H_Hanoa1,H Hanoa 1,
+,无编号,2d9f811d,H_YakMeat,H Yak Meat,
+,无编号,2daa1e1d,H_YakMilk,H Yak Milk,
+,无编号,2dc82273,LightningJewel,Lightning Jewel,
+,无编号,2dd95a3a,H_Aura,H Aura,
+,无编号,2df980e0,H_WoodSword1,H Wood Sword 1,
+,无编号,2df980e3,H_WoodSword2,H Wood Sword 2,
+,无编号,2e4299cf,H_Crestor,H Crestor,
+,无编号,2e9690e7,H_RedAxe_SealBroken,H Red Axe Seal Broken,
+,无编号,2ebfe1e5,AnswererRevised,Answerer Revised,
+,无编号,2f7208e2,H_Shaktou,H Shaktou,
+,无编号,2fbc3ae7,H_JewelBox,H Jewel Box,
+,无编号,3034c481,CaptainCore,Captain Core,
+,无编号,3039635c,H_MorphisAlmanac,H Morphis Almanac,
+,无编号,305fea40,H_YoungGauche,H Young Gauche,
+,无编号,3070cd39,H_PickledBulbs,H Pickled Bulbs,
+,无编号,307d7a60,H_D_MahamadouHand,H D Mahamadou Hand,
+,无编号,30a66dc1,H_MahamadouHand,H Mahamadou Hand,
+,无编号,30caad9a,DarkFish,Dark Fish,
+,无编号,30d21038,H_OldPendant,H Old Pendant,
+,无编号,30d87cc8,AmidPike,Amid Pike,
+,无编号,30df9813,H_LourdijaSpear1,H Lourdija Spear 1,
+,无编号,311fe481,IchiFruit,Ichi Fruit,
+,无编号,313b955d,DhakaMonge,Dhaka Monge,
+,无编号,31a70118,H_FalconCharm3,H Falcon Charm 3,
+,无编号,31a7011a,H_FalconCharm1,H Falcon Charm 1,
+,无编号,31a7011f,H_FalconCharm4,H Falcon Charm 4,
+,无编号,321dba83,BragiBrush,Bragi Brush,
+,无编号,338b2d1c,H_SalamisSweets,H Salamis Sweets,
+,无编号,33aa40e7,SugarMerlin,Sugar Merlin,
+,无编号,33bc6b09,HitRing,Hit Ring,
+,无编号,33c15b18,H_WoodGautlet2,H Wood Gautlet 2,
+,无编号,33c15b1b,H_WoodGautlet1,H Wood Gautlet 1,
+,无编号,33f04f4a,H_D_DagdaClub1,H D Dagda Club 1,
+,无编号,33f9aeb4,H_BronzeGautlet1,H Bronze Gautlet 1,
+,无编号,33f9aeb7,H_BronzeGautlet2,H Bronze Gautlet 2,
+,无编号,34c364ca,ThinServi,Thin Servi,
+,无编号,34cf6946,H_Corundum,H Corundum,
+,无编号,34eae8c2,MeganiusFriendCharm,Meganius Friend Charm,
+,无编号,357457f7,H_Enriette,H Enriette,
+,无编号,35b2c4b1,ManeOrnament,Mane Ornament,鬃毛饰品
+,无编号,36060b21,H_HeatHazeOrder,H Heat Haze Order,
+,无编号,3671730d,H_SuperBlackMagicBook,H Super Black Magic Book,
+,无编号,36f543bd,H_CaseFile,H Case File,
+,无编号,3771f9cc,H_Geki1,H Geki 1,
+,无编号,3771f9cf,H_Geki2,H Geki 2,
+,无编号,37a64e11,SevenStartsCore,Seven Starts Core,
+,无编号,37b7a28c,WhiteOrniusFriendCharm,White Ornius Friend Charm,
+,无编号,37c6c44a,H_SunStone,H Sun Stone,
+,无编号,3800c474,H_Coin,H Coin,
+,无编号,3854ef13,H_Fulama,H Fulama,
+,无编号,386c50c7,H_DishesCollection,H Dishes Collection,
+,无编号,38875045,H_Kimbasho,H Kimbasho,
+,无编号,38a1cfb7,H_Joppa,H Joppa,
+,无编号,38ae6828,H_JointProtection,H Joint Protection,
+,无编号,38cf4890,H_SpearAmulet,H Spear Amulet,
+,无编号,395ccd4f,H_OrniusDung,H Ornius Dung,
+,无编号,395e2ecc,LightAle,Light Ale,
+,无编号,396df9eb,H_Bolganon,H Bolganon,
+,无编号,39d06091,RichGarm,Rich Garm,
+,无编号,39e7fab7,H_Solom,H Solom,
+,无编号,39ed6b06,Luna,Luna Λ,月神Λ
+,无编号,3a04b811,H_Sorgi,H Sorgi,
+,无编号,3a270a33,Laia,Laia,圣治
+,无编号,3a30b247,H_MeltFish,H Melt Fish,
+,无编号,3a4ba4fc,Recover,Recover,圣愈
+,无编号,3a94b69d,FinestTea,Finest Tea,
+,无编号,3b71442d,H_DeathFang,H Death Fang,
+,无编号,3b94437a,ExcitingGauche,Exciting Gauche,
+,无编号,3bb3382c,D_RedAxe,D Red Axe,
+,无编号,3bc5bb05,D_RedGem,D Red Gem,
+,无编号,3bf41e56,H_AgingServi,H Aging Servi,
+,无编号,3c191e56,ReincarnationLotus,Reincarnation Lotus,
+,无编号,3c197937,SharpBeak,Sharp Beak,
+,无编号,3c717be0,CarneBonito,Carne Bonito,
+,无编号,3cbae8e5,Ginji,Ginji,津吉
+,无编号,3cce00de,BigSweep,Big Sweep,
+,无编号,3cfbb8b1,DarkSpikes,Dark Spikes,
+,无编号,3d45481a,H_Dates,H Dates,
+,无编号,3d52e28e,EishetBreath,Eishet Breath,
+,无编号,3d5320e2,TrainingWeight,Training Weight,
+,无编号,3d67486b,H_Resquia,H Resquia,
+,无编号,3d67dda7,H_WindShoes,H Wind Shoes,
+,无编号,3d72190c,H_TeffFruit,H Teff Fruit,
+,无编号,3dc871da,Verelheit,Verelheit,
+,无编号,3df82709,H_Slime,H Slime,
+,无编号,3e43c370,EquestrianBook,Equestrian Book,
+,无编号,3e974e44,H_DarkMetal,H Dark Metal,
+,无编号,3ea27424,Harness,Harness,
+,无编号,3eea7ab5,H_SeaCharm,H Sea Charm,
+,无编号,3ef06740,H_Baku,H Baku,
+,无编号,3f806bad,H_HealingWand,H Healing Wand,
+,无编号,3f8d0029,SharpClaw,Sharp Claw,
+,无编号,3f93f0ec,PegasusDung,Pegasus Dung,
+,无编号,3fba035e,AlbineHerring,Albine Herring,
+,无编号,3fc11fe7,H_Agave,H Agave,
+,无编号,3feafaa9,H_Agnea,H Agnea,
+,无编号,3fed1869,H_Muen1,H Muen 1,
+,无编号,3fed186a,H_Muen2,H Muen 2,
+,无编号,40253e92,H_HorseDung,H Horse Dung,
+,无编号,4046d4b0,H_SmashAxe1,H Smash Axe 1,
+,无编号,4046d4b3,H_SmashAxe2,H Smash Axe 2,
+,无编号,406c90c0,SeverJewel,Sever Jewel,
+,无编号,407a0b26,Mace,Mace,锤矛
+,无编号（游戏丢弃）,40848b83,アトラスベア小_第3部_物攻_青,Atlas bear small_part 3_physical attack_blue,
+,无编号,409d1ae7,Muen,Muen,邪枪姆恩
+,无编号,40afdfaf,Vendetta,Vendetta,妖枪温德塔
+,无编号,40d7afe8,StrongBronzeBox,Strong Bronze Box,
+,无编号,4182809f,FemaleKnight,Female Knight,
+,无编号,41a687cb,H_MagicArray,H Magic Array,
+,无编号,42021da4,H_Bardiche1,H Bardiche 1,
+,无编号,42021da7,H_Bardiche2,H Bardiche 2,
+,无编号,425a188c,MahamadLance,Mahamad Lance,
+,无编号,429eb9c0,JudgmentBalance,Judgment Balance,
+,无编号,42a513ee,H_D_HedagBow1,H D Hedag Bow 1,
+,无编号（游戏丢弃）,42b1baed,無し,None (empty slot),
+,无编号,42c4f86c,MeatBox,Meat Box,
+,无编号,42cd080e,H_ApathyAle,H Apathy Ale,
+,无编号,42db4724,Misanga,Misanga,
+,无编号,42ffdffa,H_HardFish,H Hard Fish,
+,无编号,430b589f,Pharmaceutical,Mace,锤矛
+,无编号,43761589,GamesCollection,Games Collection,
+,无编号,438f4b71,H_AugusTeff,H Augus Teff,
+,无编号,43c51cf8,SolomonTeff,Solomon Teff,
+,无编号,43f1eb4f,H_PottedVegetables,H Potted Vegetables,
+,无编号,442211c1,H_DagdaClub1,H Dagda Club 1,
+,无编号,4440c199,H_IronSword1,H Iron Sword 1,
+,无编号,4440c19a,H_IronSword2,H Iron Sword 2,
+,无编号,44661546,Death,Death Γ,死神Γ
+,无编号,4498acec,ShadowPunch,Shadow Punch,
+,无编号,44adda64,Bolganon,Bolganone,火山爆焰
+,无编号,44d2d7d6,GinjiServi,Ginji Servi,
+,无编号,45518d3f,BigSharpClaw,Big Sharp Claw,
+,无编号,4553ccce,MagicShield,Magic Shield,
+,无编号,4588d3bf,WhiteTrout,White Trout,白鳟
+,无编号,461fbaa0,H_FishKnife,H Fish Knife,
+,无编号,463e887e,MedicineDrops,Medicine Drops,
+,无编号,467284cd,H_Luna,H Luna,
+,无编号,4673cf46,H_GoddessRing,H Goddess Ring,
+,无编号,467950d8,FalconCharm,Falcon Charm,
+,无编号,469595c4,H_Laia,H Laia,
+,无编号,47029ae1,H_AvoidGautlet1,H Avoid Gautlet 1,
+,无编号,47443f83,FimbleNight,Fimble Night,
+,无编号,4752e7e2,DagdaShield,Dagda Shield,
+,无编号,478b72a1,H_SmirnosGautlet1,H Smirnos Gautlet 1,
+,无编号,47eb6370,H_AuroraJuwel,H Aurora Juwel,
+,无编号,47efadbf,SilverBullet,Silver Bullet,
+,无编号,48429eb4,H_Baskatch,H Baskatch,
+,无编号,48a8cab9,H_BalorCounter,H Balor Counter,
+,无编号,496e381b,H_Megaminotsukai,H Megaminotsukai,
+,无编号,4980be37,VictoryJewel,Victory Jewel,
+,无编号,49c5f540,H_GiftBox,H Gift Box,
+,无编号,49eba807,H_LightAle,H Light Ale,
+,无编号,49f9cd23,H_BoardGame,H Board Game,
+,无编号,4a002d52,RedGem,Red Gem,
+,无编号,4a10fd3b,RedAxe,Red Axe,
+,无编号,4a139bae,DesertSunStone,Desert Sun Stone,
+,无编号,4a205109,H_GreatSword2,H Great Sword 2,
+,无编号,4a20510a,H_GreatSword1,H Great Sword 1,
+,无编号,4a20ed0e,H_DeathClaw,H Death Claw,
+,无编号,4a886394,H_MealCoupon,H Meal Coupon,
+,无编号,4aa80356,DesertRose,Desert Rose,
+,无编号,4acaa048,H_HorseBow2,H Horse Bow 2,
+,无编号,4acaa04b,H_HorseBow1,H Horse Bow 1,
+,无编号,4af08dd3,Emergence,Emergence,
+,无编号,4b1c7e7f,H_ElectraMap,H Electra Map,
+,无编号,4b3a6e6d,RingBox,Ring Box,
+,无编号,4b4d0541,H_AuroraLance1,H Aurora Lance 1,
+,无编号,4b5f5942,H_Hingasha,H Hingasha,
+,无编号,4bf1c00b,LinkPointRecoveryHigh,Link Point Recovery High,
+,无编号,4c123515,H_BitterLeaf,H Bitter Leaf,
+,无编号,4c533359,BlackMagicBook,Black Magic Book,
+,无编号,4c77e489,H_NobutaMeat,H Nobuta Meat,
+,无编号,4c7efd3b,H_CetusFang,H Cetus Fang,
+,无编号,4c8f05e8,Slime,Slime,
+,无编号,4cf1314a,MaginiusCharm,Maginius Charm,
+,无编号,4cfc64fd,MoonFish,Moon Fish,
+,无编号,4df5f70d,Regeia,Regeia,
+,无编号,4dfb97b5,SuperArmorBook,Super Armor Book,
+,无编号,4e0b5fda,ScorpionMeat,Scorpion Meat,
+,无编号,4e2e35a2,SouthGauche,South Gauche,
+,无编号,4e58f1ed,H_HorseCare,H Horse Care,
+,无编号,4e763779,RuggedWork,Rugged Work,
+,无编号,4e91d3ba,H_PoisonStone,H Poison Stone,
+,无编号,4e979b7b,H_DaintyJewel,H Dainty Jewel,
+,无编号,4ebbf451,H_AnswererRevised1,H Answerer Revised 1,
+,无编号,4ed9692b,HerbaPedia,Herba Pedia,
+,无编号,4f0838b4,OrniusDung,Ornius Dung,
+,无编号,4f2f19e9,H_Apatia,H Apatia,
+,无编号,4f54b270,H_TridentSpear,H Trident Spear,
+,无编号,4f65220b,IronLance,Iron Lance,
+,无编号,4f92f868,SweetsBook,Sweets Book,
+,无编号,4fb61990,H_Hishibana,H Hishibana,
+,无编号,4fb6de17,IronSaddle,Iron Saddle,
+,无编号,4fb8262e,H_GlassWheel,H Glass Wheel,
+,无编号,4fba9a6a,ArchiveSlime,Archive Slime,
+,无编号,4fcc3bbd,DagdaClub,Dagda Club,
+,无编号,4fcc5034,DagdaClaw,Dagda Claw,
+,无编号,4fe177ce,開かれし救世の剣,Chosen Sword,开启救世之剑
+,无编号,4ff123ae,H_SandstormBattalion,H Sandstorm Battalion,
+,无编号,50426052,Solom,Solom,索罗姆
+,无编号,5048a7dc,Sorgi,Sorgi,
+,无编号,507acc4d,H_NastyGarm,H Nasty Garm,
+,无编号,50a3d1e2,FlavorfulSeasoning,Flavorful Seasoning,
+,无编号,50cd05ee,MusaNecklace,Musa Necklace,
+,无编号,511d3924,H_BeautyWater,H Beauty Water,
+,无编号,51701c26,H_CriticalRing,H Critical Ring,
+,无编号,51abb2bc,PortraitYoo,Portrait Yoo,
+,无编号,51ac7ebe,Vulnerary,Vulnerary,伤药
+,无编号,51bbc3a2,H_CookingTools,H Cooking Tools,
+,无编号,51d4015f,H_SpiceLeaf,H Spice Leaf,
+,无编号,5209b412,H_BigNeedle,H Big Needle,
+,无编号,520bdf7e,H_BlackMagicBook,H Black Magic Book,
+,无编号,52373b8f,H_Death,H Death,
+,无编号,5273aa60,H_RedBawCharm1,H Red Baw Charm 1,
+,无编号,5273aa62,H_RedBawCharm3,H Red Baw Charm 3,
+,无编号,528fd380,H_WanderingWall,H Wandering Wall,
+,无编号,52965d73,H_Grave1,H Grave 1,
+,无编号,52e2476a,Basark,Basark,
+,无编号,537bb707,H_D_MarsSword1,H D Mars Sword 1,
+,无编号,5393ef79,HorseBow,Horse Bow,
+,无编号,53f15f18,H_BragiBrush,H Bragi Brush,
+,无编号,53fe7d8e,CrimsonGauche,Crimson Gauche,
+,无编号,5427b177,LleatherBag,Lleather Bag,
+,无编号,542c8fb0,H_Dissolution,H Dissolution,
+,无编号,5483da0c,SuperFlightBook,Super Flight Book,
+,无编号,54aa3b52,Halberd,Halberd,斧枪
+,无编号,54bf2dc4,ArchiveDeath,Archive Death,
+,无编号,55307cb4,Kenkonken,Kenkonken,
+,无编号,55656ce7,H_BawDung,H Baw Dung,
+,无编号,55bf43a8,H_RusticGauche,H Rustic Gauche,
+,无编号,55e71152,D_HedagBow,D Hedag Bow,
+,无编号,55ea8825,H_DetoxifyAle,H Detoxify Ale,
+,无编号,5604d4d8,Agnea,Agnea Tome,阿古尼亚之书
+,无编号,56240a16,Agave,Agave,龙舌兰
+,无编号,562e32eb,KusarikMeat,Kusarik Meat,库沙里克肉
+,无编号,5665d3b0,SpiritJewel,Spirit Jewel,
+,无编号,56c935fb,RockSugar,Rock Sugar,
+,无编号,56e7a529,H_Amulet,H Amulet,
+,无编号,570c7da3,H_BlackGwen,H Black Gwen,
+,无编号,582ff993,H_ThunderSword1,H Thunder Sword 1,
+,无编号,58661804,H_Orichalcum,H Orichalcum,
+,无编号,588fc345,H_ElephantLicense,H Elephant License,
+,无编号,58a4fba9,Oliva,Oliva,甘榄
+,无编号,58bdd600,PowerDrop,Power Drop,
+,无编号,58d29f95,H_MagicTools,H Magic Tools,
+,无编号,58e45397,Dates,Dates,椰枣
+,无编号,590be202,Resquia,Resquia,回援
+,无编号,5927d8d1,H_TrainingWeight,H Training Weight,
+,无编号,5938b8ed,H_DaminaAxe2,H Damina Axe 2,
+,无编号,5938b8ee,H_DaminaAxe1,H Damina Axe 1,
+,无编号,5945540f,H_WhiteServi,H White Servi,
+,无编号,5952338d,H_AdventureTale,H Adventure Tale,
+,无编号,59bcd1a2,H_LoveStory,H Love Story,
+,无编号,59cba8c8,Sabakukibi,Sabakukibi,
+,无编号,5a06fdce,Crestor,Crestor,库勒司妥露
+,无编号,5a098aac,H_AgingGauche,H Aging Gauche,
+,无编号,5a17b70b,SecretBook,Secret Book,秘传之书
+,无编号,5a17ca68,SecretBody,Secret Body,
+,无编号,5a6e11b8,H_Kimbai,H Kimbai,
+,无编号,5a73fcd3,VihuelaTools,Vihuela Tools,
+,无编号,5ab3dc68,HorseFriendCharm,Horse Friend Charm,
+,无编号,5ae26ea9,H_Heal,H Heal,
+,无编号,5b1b840f,H_MellowSoush,H Mellow Soush,
+,无编号,5b33fafc,SecretMedicine,Secret Medicine,
+,无编号,5b41ef26,BasithaMap,Basitha Map,
+,无编号,5b72b0fc,D_BearClaw,D Bear Claw,
+,无编号,5b866d8e,Blizzar,Blizzard,冰风雪
+,无编号,5c0b006b,BawFriendCharm,Baw Friend Charm,
+,无编号,5c153d54,PottedVegetables,Potted Vegetables,蔬菜盆栽
+,无编号,5c2fbf9d,AuroraJuwel,Aurora Juwel,
+,无编号,5c386f83,DaminaSword,Damina Sword,
+,无编号,5c78a55c,H_BraxtheaMap,H Braxthea Map,
+,无编号,5c86dd36,EarthJaw,Earth Jaw,
+,无编号,5cad463a,H_SuperArmorBook,H Super Armor Book,
+,无编号,5cd5b468,H_WhiteMagicBook,H White Magic Book,
+,无编号,5cfb17f1,SuperBookBox,Super Book Box,
+,无编号,5d017382,H_SolidusMap,H Solidus Map,
+,无编号,5d83ac2d,H_LegendaryGarm,H Legendary Garm,
+,无编号,5e62615d,H_Antidote,H Antidote,
+,无编号,5e6ba49f,H_MarsStone,H Mars Stone,
+,无编号,5ea0959b,H_BearClawRight1,H Bear Claw Right 1,
+,无编号,5ebe8e33,MeliasMap,Melias Map,梅利亚斯地图
+,无编号,5ec83fe4,H_WindBow1,H Wind Bow 1,
+,无编号,5ec83fe7,H_WindBow2,H Wind Bow 2,
+,无编号,5ec8e088,H_LongBow1,H Long Bow 1,
+,无编号,5eeae6f0,GalaMerlin,Gala Merlin,
+,无编号,5eee49b6,Flissa,Rapier,
+,无编号,5f163ba2,H_EastGame,H East Game,
+,无编号,5f65f219,H_SweetLeaf,H Sweet Leaf,
+,无编号,5fb58833,DagdaElephantCharm,Dagda Elephant Charm,
+,无编号,5feff4b0,H_GaleRing,H Gale Ring,
+,无编号,600895ee,BitterLeaf,Bitter Leaf,
+,无编号,60268328,H_BlueGinji,H Blue Ginji,
+,无编号,6044cc81,H_PoisonBone,H Poison Bone,
+,无编号,6044dc1d,H_PoisonBow2,H Poison Bow 2,
+,无编号,6044dc1e,H_PoisonBow1,H Poison Bow 1,
+,无编号,6069d289,StrategyManuscrip,Strategy Manuscrip,
+,无编号,6091e9f1,DarknessCrystal,Darkness Crystal,
+,无编号,6094e405,H_D_SevenStartsCore,H D Seven Starts Core,
+,无编号,60a76140,HorseCharm,Horse Charm,
+,无编号,60e889a8,HairOrnament,Hair Ornament,
+,无编号,60eb31db,H_Catapult,H Catapult,
+,无编号,60ec522e,BloodPattern,Blood Pattern,血之花纹
+,无编号,61337f41,H_SpiritJewel,H Spirit Jewel,
+,无编号,61469ef8,JuniorLicense,Junior License,初级考试票证（重复条目）
+,无编号,6148ff75,H_Answerer1,H Answerer 1,
+,无编号,6148ff76,H_Answerer2,H Answerer 2,
+,无编号,6167bc2b,H_SeaBook,H Sea Book,
+,无编号,61cdd383,DeathClaw,Death Claw,
+,无编号,6262ec44,PresentBox,Present Box,
+,无编号,629530c5,H_CrownKey,H Crown Key,
+,无编号,62b0f5b6,Apatia,Apatia,
+,无编号,62c1fd20,D_IronFan,D Iron Fan,
+,无编号,62f20653,H_Vulnerary,H Vulnerary,
+,无编号,63095cca,H_FishingRod,H Fishing Rod,
+,无编号,63210212,H_Stomping,H Stomping,
+,无编号,634c6446,H_TaliaMap,H Talia Map,
+,无编号,635e7d01,H_Yunamei,H Yunamei,
+,无编号,63b99e1f,H_TradeIntroduction,H Trade Introduction,
+,无编号,63c07071,H_RedGem,H Red Gem,
+,无编号,63cc8e65,DaminaLance,Damina Lance,
+,无编号,6436cb30,H_AngelRobe,H Angel Robe,
+,无编号,64452871,H_CombatAle,H Combat Ale,
+,无编号,646a1f8d,H_StrongWeaponBox,H Strong Weapon Box,
+,无编号,647b48d7,H_BalorAttack,H Balor Attack,
+,无编号,648b59a4,JarredVegetables,Jarred Vegetables,
+,无编号,64a1af4f,MonasticTalisman,Monastic Talisman,
+,无编号,64e26c99,UnicornFriendCharm,Unicorn Friend Charm,
+,无编号,64ee0bf7,H_MedicineDrops,H Medicine Drops,
+,无编号,64ffe82e,H_QueenRoach,H Queen Roach,
+,无编号,650fc2b2,LuxuryBox,Luxury Box,
+,无编号,65176308,H_BlackPearl,H Black Pearl,
+,无编号,653cc3e7,JudgmentSword,Judgment Sword,
+,无编号,654e4b78,SealedAle,Sealed Ale,
+,无编号,657a06c0,NoaFruit,Noa Fruit,挪亚果
+,无编号,6584ac6c,H_NamelessSpear,H Nameless Spear,
+,无编号,65a3e06d,H_Grancida1,H Grancida 1,
+,无编号,65d2a97c,Fugue,Fugue,
+,无编号,65e49361,BlueGinji,Blue Ginji,青津吉
+,无编号,6624b448,JuraStatue,Jura Statue,
+,无编号,664db727,H_BowTurret,H Bow Turret,
+,无编号,66caed14,H_Zerberos1,H Zerberos 1,
+,无编号,66caed17,H_Zerberos2,H Zerberos 2,
+,无编号,66f72982,BlackBawFriendCharm,Black Baw Friend Charm,
+,无编号,67431ffb,H_HedagBow1,H Hedag Bow 1,
+,无编号,6780bd66,FuraiJewel,Furai Jewel,
+,无编号,6794bc24,SolidGiant,Solid Giant,
+,无编号,67a2a0c5,H_DaminaBow2,H Damina Bow 2,
+,无编号,67a2a0c6,H_DaminaBow1,H Damina Bow 1,
+,无编号,67b24373,H_SeverJewel,H Sever Jewel,
+,无编号,67b262da,RuinsThings,Ruins Things,
+,无编号,681f94a5,H_BronzeAxe2,H Bronze Axe 2,
+,无编号,681f94a6,H_BronzeAxe1,H Bronze Axe 1,
+,无编号,684c8cd3,CarlaStatue,Carla Statue,
+,无编号,68538fe2,BalorAttack,Balor Attack,
+,无编号,6857e883,H_AmidPike,H Amid Pike,
+,无编号,690ad19a,H_D_BloodPattern,H D Blood Pattern,
+,无编号,6913bcc3,H_Thanatos,H Thanatos,
+,无编号,693bb0c7,InterLicense,Inter License,中级考试票证（重复条目）
+,无编号,69f51f81,H_Uranite,H Uranite,
+,无编号,6a0fe3dd,JuneauShield,Juneau Shield,
+,无编号,6a866d9c,H_MaginiusCharm1,H Maginius Charm 1,
+,无编号,6a866d9f,H_MaginiusCharm2,H Maginius Charm 2,
+,无编号,6a87f031,H_PegasusPainting,H Pegasus Painting,
+,无编号,6a89f7c4,JewelBox,Jewel Box,
+,无编号,6a9d7f58,H_SilverSword1,H Silver Sword 1,
+,无编号,6adc953b,AgneaArrow,Agnea Arrow,
+,无编号,6aec771f,H_ZealCoins,H Zeal Coins,
+,无编号,6b5137dc,RoseBouquet,Rose Bouquet,
+,无编号,6b603f88,LuffMeat,Luff Meat,
+,无编号,6bae8989,DarkPegasusCharm,Dark Pegasus Charm,
+,无编号,6be94341,Dissolution,Dissolution,
+,无编号,6bef9491,Stomping,Stomping,
+,无编号,6c02ebea,H_Soldanella,H Soldanella,
+,无编号,6c628c7e,DryingServi,Drying Servi,
+,无编号,6c9f3d47,AlectoGarm,Alecto Garm,
+,无编号,6cd41cfa,BowTurret,Bow Turret,
+,无编号,6d124c65,H_AgingSoush,H Aging Soush,
+,无编号,6d658fa1,H_SolomonTeff,H Solomon Teff,
+,无编号,6dd4aa92,H_GoldHelmet,H Gold Helmet,
+,无编号,6eb63805,FamousPoems,Famous Poems,
+,无编号,6ee07059,Ajura,Ajura,
+,无编号,6efb1761,H_HorseCharm4,H Horse Charm 4,
+,无编号,6efb1764,H_HorseCharm1,H Horse Charm 1,
+,无编号,6efb1767,H_HorseCharm2,H Horse Charm 2,
+,无编号,6f02475f,Denebatou,Denebatou,
+,无编号,6f8f60dd,H_PortraitYoo,H Portrait Yoo,
+,无编号,70578d0e,H_SugarMerlin,H Sugar Merlin,
+,无编号,70667f6c,DeathFang,Death Fang,
+,无编号,70a02ce3,LightGarm,Light Garm,
+,无编号,71650d94,H_AngusPike,H Angus Pike,
+,无编号,71681e3d,Shaver,Shaver,
+,无编号,71dd7954,AronWand,Aron Wand,
+,无编号,721924bf,BeautifulRing,Beautiful Ring,
+,无编号,72286576,Haksan,Haksan,
+,无编号,726b4e6f,H_SharpChisel,H Sharp Chisel,
+,无编号,72a709ed,H_BloodPattern,H Blood Pattern,
+,无编号,7301f120,H_Ginji,H Ginji,
+,无编号,7347d81f,ApathyAle,Apathy Ale,
+,无编号,7362665e,VioletBrooch,Violet Brooch,菫紫色胸针
+,无编号,73c9ae9a,CeremonialSpear,Ceremonial Spear,锋利的礼仪用枪
+,无编号,74066037,DyedTowel,Dyed Towel,
+,无编号,743a76ea,H_Regeia,H Regeia,
+,无编号,743cc846,CrownKey,Crown Key,
+,无编号,744b4db7,SweetTreats,Sweet Treats,
+,无编号,74885f00,AuroraCloth,Aurora Cloth,
+,无编号,75a97ec0,NastyGarm,Nasty Garm,
+,无编号,7650aab7,H_JarredVegetables,H Jarred Vegetables,
+,无编号,768af97d,H_BronzeBow2,H Bronze Bow 2,
+,无编号,768af97e,H_BronzeBow1,H Bronze Bow 1,
+,无编号,7699d3f1,AVoidRing,AVoid Ring,
+,无编号,76c32d93,H_ExorcismSword1,H Exorcism Sword 1,
+,无编号,76da0e89,GoldHelmet,Gold Helmet,
+,无编号,76ef5ad5,BeautyWater,Beauty Water,
+,无编号,7738086c,HealingWand,Healing Wand,
+,无编号,7769b749,HardFish,Hard Fish,
+,无编号,77753bc9,H_Chrysanthemum,H Chrysanthemum,
+,无编号,77afc924,WhiteOrniusCharm,White Ornius Charm,
+,无编号,7816a6b7,H_WootzSteel,H Wootz Steel,
+,无编号,7862834f,TortatesPike,Tortates Pike,
+,无编号,787f59d7,SilverGautlet,Silver Gautlet,
+,无编号,789c62fe,MellowSoush,Mellow Soush,
+,无编号,78a03f5b,H_GaleWing,H Gale Wing,
+,无编号,78d0778a,H_BeautifulRing,H Beautiful Ring,
+,无编号,78ed354d,FishBox,Fish Box,
+,无编号,78ff7b54,Enriette,Enrietto,恩黎艾特
+,无编号,79193e0a,BowAmulet,Bow Amulet,
+,无编号,7929cde8,WhiteMoon,White Moon,
+,无编号,793eff20,H_JuraWoodcarving,H Jura Woodcarving,
+,无编号,794e20e2,Blushing,Blushing,
+,无编号,7a670c7d,SimpleBox,Simple Box,
+,无编号,7ab9221c,YufasStatue,Yufas Statue,
+,无编号,7ad06f50,H_BigCoin,H Big Coin,
+,无编号,7ad2b91b,H_BigClub,H Big Club,
+,无编号,7b0d83c6,H_BowTools,H Bow Tools,
+,无编号,7b1b82f2,PoisonBone,Poison Bone,
+,无编号,7ba12059,H_ExcitingGauche,H Exciting Gauche,
+,无编号,7bb991d4,D_BragiBrush,D Bragi Brush,
+,无编号,7bfc1fbe,MagicTools,Magic Tools,
+,无编号,7c04f4e0,Obroma,Obroma,奥卜洛玛
+,无编号,7c2a15da,Sandalwood,Sandalwood,白檀香木
+,无编号,7c2b6720,H_SoulCrystal,H Soul Crystal,
+,无编号,7c3fec93,AncientStone,Ancient Stone,
+,无编号,7ce10f9f,H_Scylla,H Scylla,
+,无编号,7ce19e96,H_RuggedWork,H Rugged Work,
+,无编号,7cefb261,H_DarkFish,H Dark Fish,
+,无编号,7cfb75c0,Gleipnir,Gleipnir,妖线格莱普尼尔
+,无编号,7d1ca8e0,CriticalJewel,Critical Jewel,
+,无编号（游戏丢弃）,7d67a6d7,タテジマオオカミ_第3部_物攻_,Vertical wolf_part 3_physical attack_,
+,无编号,7dd09eb0,SandbaalTail,Sandbaal Tail,
+,无编号,7dffcccc,H_ShortSpear2,H Short Spear 2,
+,无编号,7dffcccf,H_ShortSpear1,H Short Spear 1,
+,无编号,7e175c29,Hishibana,Hishibana,
+,无编号,7e31f109,FlightBook,Flight Book,
+,无编号,7e3ad88c,JermellMilk,Jermell Milk,
+,无编号,7e963991,H_WhiteMoon,H White Moon,
+,无编号,7ea1a804,H_Cullet,H Cullet,
+,无编号,7eb60ae7,BeastFang,Beast Fang,
+,无编号,7ec6aed6,H_LightGarm,H Light Garm,
+,无编号,7f1b9d85,H_WoodAxe1,H Wood Axe 1,
+,无编号,7f1b9d86,H_WoodAxe2,H Wood Axe 2,
+,无编号,7f33b157,D_DemonSkull,D Demon Skull,
+,无编号,7f66836b,H_Torch,H Torch,
+,无编号,7f6ca891,FlowerPainting,Flower Painting,小白花绘画
+,无编号,7f79adf0,H_SimpleBox,H Simple Box,
+,无编号,7f84a39c,H_HeartBonito,H Heart Bonito,
+,无编号,7fdb6293,H_AlchemyStone,H Alchemy Stone,
+,无编号,7ffec3ec,GreatFishBox,Great Fish Box,
+,无编号,803f0280,H_BlackMaginiusCharm2,H Black Maginius Charm 2,
+,无编号,803f0283,H_BlackMaginiusCharm1,H Black Maginius Charm 1,
+,无编号,803f0286,H_BlackMaginiusCharm4,H Black Maginius Charm 4,
+,无编号,80973dc1,AuroraLance,Aurora Lance,
+,无编号,80c23827,AgonyShield,Agony Shield,
+,无编号,80c3eb23,Angel,Angela,邪剑怨诛拉
+,无编号,8112a3fe,Blade,Cleansing Blade,净化剑
+,无编号,81137386,H_TortatesLoach,H Tortates Loach,
+,无编号,8132f8fd,H_BawCharm1,H Baw Charm 1,
+,无编号,8132f8fe,H_BawCharm2,H Baw Charm 2,
+,无编号,8132f8ff,H_BawCharm3,H Baw Charm 3,
+,无编号,8144df9d,H_GradyGoby,H Grady Goby,
+,无编号,81519100,Calednisgaa,Calednisgaa,
+,无编号,8166a1fd,H_JermellMilk,H Jermell Milk,
+,无编号,8234a0e1,H_BlackFeather,H Black Feather,
+,无编号,827bb6ce,TradeIntroduction,Trade Introduction,
+,无编号,829a6602,CastaliaMap,Castalia Map,卡斯塔利亚地图
+,无编号,82c4cd42,H_KusarikMeat,H Kusarik Meat,
+,无编号,82d84ea3,Riblow,Riblow,
+,无编号,82fb8a1a,CharmJewel,Charm Jewel,
+,无编号,83201fca,H_GladiusSword1,H Gladius Sword 1,
+,无编号,838ed491,Soldanella,Soldanella,雪铃花
+,无编号,839afb3c,Adamant,Adamantine,精金
+,无编号,83d43a8e,PickledBulbs,Pickled Bulbs,醋渍球根
+,无编号,83dc5160,Cinnamos,Cinnamos,西拿摩司
+,无编号,8498b210,H_Oliva,H Oliva,
+,无编号,8585f042,MarsClaw,Mars Claw,
+,无编号,858eca95,OrniusFriendCharm,Ornius Friend Charm,
+,无编号,85938efd,H_WoodBow1,H Wood Bow 1,
+,无编号,85938efe,H_WoodBow2,H Wood Bow 2,
+,无编号,8596aceb,ExorcismSword,Exorcism Sword,
+,无编号,859f507c,H_D_RedAxe1,H D Red Axe 1,
+,无编号,85aa1411,H_Fugue,H Fugue,
+,无编号,85eb91d1,ArrowheadJewelry,Arrowhead Jewelry,
+,无编号,85f6fedf,ShieldsPortrait,Shields Portrait,
+,无编号,8647677c,H_GiantRing,H Giant Ring,
+,无编号,866a3aa9,H_D_MahamadLance1,H D Mahamad Lance 1,
+,无编号,868104c3,D_MahamadLance,D Mahamad Lance,
+,无编号,8683c44d,H_Kenkonken2,H Kenkonken 2,
+,无编号,8683c44e,H_Kenkonken1,H Kenkonken 1,
+,无编号,86a2acb2,H_SweetTreats,H Sweet Treats,
+,无编号,86b5dcc7,H_D_Dondebok1,H D Dondebok 1,
+,无编号,86c82e94,H_SlenderSpear1,H Slender Spear 1,
+,无编号,86c82e97,H_SlenderSpear2,H Slender Spear 2,
+,无编号,873aa7e3,H_EventfulJewel,H Eventful Jewel,
+,无编号,8783aff9,H_RedAxe1,H Red Axe 1,
+,无编号,8794a755,H_EarthJaw,H Earth Jaw,
+,无编号,87955c9d,JointProtection,Joint Protection,
+,无编号,87ac245c,H_DaminaGautlet1,H Damina Gautlet 1,
+,无编号,87ac245f,H_DaminaGautlet2,H Damina Gautlet 2,
+,无编号,87cc0755,H_SpecialGinji,H Special Ginji,
+,无编号,892de783,WhiteMagicBook,White Magic Book,
+,无编号,892f4b2a,EventfulJewel,Eventful Jewel,
+,无编号,8930d0a7,H_SuperWhiteMagicBook,H Super White Magic Book,
+,无编号,896c29a8,Usamos,Usamos,乌萨摩斯
+,无编号,897ce9f1,AgingGauche,Aging Gauche,
+,无编号,89a7372e,SuperWhiteMagicBook,Super White Magic Book,
+,无编号,89ceeed3,AnswererOu,Answerer Ou,
+,无编号,89d5e95f,H_Angelica,H Angelica,
+,无编号,8a92964d,H_JudgmentBalance,H Judgment Balance,
+,无编号,8af1cdbd,ThunderSword,Thunder Sword,
+,无编号,8b357fad,HandAxe,Hand Axe,手斧
+,无编号,8b5c1e38,H_DecorativeArrow,H Decorative Arrow,
+,无编号,8bc78c66,DaminaGautlet,Damina Gautlet,
+,无编号,8c1079b5,H_Agartium,H Agartium,
+,无编号,8c314957,H_StrongIronBox,H Strong Iron Box,
+,无编号,8c55bac5,H_PoetsMonument,H Poets Monument,
+,无编号,8c61874f,PoisonStone,Poison Stone,
+,无编号,8c6dcfb0,H_Halberd1,H Halberd 1,
+,无编号,8c6dcfb3,H_Halberd2,H Halberd 2,
+,无编号,8ca069c2,BawDung,Baw Dung,
+,无编号,8cc49f7c,BeastClaw,Beast Claw,兽爪
+,无编号,8cf38cca,H_DhakaMonge,H Dhaka Monge,
+,无编号,8cfbcb20,SmallTeff,Small Teff,
+,无编号,8d466e1f,H_ArenaStory,H Arena Story,
+,无编号,8d58f4cb,MorphisAlmanac,Morphis Almanac,
+,无编号,8d901a0d,Excalibur,Excalibur,埃克斯卡利伯
+,无编号,8da2a41c,H_HigeGold,H Hige Gold,
+,无编号,8e3e0df2,H_SunGauche,H Sun Gauche,
+,无编号,8e3f8e09,H_BigInsectPearl,H Big Insect Pearl,
+,无编号,8e676401,H_ThickBook,H Thick Book,
+,无编号,8e9c693f,RapidDissolution,Rapid Dissolution,
+,无编号,8eb1bf84,Assal,Assal,圣枪阿萨勒
+,无编号,8ebd68a7,BawCharm,Baw Charm,
+,无编号,8ec635fa,SaveronMap,Saveron Map,
+,无编号,8ece396a,Hammer,Hammer,战锤
+,无编号,8f40998d,H_BigGold,H Big Gold,
+,无编号,8f4dee01,HedagBow,Hedag Bow,
+,无编号,8f97486f,H_CarlaNeedle,H Carla Needle,
+,无编号,8fc48085,H_VioletBrooch,H Violet Brooch,
+,无编号,8ff2780f,Orichalcum,Orichalcum,奥利哈钢
+,无编号,9023a6fb,PoisonSword,Poison Sword,
+,无编号,90640872,GreatSword,Great Sword,
+,无编号,906d1b11,H_BronzeLance1,H Bronze Lance 1,
+,无编号,906d1b12,H_BronzeLance2,H Bronze Lance 2,
+,无编号,909260e8,StrongWeaponBox,Strong Weapon Box,
+,无编号,90a5ce49,WanderingWall,Wandering Wall,彷徨之壁
+,无编号,90b7c04f,H_SunFruit,H Sun Fruit,
+,无编号,913ae347,Zalmoxis,Zalmoxis,查尔摩克西斯
+,无编号,9158d4be,H_VolcanoGauche,H Volcano Gauche,
+,无编号,9175ca1e,Kimbasho,Kimbai,金拜
+,无编号,91a50842,H_CarlaStatue,H Carla Statue,
+,无编号,91d4d693,H_MadnessJewel,H Madness Jewel,
+,无编号,920e77f4,H_D_WhiteMoon,H D White Moon,
+,无编号,923113ee,H_AgazeBow1,H Agaze Bow 1,
+,无编号,92451b3d,H_PhotonStatue,H Photon Statue,
+,无编号,926b67eb,Velokine,Velokine,
+,无编号,92850ce9,AeginaCrystal,Aegina Crystal,艾基纳水晶
+,无编号,92bf9585,H_JadeStatue,H Jade Statue,
+,无编号,92f1fe4e,H_Zange,H Zange,
+,无编号,9356f862,BattleBow,Battle Bow,
+,无编号,937d2f19,H_YoungSoush,H Young Soush,
+,无编号,93c96d95,H_WoodLance2,H Wood Lance 2,
+,无编号,93c96d96,H_WoodLance1,H Wood Lance 1,
+,无编号,941e2c72,H_D_IronFan1,H D Iron Fan 1,
+,无编号,945d7808,Reserve,Reserve,
+,无编号,949271bf,Answerer,Answerer,安萨拉
+,无编号,94a302c8,SmashAxe,Smash Axe,
+,无编号,95078759,RedSecretLetter,Red Secret Letter,
+,无编号,95323a64,Salamander,Salamander,沙拉曼达
+,无编号,95477c68,H_MeganiusCharm1,H Meganius Charm 1,
+,无编号,95477c6b,H_MeganiusCharm2,H Meganius Charm 2,
+,无编号,95477c6d,H_MeganiusCharm4,H Meganius Charm 4,
+,无编号,9558ecd3,Arrow,Agnea's Arrow,阿古尼亚之箭
+,无编号,955cc005,AmuletShield,Amulet Shield,
+,无编号,9576bde5,H_DhabaCompass,H Dhaba Compass,
+,无编号,959751c1,BlessingDew,Blessing Dew,
+,无编号,959a853e,H_D_BlackGwen,H D Black Gwen,
+,无编号,95b1d390,GreenGauche,Green Gauche,
+,无编号,95f28a04,DemonSkull,Demon Skull,
+,无编号,95f290bd,H_ShadowPunch,H Shadow Punch,
+,无编号,962d52f3,H_LuffMeat,H Luff Meat,
+,无编号,963dc28d,H_LargeTeff,H Large Teff,
+,无编号,963ebc54,H_DarkSharpClaw,H Dark Sharp Claw,
+,无编号,96556901,H_EasternEarring,H Eastern Earring,
+,无编号,9698df7b,H_YukiTou,H Yuki Tou,
+,无编号,975e4bf0,WoodShield,Wood Shield,
+,无编号,97a2b763,H_Lizaia,H Lizaia,
+,无编号,97f300bb,H_BookBox,H Book Box,
+,无编号,980d3f95,H_UnusualSpices,H Unusual Spices,
+,无编号,9837845a,H_D_Gazeria1,H D Gazeria 1,
+,无编号,98578369,Freeze,Freeze,冰封
+,无编号,98628ae6,FodlanTea,Fodlan Tea,
+,无编号,98e99fd6,GoodBox,Good Box,
+,无编号,990dc5e4,H_SuperEquestrianBook,H Super Equestrian Book,
+,无编号,99763681,ThunderStorm,Thunder Storm,
+,无编号,9976588d,ThunderStone,Thunder Stone,
+,无编号,999abd22,SewingTools,Sewing Tools,
+,无编号,9a02c740,H_AgneaArrow,H Agnea Arrow,
+,无编号,9a0fa653,H_ArmorBook,H Armor Book,
+,无编号,9a22dc4c,Chrysanthemum,Chrysanthemum,
+,无编号,9a28ae17,H_GiscoTreasure,H Gisco Treasure,
+,无编号,9a98d566,H_RecklessTreasure,H Reckless Treasure,
+,无编号,9ab07d88,GlowDrop,Glow Drop,
+,无编号,9b6221fc,SeaMeat,Sea Meat,
+,无编号,9bef81c5,H_D_BlackSun,H D Black Sun,
+,无编号,9c33cbe2,Gundogya,Gundogya,邪斧干多迦
+,无编号,9c74182b,H_VegetableBox,H Vegetable Box,
+,无编号,9c7af40a,H_GiantAxe,H Giant Axe,
+,无编号,9c8f5e5a,SeaCharm,Sea Charm,
+,无编号,9cab876d,SandstormBattalion,Sandstorm Battalion,沙暴大队
+,无编号,9caf116b,CrimsonStatue,Crimson Statue,
+,无编号,9cb19a29,H_Yumenosilbe,H Yumenosilbe,
+,无编号,9cb41cfd,CookingPedia,Cooking Pedia,
+,无编号,9ce268f1,IronSword,Iron Sword,铁剑
+,无编号,9cf205f2,WoodSword,Wood Sword,
+,无编号,9d0d1b83,DaminaShield,Damina Shield,
+,无编号,9d394da9,H_ArchiveSlime,H Archive Slime,
+,无编号,9d3e9d95,DarkMetal,Dark Metal,
+,无编号,9d8185bc,TurtleShell,Turtle Shell,
+,无编号,9df24d8e,H_RichGarm,H Rich Garm,
+,无编号,9e0784a2,Zotogon,Zotogon,佐托贡
+,无编号,9e3c78c4,H_SevenStartsCore,H Seven Starts Core,
+,无编号,9e3e0209,H_TrainingBracelet,H Training Bracelet,
+,无编号,9e576bd8,H_BlissTongue,H Bliss Tongue,
+,无编号,9e620316,StoneBox,Stone Box,
+,无编号,9e7bb502,DhabaCompass,Dhaba Compass,
+,无编号,9e95c7c2,H_SecretGauche,H Secret Gauche,
+,无编号,9ec47b88,H_Verelheit1,H Verelheit 1,
+,无编号,9f1a9ba4,H_LightningJewel,H Lightning Jewel,
+,无编号,9f1c1711,H_Tomahawk2,H Tomahawk 2,
+,无编号,9f1c1712,H_Tomahawk1,H Tomahawk 1,
+,无编号,9f30cdc1,GiftBox,Gift Box,礼品箱
+,无编号,9f57674a,DaintyJewel,Dainty Jewel,
+,无编号,9f5c48fd,OrniusCharm,Ornius Charm,
+,无编号,9f62926c,MorphisTea,Morphis Tea,
+,无编号,9f9be866,LittleDagger,Little Dagger,
+,无编号,9f9f4e34,H_WindStone,H Wind Stone,
+,无编号,9faa5b6f,H_ChallengeJewel,H Challenge Jewel,
+,无编号,9fcb29ab,H_SecretBody,H Secret Body,
+,无编号,9fcb35dc,H_SecretBook,H Secret Book,
+,无编号,9fd4577b,BronzeSword,Bronze Sword,青铜剑
+,无编号,9fe3a20f,D_BlackGwen,D Black Gwen,
+,无编号,a1139276,H_AmuletShield,H Amulet Shield,
+,无编号,a1192064,AttackAle,Attack Ale,
+,无编号,a1204688,PegasusPainting,Pegasus Painting,
+,无编号,a13a6af5,SuperEquestrianBook,Super Equestrian Book,
+,无编号,a17866ec,H_AVoidRing,H AVoid Ring,
+,无编号,a1856681,RedMeganiusCharm,Red Meganius Charm,
+,无编号,a18a53f0,BlueHeart,Blue Heart,
+,无编号,a18e82d8,SpiritDoll,Spirit Doll,
+,无编号,a1d9badf,H_SweetsBox,H Sweets Box,
+,无编号,a25cf0c6,ImitationEmblem,Imitation Emblem,
+,无编号,a26f8209,H_DanteCollection,H Dante Collection,
+,无编号,a2853094,AntiqueMedal,Antique Medal,古董战功勋章
+,无编号,a2c194f7,Shaktou,Shaktoh,夏库托
+,无编号,a2e9beab,H_SpiritPowder,H Spirit Powder,
+,无编号,a2f36040,H_D_BearClaw1,H D Bear Claw 1,
+,无编号,a316a9e3,H_AxeAmulet,H Axe Amulet,
+,无编号,a3240829,D_DhabaCompass,D Dhaba Compass,
+,无编号,a33c3735,WittySoush,Witty Soush,
+,无编号,a3548ef6,H_SaltedFish,H Salted Fish,
+,无编号,a3a71ba8,D_Gazeria,D Gazeria,
+,无编号,a3bbf726,H_Hammer1,H Hammer 1,
+,无编号,a3bc04cc,Zerberos,Zerberos,
+,无编号,a3c4e737,H_EquestrianBook,H Equestrian Book,
+,无编号,a45e5406,MaginiusFriendCharm,Maginius Friend Charm,
+,无编号,a46e264a,Joppa,Joppa,
+,无编号,a48dad8d,H_StoneBox,H Stone Box,
+,无编号,a48ee15f,BigWing,Big Wing,
+,无编号,a4c4fdce,H_Shaver,H Shaver,
+,无编号,a4d9ac24,H_LinkPointRecoveryLow,H Link Point Recovery Low,
+,无编号,a4fb4c50,H_GamesCollection,H Games Collection,
+,无编号,a5a46d5b,H_WoodShield,H Wood Shield,
+,无编号,a5b19e65,Pongo,Pongo,蓬葛
+,无编号,a5cf744a,H_Silece,H Silece,
+,无编号,a5d2adca,H_GreatVegetableBox,H Great Vegetable Box,
+,无编号,a5d88c24,DishesCollection,Dishes Collection,
+,无编号,a5f09729,NamelessSpear,Nameless Spear,
+,无编号,a5fe1009,H_ShortAxe2,H Short Axe 2,
+,无编号,a5fe100a,H_ShortAxe1,H Short Axe 1,
+,无编号,a60434d4,WootzSteel,Wootz Steel,乌兹钢
+,无编号,a62a3ada,PeaceDew,Peace Dew,
+,无编号,a63745ff,H_BazariShark,H Bazari Shark,
+,无编号,a6707793,D_Suiran,D Suiran,
+,无编号,a6a42c0f,H_FlashyBangle,H Flashy Bangle,
+,无编号,a6cb70a2,ArchiveBanshee,Archive Banshee,
+,无编号,a6d672d3,H_CastaliaMap,H Castalia Map,
+,无编号,a6e41971,JuraWoodcarving,Jura Woodcarving,
+,无编号,a6fc96c9,ZephyrusShield,Zephyrus Shield,
+,无编号,a7099262,H_SuperBookBox,H Super Book Box,
+,无编号,a74a1e58,BuildAle,Build Ale,
+,无编号,a766deaf,OldPendant,Old Pendant,
+,无编号,a795c2bb,VolcanoGauche,Volcano Gauche,
+,无编号,a7b77c97,H_Kadam,H Kadam,
+,无编号,a814e529,SpiritGame,Spirit Game,
+,无编号,a81b7b5e,H_BeastFang,H Beast Fang,
+,无编号,a83a6012,D_BlackSun,D Black Sun,
+,无编号,a888bd5e,KnightKiller,Knight Killer,
+,无编号,a89d3520,Boomerang,Boomerang,
+,无编号,a8edf76b,H_BlackRoach,H Black Roach,
+,无编号,a904a6ba,Kadam,Kadam,
+,无编号,a90513c8,H_CharmAle,H Charm Ale,
+,无编号,a945f9ab,H_GiantMeat,H Giant Meat,
+,无编号,a9617b3a,H_FlightBook,H Flight Book,
+,无编号,a9cc6e8e,CaseFile,Case File,
+,无编号,aa356463,SmirnosGautlet,Smirnos Gautlet,
+,无编号,aa35fada,JadeStatue,Jade Statue,
+,无编号,aaa68e64,ResistGautlet,Resist Gautlet,
+,无编号,aaecbc00,GaleWing,Gale Wing,
+,无编号,ab60827e,H_Scimitar1,H Scimitar 1,
+,无编号,ab8f9471,WolfMeat,Wolf Meat,狼肉
+,无编号,ab9f9970,ThickBook,Thick Book,
+,无编号,ac137b57,H_GirlClip,H Girl Clip,
+,无编号,ac2a3650,H_WoodliceMeat,H Woodlice Meat,
+,无编号,ac35592a,H_DyedTowel,H Dyed Towel,
+,无编号,ac647dbe,H_FimbleNight,H Fimble Night,
+,无编号,acdba7a8,LyrahBreath,Lyrah Breath,
+,无编号,ad0051d4,H_Rescue,H Rescue,
+,无编号,ad387cab,RedFalconCharm,Red Falcon Charm,
+,无编号,ad617676,H_JudgmentSword,H Judgment Sword,
+,无编号,ad6596cf,H_Gold_Drake,H Gold Drake,
+,无编号,ad84747f,CocoMinji,Coco Minji,
+,无编号,ade637b5,BlackHorseCharm,Black Horse Charm,
+,无编号,ae186ba0,BloodHorseCharm,Blood Horse Charm,
+,无编号,ae6c5843,H_AntiqueMedal,H Antique Medal,
+,无编号,ae903d81,SecretGauche,Secret Gauche,
+,无编号,aef9067a,Materials,Building Materials,重建材料
+,无编号,af970c43,MealCoupon,Meal Coupon,
+,无编号,afafcb66,GiantMeat,Giant Meat,
+,无编号,b014d9f9,H_SemPotato,H Sem Potato,
+,无编号,b077f148,LargeTeff,Large Teff,
+,无编号,b0858710,Gurumaosa,Gurumaosa,
+,无编号,b088603a,H_HolyWater,H Holy Water,
+,无编号,b0b0a61a,MoonStone,Moon Stone,
+,无编号,b0c72fff,Paya,Paya,派芽
+,无编号,b10e1611,PoisonJewel,Poison Jewel,
+,无编号,b141e5a5,H_GaleSword2,H Gale Sword 2,
+,无编号,b141e5a6,H_GaleSword1,H Gale Sword 1,
+,无编号,b15274f4,H_BattleBow1,H Battle Bow 1,
+,无编号,b15274f7,H_BattleBow2,H Battle Bow 2,
+,无编号,b1590ca4,H_RingBox,H Ring Box,
+,无编号,b15d41cd,Corundum,Corundum,
+,无编号,b178622f,H_ArchiveDeath,H Archive Death,
+,无编号,b1bab1a3,H_RuinsThings,H Ruins Things,
+,无编号,b1bb3301,UnicornCharm,Unicorn Charm,
+,无编号,b239354c,H_Almamet,H Almamet,
+,无编号,b252bfe9,IronShield,Iron Shield,铁盾
+,无编号,b297d39d,Nineyakka,Nineyakka,
+,无编号,b2b21cb4,H_VictoryJewel,H Victory Jewel,
+,无编号,b2cf9cae,SpiceLeaf,Spice Leaf,
+,无编号,b2e3a033,KillSword,Killer Sword,
+,无编号,b2efc44c,NemeaStalactite,Nemea Stalactite,
+,无编号,b2f4df40,H_Tobarinara,H Tobarinara,
+,无编号,b31865a4,H_EmperorBand,H Emperor Band,
+,无编号,b31b6ba9,AngusPike,Angus Pike,
+,无编号,b326bdc8,H_NightQatar2,H Night Qatar 2,
+,无编号,b326bdcb,H_NightQatar1,H Night Qatar 1,
+,无编号,b35f0b50,H_IronBow1,H Iron Bow 1,
+,无编号,b35f0b53,H_IronBow2,H Iron Bow 2,
+,无编号,b366b4b5,H_CarneBonito,H Carne Bonito,
+,无编号,b3a58d02,H_FlowerPainting,H Flower Painting,
+,无编号,b3a80bb5,H_IronGautlet2,H Iron Gautlet 2,
+,无编号,b3a80bb6,H_IronGautlet1,H Iron Gautlet 1,
+,无编号,b3afd239,D_BloodPattern,D Blood Pattern,
+,无编号,b3b35215,EastGame,East Game,
+,无编号,b3ed0dae,MegrezSand,Megrez Sand,
+,无编号,b3f40d19,H_ShortBow2,H Short Bow 2,
+,无编号,b3f40d1a,H_ShortBow1,H Short Bow 1,
+,无编号,b436888d,H_SaveronMap,H Saveron Map,
+,无编号,b50b7060,H_WhiteTrout,H White Trout,
+,无编号,b5291a7f,H_DagdaShield,H Dagda Shield,
+,无编号,b585a325,H_FlavorfulSeasoning,H Flavorful Seasoning,
+,无编号,b58f161c,YakMeat,Yak Meat,
+,无编号,b5b06308,YakMilk,Yak Milk,
+,无编号,b644a331,H_Adamant,H Adamant,
+,无编号,b6ce1ad6,BookBox,Book Box,
+,无编号,b6d76241,H_HuntingBow1,H Hunting Bow 1,
+,无编号,b6d76242,H_HuntingBow2,H Hunting Bow 2,
+,无编号,b6fa46de,H_IceBlade,H Ice Blade,
+,无编号,b74efccc,SilverShield,Silver Shield,银盾
+,无编号,b75d1924,H_IronAxe1,H Iron Axe 1,
+,无编号,b75d1927,H_IronAxe2,H Iron Axe 2,
+,无编号,b7882fde,BigInsectPearl,Big Insect Pearl,
+,无编号,b7b08718,H_Riblow,H Riblow,
+,无编号,b8400bab,H_TeaTree,H Tea Tree,
+,无编号,b87048e2,H_CocoMinji,H Coco Minji,
+,无编号,b899ac73,HuntingBow,Hunting Bow,
+,无编号,b8a96e5d,SpearAmulet,Spear Amulet,
+,无编号,b8c5022d,BronzeLance,Bronze Lance,
+,无编号,b9a78db0,UnusualSpices,Unusual Spices,
+,无编号,ba4ab7a6,H_D_RedGem,H D Red Gem,
+,无编号,ba51255d,Milanilla,Milanilla,
+,无编号,ba63de6f,SunGauche,Sun Gauche,
+,无编号,bac508a0,TreasureKey,Treasure Key,
+,无编号,badb6ff9,H_BlueHeart,H Blue Heart,
+,无编号,bae6a106,BoardGame,Board Game,
+,无编号,bb335ea9,H_Starlight,H Starlight,
+,无编号,bb4386aa,Rest,Restore,休息
+,无编号,bb53bd17,H_HoneyTreats,H Honey Treats,
+,无编号,bb55c7d9,Roca,Roca,洛卡
+,无编号,bb5dafd3,AvoidGautlet,Avoid Gautlet,
+,无编号,bb66f8cb,IdeaBow,Idea Bow,
+,无编号,bb750c24,H_HighLicense,H High License,
+,无编号,bb8ab728,Bardiche,Bardiche,长柄斧
+,无编号,bb9eaac6,SilverSword,Silver Sword,银剑
+,无编号,bba14b19,WoodAxe,Wood Axe,
+,无编号,bbab3666,WoodBox,Wood Box,
+,无编号,bbab3669,WoodBow,Wood Bow,
+,无编号,bbc47802,BlackGwen,Black Gwen,
+,无编号,bbca809b,H_DesertThings,H Desert Things,
+,无编号,bc0a580b,H_WoodBox,H Wood Box,
+,无编号,bc38e5f8,HoneyMilk,Honey Milk,加了蜂蜜的奶
+,无编号,bc44627f,MagicTurret,Magic Turret,
+,无编号,bcee25b0,H_PoisonSword2,H Poison Sword 2,
+,无编号,bcee25b3,H_PoisonSword1,H Poison Sword 1,
+,无编号,bd33220d,H_AuroraCloth,H Aurora Cloth,
+,无编号,bd8f43ce,SouthTeff,South Teff,
+,无编号,bdb9f6ad,H_Hukarin2,H Hukarin 2,
+,无编号,bdb9f6ae,H_Hukarin1,H Hukarin 1,
+,无编号,be4f192f,LinkPointRecoveryLow,Link Point Recovery Low,
+,无编号,beb75ed1,H_StrongBronzeBox,H Strong Bronze Box,
+,无编号,bec2ca14,SuperBlackMagicBook,Super Black Magic Book,
+,无编号,bf2e958d,BowTools,Bow Tools,
+,无编号,bf43e215,H_OrniusCharm1,H Ornius Charm 1,
+,无编号,bf43e216,H_OrniusCharm2,H Ornius Charm 2,
+,无编号,bfe2674c,H_RedFalconCharm,H Red Falcon Charm,
+,无编号,c0181274,AmidGoby,Amid Goby,
+,无编号,c03e6881,FishKnife,Fish Knife,
+,无编号,c04ded75,H_MarsClaw,H Mars Claw,
+,无编号,c07d2131,H_BeastClaw,H Beast Claw,
+,无编号,c12e1717,LoveStory,Love Story,
+,无编号,c159d93a,HuntingJewel,Hunting Jewel,
+,无编号,c21054be,H_SilverLance1,H Silver Lance 1,
+,无编号,c257be6b,H_FishEyeball,H Fish Eyeball,
+,无编号,c25822ea,SpecialGinji,Special Ginji,
+,无编号,c270a28d,AngelRobe,Angel Robe,
+,无编号,c2850006,PhotonStatue,Photon Statue,
+,无编号,c2edc2cb,Kimbai,Kimbai,金拜
+,无编号,c303815d,H_MegrezSand,H Megrez Sand,
+,无编号（游戏丢弃）,c30663bc,ExtraArms03_1,Extra Arms 03 1,
+,无编号（游戏丢弃）,c30663be,ExtraArms03_3,Extra Arms 03 3,
+,无编号（游戏丢弃）,c30663bf,ExtraArms03_2,Extra Arms 03 2,
+,无编号（游戏丢弃）,c309df95,ExtraArms02_1,Extra Arms 02 1,
+,无编号（游戏丢弃）,c309df96,ExtraArms02_2,Extra Arms 02 2,
+,无编号（游戏丢弃）,c309df97,ExtraArms02_3,Extra Arms 02 3,
+,无编号,c30bda7d,TcticalBook,Tctical Book,
+,无编号（游戏丢弃）,c30c1548,ExtraArms01_3,Extra Arms 01 3,
+,无编号（游戏丢弃）,c30c1549,ExtraArms01_2,Extra Arms 01 2,
+,无编号（游戏丢弃）,c30c154a,ExtraArms01_1,Extra Arms 01 1,
+,无编号（游戏丢弃）,c31a889c,ExtraArms04_2,Extra Arms 04 2,
+,无编号（游戏丢弃）,c31a889d,ExtraArms04_3,Extra Arms 04 3,
+,无编号（游戏丢弃）,c31a889f,ExtraArms04_1,Extra Arms 04 1,
+,无编号,c34b7fa8,Banshee,Banshee Θ,报丧Θ
+,无编号,c3566b35,WonderLeaf,Wonder Leaf,
+,无编号,c39111a8,GradyGoby,Grady Goby,古拉迪虾虎鱼
+,无编号,c39c9a6b,GaleRing,Gale Ring,疾风戒指
+,无编号,c39dde8c,H_MoveAle,H Move Ale,
+,无编号,c3c051fa,H_SecretBox,H Secret Box,
+,无编号,c42f0f9d,H_CommonPeople,H Common People,
+,无编号,c4592a4b,H_DryingServi,H Drying Servi,
+,无编号,c4876486,H_LleatherBag,H Lleather Bag,
+,无编号,c49cc074,H_StrategyManuscrip,H Strategy Manuscrip,
+,无编号,c59f28f5,H_IronFan1,H Iron Fan 1,
+,无编号,c59f28f6,H_IronFan2,H Iron Fan 2,
+,无编号,c5eb892c,Sharmir,Sharmir,
+,无编号,c5fc4eb3,H_MorphisTea,H Morphis Tea,
+,无编号,c6013a8c,H_AncientStone,H Ancient Stone,
+,无编号,c609db21,Tron,Tron,
+,无编号,c62d8e81,H_Misanga,H Misanga,
+,无编号,c6dd6796,Dondebok,Dondebok,邪甲东提柏克
+,无编号,c731bcb9,H_Gurumaosa,H Gurumaosa,
+,无编号,c7633cce,FragrantTreats,Fragrant Treats,
+,无编号,c7a44586,H_SummonBranch,H Summon Branch,
+,无编号,c82fdccf,H_D_BlackSun_Cohen,H D Black Sun Cohen,
+,无编号,c8595a58,WhiteServi,White Servi,
+,无编号,c8763c14,H_FortanaWand,H Fortana Wand,
+,无编号,c885aeb8,SorelLance,Sorel Lance,
+,无编号,c88d1b42,RedBawCharm,Red Baw Charm,
+,无编号,c89350da,WindShoes,Wind Shoes,
+,无编号,c9022be6,CarlaNeedle,Carla Needle,
+,无编号,c92d1d50,H_AeginaCrystal,H Aegina Crystal,
+,无编号,c967900c,StrangeVegetables,Strange Vegetables,
+,无编号,c9b0507c,H_IronLance2,H Iron Lance 2,
+,无编号,c9b0507f,H_IronLance1,H Iron Lance 1,
+,无编号,c9ba8892,H_WarriorStone,H Warrior Stone,
+,无编号,ca3fd422,H_UnicornCharm4,H Unicorn Charm 4,
+,无编号,ca3fd424,H_UnicornCharm2,H Unicorn Charm 2,
+,无编号,ca3fd427,H_UnicornCharm1,H Unicorn Charm 1,
+,无编号,ca7354a9,ResonateStoneS,Resonate Stone S,
+,无编号,ca7354b6,ResonateStoneL,Resonate Stone L,
+,无编号,cacd530d,H_FragrantTreats,H Fragrant Treats,
+,无编号,cadf86dc,D_DagdaClub,D Dagda Club,
+,无编号,cb007279,H_KnightKiller2,H Knight Killer 2,
+,无编号,cb00727a,H_KnightKiller1,H Knight Killer 1,
+,无编号,cb4009ad,ShortSpear,Short Spear,短枪
+,无编号,cb436c08,CombatAle,Combat Ale,
+,无编号,cb844d90,H_BronzeSword2,H Bronze Sword 2,
+,无编号,cb844d93,H_BronzeSword1,H Bronze Sword 1,
+,无编号,cb9a1dae,GiscoTreasure,Gisco Treasure,
+,无编号,cbe50996,NobutaMeat,Nobuta Meat,
+,无编号,cc1c4dc6,BlueSoush,Blue Soush,
+,无编号,cc3c2af5,H_TeffTreats,H Teff Treats,
+,无编号,cc67b8d9,SalamisSweets,Salamis Sweets,
+,无编号,cc85e46d,LilFish,Lil Fish,
+,无编号,cc9b9b25,H_TrainingPillar,H Training Pillar,
+,无编号,cca15a49,H_JuniorLicense,H Junior License,
+,无编号,ccb768bf,Cullet,Cullet,碎晶
+,无编号,ccc3bd29,TeffFruit,Teff Fruit,
+,无编号,cccf4f53,HigeGold,Hige Gold,
+,无编号,cd3b82fe,H_RockSugar,H Rock Sugar,
+,无编号,cdd749a4,H_SpecialCargo,H Special Cargo,
+,无编号,cdf5b841,H_Velokine1,H Velokine 1,
+,无编号,cdf5b842,H_Velokine2,H Velokine 2,
+,无编号,cdfaa6f5,BraxtheaMap,Braxthea Map,
+,无编号,ce28c58b,H_SecretMedicine,H Secret Medicine,
+,无编号,ce2a3bbb,GreatVegetableBox,Great Vegetable Box,
+,无编号,ce699088,GauntletAmulet,Gauntlet Amulet,
+,无编号,ce81730e,H_MoonFish,H Moon Fish,
+,无编号,ce8e88cd,MoveAle,Move Ale,
+,无编号,cea62e11,H_GreenGauche,H Green Gauche,
+,无编号,ceadedbf,H_CeremonialSpear,H Ceremonial Spear,
+,无编号,cf1f2210,H_CaptainCore,H Captain Core,
+,无编号,cf3eddee,KittenFigurine,Kitten Figurine,小猫摆设
+,无编号,cf7ab915,BlissTongue,Bliss Tongue,
+,无编号,cf8c6ca5,Silece,Silece,
+,无编号,cfd346f8,BigBlade,Big Blade,
+,无编号,d0764c93,H_GlowDrop,H Glow Drop,
+,无编号,d0ad426e,SeaBook,Sea Book,
+,无编号,d0cf313f,RedFalconFriendCharm,Red Falcon Friend Charm,
+,无编号,d0cfd8cf,H_AronWand,H Aron Wand,
+,无编号,d0e79419,H_StrongDaminaBox,H Strong Damina Box,
+,无编号,d0eb78ec,VegetableBox,Vegetable Box,
+,无编号,d141e710,OdeMonge,Ode Monge,
+,无编号,d1645133,H_BowAmulet,H Bow Amulet,
+,无编号,d18cbee1,H_AmalfridaSword,H Amalfrida Sword,
+,无编号,d1b26ef0,SilverLance,Silver Lance,
+,无编号,d1c0ba40,H_InterLicense,H Inter License,
+,无编号,d21304ed,H_Sandalwood,H Sandalwood,
+,无编号,d215767a,H_Tron,H Tron,
+,无编号,d268b8e8,H_BlackBawCharm1,H Black Baw Charm 1,
+,无编号,d268b8eb,H_BlackBawCharm2,H Black Baw Charm 2,
+,无编号,d2aaba6d,D_WhiteMoon,D White Moon,
+,无编号,d2d36ede,RedBawFriendCharm,Red Baw Friend Charm,
+,无编号,d2eb0d30,GoldTrout,Gold Trout,
+,无编号,d2ff5af1,EmperorBand,Emperor Band,
+,无编号,d3038e04,SpiritPowder,Spirit Powder,
+,无编号,d307dc93,RedAxeCurse,Red Axe Curse,
+,无编号,d368ffe0,H_MarsSword1,H Mars Sword 1,
+,无编号,d368ffe3,H_MarsSword2,H Mars Sword 2,
+,无编号,d374e0ad,H_Blushing,H Blushing,
+,无编号,d3d2586a,Warp,Warp,传送
+,无编号,d3d25877,Warm,Swarm Ζ,虫群Ζ
+,无编号,d3e8f05a,Wind,Wind,烈风
+,无编号,d433141a,H_AgonyShield,H Agony Shield,
+,无编号,d4339bd0,H_Lazanibarta,H Lazanibarta,
+,无编号,d46f3634,H_TcticalBook,H Tctical Book,
+,无编号,d4eb8a2b,H_ThinServi,H Thin Servi,
+,无编号,d4fc192b,H_JuraStatue,H Jura Statue,
+,无编号,d4fec453,H_ResonateStone,H Resonate Stone,
+,无编号,d505e8ba,TrainingPillar,Training Pillar,锻炼用石柱
+,无编号,d542c992,H_NoseAttack,H Nose Attack,
+,无编号,d54dde55,H_GinjiServi,H Ginji Servi,
+,无编号,d5c2cbe5,H_Warp,H Warp,
+,无编号,d5c2cbf8,H_Warm,H Warm,
+,无编号,d5d9b52d,H_Wind,H Wind,
+,无编号,d5dc6433,H_TravelingHistory,H Traveling History,
+,无编号,d62f555b,H_SpiritDoll,H Spirit Doll,
+,无编号,d657c10b,Grave,Grave,
+,无编号,d659533b,Dougzandi,Dougzandi,
+,无编号,d67f39d2,H_HitAle,H Hit Ale,
+,无编号,d6ac4d61,H_EishetBreath,H Eishet Breath,
+,无编号,d6ae973e,H_PurgatoryGrass,H Purgatory Grass,
+,无编号,d6d3528b,FishingHook,Fishing Hook,
+,无编号,d6d68e6c,Melara,Melara,霉拉拉
+,无编号,d7660395,H_ArchiveBanshee,H Archive Banshee,
+,无编号,d7d270bf,H_ArtSupplies,H Art Supplies,
+,无编号,d7dbf338,H_DaminaSword2,H Damina Sword 2,
+,无编号,d7dbf33b,H_DaminaSword1,H Damina Sword 1,
+,无编号,d803dbc2,H_MechanicalBody,H Mechanical Body,
+,无编号,d80ccd50,LegendaryGarm,Legendary Garm,
+,无编号,d823bd08,Yunamei,Yunamei,
+,无编号,d850763d,Lazanibarta,Lazanibarta,
+,无编号,d8b55481,H_PegasusDung,H Pegasus Dung,
+,无编号,d8e86074,MagicalWand,Magical Wand,
+,无编号,d9483756,TeffTreats,Teff Treats,
+,无编号,d9719cb0,H_RedFlicker,H Red Flicker,
+,无编号,d99f58bd,RecklessTreasure,Reckless Treasure,
+,无编号,d9baf779,H_ScorpionMeat,H Scorpion Meat,
+,无编号,d9d45360,ShinzaHarpoon,Shinza Harpoon,
+,无编号,d9dfb751,FortanaWand,Fortana Wand,
+,无编号,da0c126f,H_Obroma,H Obroma,
+,无编号,da316b80,H_BearMeat,H Bear Meat,
+,无编号,da7446de,AgazeBow,Agaze Bow,
+,无编号,dae8f90a,FlameJewel,Flame Jewel,
+,无编号,db657ff8,Gold_Drake,Gold Drake,
+,无编号,db770816,RedKimbai,Red Kimbai,赤金拜
+,无编号,db795b7e,BronzeGautlet,Bronze Gautlet,
+,无编号,dba9618f,D_MarsSword,D Mars Sword,
+,无编号,dbf0c07c,H_RareSeed,H Rare Seed,
+,无编号,dc19252f,RecoveryAle,Recovery Ale,
+,无编号,dc27573c,H_CarlaBow2,H Carla Bow 2,
+,无编号,dc27573f,H_CarlaBow1,H Carla Bow 1,
+,无编号,dcb06aad,SwordAmulet,Sword Amulet,
+,无编号,dcd10875,H_Calednisgaa,H Calednisgaa,
+,无编号,dd020562,H_BigWing,H Big Wing,
+,无编号,dd034491,WindStone,Wind Stone,
+,无编号,dd6f62e1,H_DagdaClaw,H Dagda Claw,
+,无编号,dda0b1fd,H_PeaceDew,H Peace Dew,
+,无编号,dda98f62,H_BaguaTools,H Bagua Tools,
+,无编号,ddc41b01,H_MagicalWand,H Magical Wand,
+,无编号,ddd0b72c,H_VihuelaTools,H Vihuela Tools,
+,无编号,ddd29195,H_Mace2,H Mace 2,
+,无编号,ddd29196,H_Mace1,H Mace 1,
+,无编号,de110d9c,H_BlessingDew,H Blessing Dew,
+,无编号,de73b324,GirlClip,Girl Clip,
+,无编号,deb13047,H_StormJewel,H Storm Jewel,
+,无编号,dec9168e,H_RedAxeCurse,H Red Axe Curse,
+,无编号,def9de2a,H_LuckyCoin,H Lucky Coin,
+,无编号,df03000c,Starlight,Starlight,星光
+,无编号,df0ee2de,H_RecoveryAle,H Recovery Ale,
+,无编号,df1023cd,H_GaranBangle,H Garan Bangle,
+,无编号,df1ea428,StormJewel,Storm Jewel,
+,无编号,df2081f7,H_MoonStone,H Moon Stone,
+,无编号,df2b910d,H_ReincarnationLotus,H Reincarnation Lotus,
+,无编号,df3dc052,H_Hikariboshi,H Hikariboshi,
+,无编号,df3deb07,RareSeed,Rare Seed,
+,无编号,df515c7d,SilverAxe,Silver Axe,银斧
+,无编号,df53a194,PoisonBow,Poison Bow,
+,无编号,df5b5425,SilverBow,Silver Bow,银弓
+,无编号,dffecab8,ChallengeJewel,Challenge Jewel,
+,无编号,e020cfbd,D_MahamadouHand,D Mahamadou Hand,
+,无编号,e03f9b75,LambuthMap,Lambuth Map,
+,无编号,e05b1a9d,H_HandAxe1,H Hand Axe 1,
+,无编号,e05b1a9e,H_HandAxe2,H Hand Axe 2,
+,无编号,e0a6ba21,H_HorseSword2,H Horse Sword 2,
+,无编号,e0a6ba22,H_HorseSword1,H Horse Sword 1,
+,无编号,e0b3caf1,H_SealedAle,H Sealed Ale,
+,无编号,e0c73f8b,H_GreatFishBox,H Great Fish Box,
+,无编号,e1197a5b,BlackPearl,Black Pearl,黑珍珠
+,无编号,e13df8a8,H_BigSharpClaw,H Big Sharp Claw,
+,无编号,e1829ba1,H_Zalmoxis1,H Zalmoxis 1,
+,无编号,e25340a3,H_MansionKey,H Mansion Key,
+,无编号,e2ba3244,ArenaStory,Arena Story,
+,无编号,e2cb9f94,ElephantLicense,Elephant License,战象兵考试票证
+,无编号,e2df637b,Hikariboshi,Hikariboshi,
+,无编号,e2e99096,H_WittySoush,H Witty Soush,
+,无编号,e2f13f41,PurgatoryGrass,Purgatory Grass,
+,无编号,e31e32a8,AdventureTale,Adventure Tale,
+,无编号,e32f1198,H_D_Vendetta1,H D Vendetta 1,
+,无编号,e416f56e,H_SpiritGame,H Spirit Game,
+,无编号,e42b9573,H_Gleipnir,H Gleipnir,
+,无编号,e437d059,CarlaBow,Carla Bow,
+,无编号,e4491761,H_NemeaStalactite,H Nemea Stalactite,
+,无编号,e474bbf8,H_Paya,H Paya,
+,无编号,e47c6492,DancerLicense,Dancer License,舞娘考试票证（重复条目）
+,无编号,e4926375,H_SandwormMeat,H Sandworm Meat,
+,无编号,e4a09030,Riganet,Riganet,
+,无编号,e506a8dc,H_FishBox,H Fish Box,
+,无编号,e52663e2,YoungSoush,Young Soush,
+,无编号,e5640ca4,H_Nineyakka,H Nineyakka,
+,无编号,e5c6c2ab,WoodGautlet,Wood Gautlet,
+,无编号,e64dc73f,Baskatch,Baskatch,
+,无编号,e6a0a543,RusticGauche,Rustic Gauche,
+,无编号,e7000268,MagicArray,Magic Array,
+,无编号,e710a1b1,H_Flissa2,H Flissa 2,
+,无编号,e710a1b2,H_Flissa1,H Flissa 1,
+,无编号,e73f4022,H_ShieldsPortrait,H Shields Portrait,
+,无编号,e7561dba,RedAxe_SealBroken,Red Axe Seal Broken,
+,无编号,e771a603,H_ChargeAttack,H Charge Attack,
+,无编号,e78b366b,H_DougzaGrass,H Dougza Grass,
+,无编号,e7cdb621,GlassWheel,Glass Wheel,玻璃车轮
+,无编号,e7d0bac3,HorseDung,Horse Dung,
+,无编号,e828eb99,H_FlameJewel,H Flame Jewel,
+,无编号,e840fb99,H_Basark,H Basark,
+,无编号,e863f9ff,TridentSpear,Trident Spear,
+,无编号,e872bd59,H_SuperTcticalBook,H Super Tctical Book,
+,无编号,e904c6f0,H_Salamander1,H Salamander 1,
+,无编号,e904c6f3,H_Salamander2,H Salamander 2,
+,无编号,e907d2b8,IronGautlet,Iron Gautlet,
+,无编号,e93e7b20,H_AlectoGarm,H Alecto Garm,
+,无编号,e95c7ad1,Hanoa,Hanoa,
+,无编号,e961801d,YoungGauche,Young Gauche,
+,无编号,e9a436a5,D_Dondebok,D Dondebok,
+,无编号,e9c0a90e,Thunder,Thunder,雷电
+,无编号,ea269429,BlackMaginiusCharm,Black Maginius Charm,
+,无编号,ea4c3a16,H_DarkSpikes,H Dark Spikes,
+,无编号,ea4d9ef0,H_IronSaddle,H Iron Saddle,
+,无编号,ea99c094,DefenseAle,Defense Ale,
+,无编号,eaa42d36,H_ManeOrnament,H Mane Ornament,
+,无编号,eaa6e8f5,H_RoseBouquet,H Rose Bouquet,
+,无编号,eaf1c8b5,DarkSharpClaw,Dark Sharp Claw,
+,无编号,eaf8b1b5,HighestLicense,Highest License,最上级考试票证（重复条目）
+,无编号,eb2b5ff0,H_Barrier,H Barrier,
+,无编号,eb3c6982,Antidote,Antidote,
+,无编号,eb8a7eae,H_D_Ajura1,H D Ajura 1,
+,无编号,eb940cbb,H_GoodBox,H Good Box,
+,无编号,ebc47433,Rescue,Rescue,救援
+,无编号,ec80dec9,H_CharmJewel,H Charm Jewel,
+,无编号,ecb6e04c,MansionKey,Mansion Key,
+,无编号,ece79945,H_ResonateStoneL,H Resonate Stone L,
+,无编号,ece7995a,H_ResonateStoneS,H Resonate Stone S,
+,无编号,ed5ffb37,SecretBox,Secret Box,
+,无编号,ed750820,FalconFriendCharm,Falcon Friend Charm,
+,无编号,ed8dc39b,WoodliceMeat,Woodlice Meat,
+,无编号,edb28f01,H_CriticalJewel,H Critical Jewel,
+,无编号,ee068f88,H_GoddessStatue,H Goddess Statue,
+,无编号,ee3ab99d,H_Rest,H Rest,
+,无编号,ee563126,H_Roca,H Roca,
+,无编号,eea50f77,H_RedKimbai,H Red Kimbai,
+,无编号,eec98f7b,H_OdeMonge,H Ode Monge,
+,无编号,eec9e36c,AlchemyStone,Alchemy Stone,
+,无编号,eece0503,BigNeedle,Big Needle,
+,无编号,ef2be313,H_Usamos,H Usamos,
+,无编号,ef415bb4,Rahran,Rahran,
+,无编号（游戏丢弃）,ef4f8b39,H_ExtraArms08_2,H Extra Arms 08 2,
+,无编号（游戏丢弃）,ef603424,H_ExtraArms02_1,H Extra Arms 02 1,
+,无编号（游戏丢弃）,ef62d69d,H_ExtraArms03_1,H Extra Arms 03 1,
+,无编号（游戏丢弃）,ef68f569,H_ExtraArms01_3,H Extra Arms 01 3,
+,无编号（游戏丢弃）,ef68f56b,H_ExtraArms01_1,H Extra Arms 01 1,
+,无编号（游戏丢弃）,ef6c7140,H_ExtraArms06_1,H Extra Arms 06 1,
+,无编号（游戏丢弃）,ef6ea77a,H_ExtraArms07_2,H Extra Arms 07 2,
+,无编号（游戏丢弃）,ef7149ee,H_ExtraArms04_1,H Extra Arms 04 1,
+,无编号（游戏丢弃）,ef753284,H_ExtraArms05_2,H Extra Arms 05 2,
+,无编号,ef877ce8,H_Pongo,H Pongo,
+,无编号,efa309bd,H_LittleDagger,H Little Dagger,
+,无编号,efdcb4a9,Almamet,Almamet,亚尔玛梅托
+,无编号,f003d161,DarkPegasusFriendCharm,Dark Pegasus Friend Charm,
+,无编号,f005480b,SpecialCargo,Special Cargo,
+,无编号,f008bcc6,AgingSoush,Aging Soush,
+,无编号,f05bbe05,SoulCrystal,Soul Crystal,魂之结晶
+,无编号,f0824413,Fragarach,Fragarach,邪剑佛拉格拉赫
+,无编号,f092f4a6,H_SandwormsMeat,H Sandworms Meat,
+,无编号,f09de562,H_Gundogya1,H Gundogya 1,
+,无编号,f0c5f4cb,H_BlueSnor,H Blue Snor,
+,无编号,f0e6ec7e,YamanGiku,Yaman Giku,
+,无编号（游戏丢弃）,f0f9d2a0,ExtraArms03,Extra Arms 03,
+,无编号（游戏丢弃）,f0f9d2a1,ExtraArms02,Extra Arms 02,
+,无编号（游戏丢弃）,f0f9d2a2,ExtraArms01,Extra Arms 01,
+,无编号（游戏丢弃）,f0f9d2a4,ExtraArms07,Extra Arms 07,
+,无编号（游戏丢弃）,f0f9d2a5,ExtraArms06,Extra Arms 06,
+,无编号（游戏丢弃）,f0f9d2a6,ExtraArms05,Extra Arms 05,
+,无编号（游戏丢弃）,f0f9d2a7,ExtraArms04,Extra Arms 04,
+,无编号（游戏丢弃）,f0f9d2ab,ExtraArms08,Extra Arms 08,
+,无编号,f1061281,H_D_Suiran1,H D Suiran 1,
+,无编号,f12ae8a7,BearClawRight,Bear Claw Right,
+,无编号,f13d9d6a,H_Dougzandi,H Dougzandi,
+,无编号,f14c881a,H_ThunderStone,H Thunder Stone,
+,无编号,f14caa16,H_ThunderStorm,H Thunder Storm,
+,无编号,f1afcf85,H_GoldTrout,H Gold Trout,
+,无编号,f1b7b101,H_BasithaMap,H Basitha Map,
+,无编号,f1f7ce3e,H_RusticTreats,H Rustic Treats,
+,无编号,f25b4314,BigGold,Big Gold,
+,无编号,f2606e94,Suiran,Suiran,
+,无编号,f2753937,H_AlbineHerring,H Albine Herring,
+,无编号,f27b3ad6,H_ZephyrusShield,H Zephyrus Shield,
+,无编号,f2901a44,H_Suiran1,H Suiran 1,
+,无编号,f2bc7185,MechanicalBody,Mechanical Body,
+,无编号,f2e8b1ec,UgouBow,Ugou Bow,
+,无编号,f2eb0a52,HoneyTreats,Honey Treats,
+,无编号,f333b6d7,H_Melara,H Melara,
+,无编号,f3797cf7,H_SewingTools,H Sewing Tools,
+,无编号,f3891d66,WindBow,Wind Bow,
+,无编号,f38acd85,HitAle,Hit Ale,
+,无编号,f395b315,H_SmallTeff,H Small Teff,
+,无编号,f3dd5219,H_Harness,H Harness,
+,无编号,f3f02a4d,H_KittenFigurine,H Kitten Figurine,
+,无编号,f40c03e8,DesertThings,Desert Things,
+,无编号,f41b561e,ResonateStone,Resonate Stone,
+,无编号,f44e60b9,H_ClaireHammer2,H Claire Hammer 2,
+,无编号,f44e60ba,H_ClaireHammer1,H Claire Hammer 1,
+,无编号,f46764fe,BlackSilk,Black Silk,
+,无编号,f47ed956,YukiTou,Yuki Tou,
+,无编号,f4d9217e,H_Denebatou,H Denebatou,
+,无编号,f4e5651a,H_BlueRose,H Blue Rose,
+,无编号,f4e90953,H_SilverGautlet1,H Silver Gautlet 1,
+,无编号,f5245e45,SolidusMap,Solidus Map,索利达斯地图
+,无编号,f5289279,H_Jamadahar1,H Jamadahar 1,
+,无编号,f562d47d,H_CounterGautlet2,H Counter Gautlet 2,
+,无编号,f562d47e,H_CounterGautlet1,H Counter Gautlet 1,
+,无编号,f566fc2a,H_Dondebok1,H Dondebok 1,
+,无编号,f5b4d24a,StrongIronBox,Strong Iron Box,
+,无编号,f5be995b,H_DefenseAle,H Defense Ale,
+,无编号,f5d98569,H_FuraiJewel,H Furai Jewel,
+,无编号,f5f70bcc,BronzeAxe,Bronze Axe,青铜斧
+,无编号,f5f95e14,BronzeBow,Bronze Bow,青铜弓
+,无编号,f60f4220,D_Ajura,D Ajura,
+,无编号,f617faf4,H_Milanilla,H Milanilla,
+,无编号,f6230b4d,PegasusFriendCharm,Pegasus Friend Charm,
+,无编号,f62b8b41,BlackMaginiusFriendCharm,Black Maginius Friend Charm,
+,无编号,f62d4ca0,Thanatos,Thanatos,达拿托斯之光
+,无编号,f66afc49,H_Recover,H Recover,
+,无编号,f68638ab,H_GauntletAmulet,H Gauntlet Amulet,
+,无编号,f691b84e,GladiusSword,Gladius Sword,
+,无编号,f6c20e66,BlackFeather,Black Feather,
+,无编号,f6d26985,H_MeatBox,H Meat Box,
+,无编号,f703d2a9,H_Boomerang2,H Boomerang 2,
+,无编号,f703d2aa,H_Boomerang1,H Boomerang 1,
+,无编号,f7501f10,ElectraMap,Electra Map,
+,无编号,f7a95f60,PoetsMonument,Poets Monument,
+,无编号,f7aed197,PursuitJewel,Pursuit Jewel,
+,无编号,f7fff7e0,H_IchiFruit,H Ichi Fruit,
+,无编号,f8020013,H_ImitationEmblem,H Imitation Emblem,
+,无编号,f804dd62,H_Fimbul,H Fimbul,
+,无编号,f81bece0,H_TortatesPike,H Tortates Pike,
+,无编号,f8625bff,Zange,Zang,赞格
+,无编号,f8fd8f0f,NizaGarm,Niza Garm,
+,无编号,f92d19a2,H_DaminaBox,H Damina Box,
+,无编号,f94e62a9,GiantRing,Giant Ring,
+,无编号,f95e892d,LizardMeat,Lizard Meat,
+,无编号,f98ac67a,H_WolfMeat,H Wolf Meat,
+,无编号,f9b8d2fd,FishingRod,Fishing Rod,
+,无编号,f9c8927c,H_Excalibur,H Excalibur,
+,无编号,f9dca44c,H_MonasticTalisman,H Monastic Talisman,
+,无编号,f9fac643,H_Cinnamos,H Cinnamos,
+,无编号,fa278498,H_FemaleKnight,H Female Knight,
+,无编号,fa806bb2,D_Fragarach,D Fragarach,
+,无编号,faae4f47,DagdaElephantFriendCharm,Dagda Elephant Friend Charm,
+,无编号,fb245887,H_DemonTsuba,H Demon Tsuba,
+,无编号,fba3f6bc,DanteCollection,Dante Collection,
+,无编号,fbab1896,H_JuneauShield,H Juneau Shield,
+,无编号,fbfc5655,GoddessStatue,Goddess Statue,
+,无编号,fc162689,H_PowerDrop,H Power Drop,
+,无编号,fc20a4c3,SandwormsMeat,Sandworms Meat,
+,无编号,fc3d8221,IceBlade,Ice Blade,冰刃
+,无编号,fc95d382,ArtSupplies,Art Supplies,
+,无编号,fccc81f6,TeaTree,Tea Tree,茶树
+,无编号,fd28b0fc,Uranite,Uranite,
+,无编号,fd74637e,Torch,Torch,火炬
+,无编号,fe643298,D_SevenStartsCore,D Seven Starts Core,
+,无编号,fecb255d,CriticalRing,Critical Ring,
+,无编号,ff262253,H_AmidGoby,H Amid Goby,
+,无编号,ff26cd61,H_WaterMagic,H Water Magic,
+,无编号,ff8f882a,H_GreatMeatBox,H Great Meat Box,
+,无编号,ff9a82e1,LuckAle,Luck Ale,
+,无编号,ffd8493e,BalorCounter,Balor Counter,
+,无编号,ffe4763c,H_RapidDissolution,H Rapid Dissolution,
+,无编号,fff25b11,SummonBranch,Summon Branch,
